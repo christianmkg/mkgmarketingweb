@@ -10,8 +10,10 @@ permalink: /
     <div class="row">
       <div class="col-md-10 col-md-offset-2">
         <div class="block">
-          <h1 class="animated fadeInUp">A DIGITAL MARKETING &#38; <br> DESIGN AGENCY</h1>
-          <p class="animated fadeInUp">We love the Web and the work we do.We work closely with our </br> clients to deliver the best possible solutions for their needs</p>
+          <h1 class="animated fadeInUp">Enterprise online marketing <br> vendor specializing in lead generation and ecommerce.</h1>
+          <p class="animated fadeInUp">Partner with an elite group with more than 50+ years of collective experience.
+          <br><a href="/contact.html">Request an audit</a></p>
+
         </div>
       </div>
     </div>
