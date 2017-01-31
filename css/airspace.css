@@ -73,6 +73,10 @@ header .navbar {
   border: 0px;
 }
 
+header .navbar-brand {
+    height: 30px;
+    padding: 0;}
+
 header .navbar-brand img{
   width: 10%
 }
@@ -260,7 +264,7 @@ header .navbar-default .navbar-nav li a:hover {
   margin-bottom: 20px;
 }
 #feature .btn-view-works {
-  background: #655E7A;
+  background: #ff6600;
   color: #fff;
   padding: 10px 20px;
 }
@@ -805,3 +809,12 @@ footer .footer-manu ul li a:hover {
 }
 
 -- mkg
+
+#slider a:active,
+#slider a:hover {
+  color: #fff;
+}
+
+.testimonial-carousel .user img {
+  width: 20%;
+}
