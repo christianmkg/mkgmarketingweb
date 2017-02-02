@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Airspace
+title: Digital Marketing Agency | MKG Marketing Inc.
+meta: MKG Marketing Inc is a digital marketing agency focused on SEM and Social Advertising.
 permalink: /
 ---
 
@@ -115,7 +116,7 @@ permalink: /
     <div class="row">
       <div class="section-title text-center">
         <h2>Fun Facts About Us</h2>
-        <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics</p>
+        <p>From performance of our campaigns to the success of our agency.</p>
       </div>
     </div>
     <div class="row">
@@ -124,30 +125,30 @@ permalink: /
           <ul class="counter-box clearfix">
             <li>
               <div class="block">
-                <i class="ion-ios-chatboxes-outline"></i>
-                <h4 class="counter">20000</h4>
-                <span>Cups Of Coffee</span>
+                <i class="ion-ios-glasses-outline"></i>
+                <h4 class="counter">160000000</h4>
+                <span>Impressions</span>
               </div>
             </li>
             <li>
               <div class="block">
-                <i class="ion-ios-glasses-outline"></i>
-                <h4 class="counter">20000</h4>
-                <span>Cups Of Coffee</span>
+                <i class="ion-ios-chatboxes-outline"></i>
+                <h4 class="counter">31300</h4>
+                <span>Paid Search Conversions</span>
               </div>
             </li>
             <li>
               <div class="block">
                 <i class="ion-ios-compose-outline"></i>
-                <h4 class="counter">20000</h4>
-                <span>Cups Of Coffee</span>
+                <h4><span class="counter">80</span>%</h4>
+                <span>Employee Retention</span>
               </div>
             </li>
             <li>
               <div class="block">
                 <i class="ion-ios-timer-outline"></i>
-                <h4 class="counter">20000</h4>
-                <span>Cups Of Coffee</span>
+                <h4 class="counter">50</h4>
+                <span>Years of collective experience</span>
               </div>
             </li>
 
