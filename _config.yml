@@ -15,7 +15,8 @@ keep_files:
 
 # Site settings
 title: MKG Marketing Inc.
-subtitle: "Digital Marketing Agency for technology enterprises."
+meta: "Digital Marketing Agency for technology enterprises."
+
 # Base URL of site. It should always start with a slash,
 # and never end with a slash. Set it to a blank value if hosting at the
 # root of your server.
