@@ -353,6 +353,10 @@ header .navbar-default .navbar-nav li a:hover {
 #clients-logo-section .clients-logo-img {
   padding: 0px 50px;
 }
+
+#clients-logo-section .clients-logo-img  img {
+  width: 100%
+}
 /*---------------------------------------------
 					Work Start
 -----------------------------------------------*/
