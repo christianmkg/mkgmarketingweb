@@ -346,15 +346,18 @@ header .navbar-default .navbar-nav li a:hover {
 /*--
 	features Start
 --*/
-#clients-logo-section {
+#clients-logo-section,
+#certification-logo-section {
   padding-top: 30px;
   padding-bottom: 75px;
 }
-#clients-logo-section .clients-logo-img {
+#clients-logo-section .clients-logo-img,
+#certification-logo-section .clients-logo-img {
   padding: 0px 50px;
 }
 
-#clients-logo-section .clients-logo-img  img {
+#clients-logo-section .clients-logo-img  img,
+#certification-logo-section .clients-logo-img img {
   width: 100%
 }
 /*---------------------------------------------
@@ -409,6 +412,7 @@ header .navbar-default .navbar-nav li a:hover {
 #portfolio-work {
   overflow: hidden;
   padding: 80px 0;
+  text-align: center;
 }
 #portfolio-work .block .portfolio-menu {
   padding-bottom: 30px;
@@ -823,3 +827,9 @@ footer .footer-manu ul li a:hover {
 .testimonial-carousel .user img {
   width: 20%;
 }
+
+#feature.people {
+  background-image: url(../img/featue-people-bg.jpg);
+}
+
+#feature.people::after {opacity: .5}
