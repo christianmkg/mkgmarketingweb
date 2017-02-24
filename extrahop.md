@@ -2,7 +2,7 @@
 layout: individual
 title: ExtraHop Case Study
 meta:
-permalink: /pride/extrahop/
+permalink: /about/extrahop/
 img: extrahop-hero
 ---
 

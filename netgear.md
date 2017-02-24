@@ -2,7 +2,7 @@
 layout: individual
 title: Netgear Case Study
 meta:
-permalink: /pride/netgear/
+permalink: /about/netgear/
 img: netgear-hero
 ---
 

@@ -2,7 +2,7 @@
 layout: individual
 title: Basis Independent Case Study
 meta:
-permalink: /pride/basis/
+permalink: /about/basis/
 img: basis-hero
 ---
 

@@ -2,7 +2,7 @@
 layout: individual
 title: VMware vCloud Air Case Study
 meta:
-permalink: /pride/vmware-vcloud-air/
+permalink: /about/vmware-vcloud-air/
 img: vmware-vcloud-air-hero
 ---
 
