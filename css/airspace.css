@@ -851,6 +851,8 @@ footer .footer-manu ul li a:hover {
   opacity: 0.8;
 }
 
-#feature.extrahop-casestudy h2 {color: #8d8f92}
+#feature.extrahop-casestudy h2 {color: #8d8f92;}
 #feature.netgear-casestudy h2, #feature.netgear-casestudy p,
 #feature.vmware-vcloud-air-casestudy h2,  #feature.vmware-vcloud-air-casestudy p {color: #fff;}
+
+#portfolio-work.people {text-align: center;}

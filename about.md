@@ -97,7 +97,7 @@ permalink: /about/
         <h2>People</h2>
         <p>Scrum or Agile, is a disciplined project management process that encourages frequent inspection and adaptation, and strong leadership.</p>
         <p>We weekly sprint plan, and daily stand-up to know what everyone is working on and uncover any impediments, then we get out of each other’s way and get work done.</p>
-        <a href="/mkg-difference" class="btn btn-view-works">Meet the team</a>
+        <a href="/people/" class="btn btn-view-works">Meet the team</a>
       </div>
     </div>
   </div>

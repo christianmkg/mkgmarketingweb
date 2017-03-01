@@ -49,7 +49,7 @@ permalink: /
         <p>We are a SCRUM based organization. We even have a certified SCRUM master! </p>
         <p>Scrum or Agile, is a disciplined project management process that encourages frequent inspection and adaptation, and strong leadership.</p>
         <p>We weekly sprint plan, and daily stand-up to know what everyone is working on and uncover any impediments, then we get out of each other’s way and get work done.</p>
-        <a href="/mkg-difference" class="btn btn-view-works">View Works</a>
+        <a href="/mkg-difference" class="btn btn-view-works">See What Makes Us Different</a>
       </div>
     </div>
   </div>
@@ -104,7 +104,7 @@ permalink: /
         <div class="block">
           <h2>Overly qualified and certified</h2>
           <p>In 2016, Google honored our Paid Search team’s hard work by inviting us to be a Premiere Partner - only 5% of agencies using Adwords were invited. This means we have 24/7 Google Adwords support. </p>
-          <a class="btn btn-default btn-call-to-action" href="#" >See all certifications</a>
+          <a class="btn btn-default btn-call-to-action" href="/about/">See all certifications</a>
         </div>
       </div>
     </div>
