@@ -11,7 +11,7 @@ permalink: /
     <div class="row">
       <div class="col-md-10 col-md-offset-2">
         <div class="block">
-          <h1 class="animated fadeInUp">Digital marketing agency<br>with an Ogilvy state of mind.</h1>
+          <h1 class="animated fadeInUp"> Big Agency thinking without<br>the Big Agency overhead.</h1>
           <blockquote class="animated fadeInUp">Never stop testing, and your advertising will never stop improving.<br><cite>David Ogilvy</cite></blockquote>
           <p class="animated fadeInUp"><a href="/contact">Contact us today</a></p>
         </div>
