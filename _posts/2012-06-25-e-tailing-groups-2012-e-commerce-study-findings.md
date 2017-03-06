@@ -1,9 +1,9 @@
 ---
 ID: 1354
-post_title: 'E-Tailing Group&#8217;s 2012 E-Commerce Study Findings'
+title: 'E-Tailing Group&#8217;s 2012 E-Commerce Study Findings'
 author: Kerry Guard
-post_date: 2012-06-25 11:58:57
-post_excerpt: ""
+date: 2012-06-25 11:58:57
+
 layout: post
 permalink: >
   /e-tailing-groups-2012-e-commerce-study-findings/

@@ -1,11 +1,11 @@
 ---
 ID: 695
-post_title: >
+title: >
   What Hilary Rosen Can Teach Us About
   Focusing Your Mobile Ad Campaign
 author: Kerry Guard
-post_date: 2012-04-13 11:06:37
-post_excerpt: ""
+date: 2012-04-13 11:06:37
+
 layout: post
 permalink: >
   /what-hilary-rosen-can-teach-us-about-focusing-your-mobile-ad-campaign/

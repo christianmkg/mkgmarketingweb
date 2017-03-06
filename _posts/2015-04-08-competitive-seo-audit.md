@@ -1,11 +1,11 @@
 ---
 ID: 5372
-post_title: >
+title: >
   How to Perform a Competitive SEO Audit
   for Executives
 author: Mike Krass
-post_date: 2015-04-08 06:28:31
-post_excerpt: ""
+date: 2015-04-08 06:28:31
+
 layout: post
 permalink: >
   /competitive-seo-audit/

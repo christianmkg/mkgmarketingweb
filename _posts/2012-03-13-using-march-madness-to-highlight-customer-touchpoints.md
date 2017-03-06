@@ -1,11 +1,11 @@
 ---
 ID: 797
-post_title: >
+title: >
   Using March Madness to Highlight
   Customer Touchpoints
 author: Kerry Guard
-post_date: 2012-03-13 07:43:41
-post_excerpt: ""
+date: 2012-03-13 07:43:41
+
 layout: post
 permalink: >
   /using-march-madness-to-highlight-customer-touchpoints/

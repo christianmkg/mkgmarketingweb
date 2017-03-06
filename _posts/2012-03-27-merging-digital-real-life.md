@@ -1,9 +1,9 @@
 ---
 ID: 888
-post_title: 'Merging Digital &#038; Real Life'
+title: 'Merging Digital &#038; Real Life'
 author: Kerry Guard
-post_date: 2012-03-27 08:38:41
-post_excerpt: ""
+date: 2012-03-27 08:38:41
+
 layout: post
 permalink: >
   /merging-digital-real-life/

@@ -1,9 +1,9 @@
 ---
 ID: 5561
-post_title: 'Subdomain SEO Case Study: Getting the most SEO out of a suboptimal situation'
+title: 'Subdomain SEO Case Study: Getting the most SEO out of a suboptimal situation'
 author: Christian Bullock
-post_date: 2015-07-06 08:23:06
-post_excerpt: ""
+date: 2015-07-06 08:23:06
+
 layout: post
 permalink: >
   /subdomain-seo-case-study/

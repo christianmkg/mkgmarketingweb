@@ -1,9 +1,9 @@
 ---
 ID: 5917
-post_title: 'GOOGLE ADWORDS BETA: Bluetooth Low-Energy Beacons (BLE)'
+title: 'GOOGLE ADWORDS BETA: Bluetooth Low-Energy Beacons (BLE)'
 author: Mike Krass
-post_date: 2016-08-01 07:02:31
-post_excerpt: ""
+date: 2016-08-01 07:02:31
+
 layout: post
 permalink: >
   /google-beacon-project/

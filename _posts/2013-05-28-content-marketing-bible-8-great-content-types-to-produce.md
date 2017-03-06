@@ -1,9 +1,9 @@
 ---
 ID: 2682
-post_title: 'Content Marketing Bible: 8 Great Content Types to Produce'
+title: 'Content Marketing Bible: 8 Great Content Types to Produce'
 author: Kerry Guard
-post_date: 2013-05-28 06:10:56
-post_excerpt: ""
+date: 2013-05-28 06:10:56
+
 layout: post
 permalink: >
   /content-marketing-bible-8-great-content-types-to-produce/

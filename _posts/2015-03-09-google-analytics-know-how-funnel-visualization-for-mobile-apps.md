@@ -1,9 +1,9 @@
 ---
 ID: 5224
-post_title: 'Google Analytics Know How: Funnel Visualization for Mobile Apps'
+title: 'Google Analytics Know How: Funnel Visualization for Mobile Apps'
 author: Mike Krass
-post_date: 2015-03-09 06:28:04
-post_excerpt: ""
+date: 2015-03-09 06:28:04
+
 layout: post
 permalink: >
   /google-analytics-know-how-funnel-visualization-for-mobile-apps/

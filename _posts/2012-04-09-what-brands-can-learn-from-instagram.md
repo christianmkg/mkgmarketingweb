@@ -1,9 +1,9 @@
 ---
 ID: 1030
-post_title: What Brands Can Learn from Instagram
+title: What Brands Can Learn from Instagram
 author: Kerry Guard
-post_date: 2012-04-09 20:41:27
-post_excerpt: ""
+date: 2012-04-09 20:41:27
+
 layout: post
 permalink: >
   /what-brands-can-learn-from-instagram/

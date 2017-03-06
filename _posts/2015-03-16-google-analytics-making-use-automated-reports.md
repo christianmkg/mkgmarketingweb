@@ -1,9 +1,9 @@
 ---
 ID: 5233
-post_title: 'Google Analytics: Making Use of Automated Reports'
+title: 'Google Analytics: Making Use of Automated Reports'
 author: Mike Krass
-post_date: 2015-03-16 07:03:23
-post_excerpt: ""
+date: 2015-03-16 07:03:23
+
 layout: post
 permalink: >
   /google-analytics-making-use-automated-reports/

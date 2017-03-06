@@ -1,11 +1,11 @@
 ---
 ID: 3945
-post_title: >
+title: >
   4 Reasons Video is Critical for Every
   Search Engine Optimization Strategy
 author: Kerry Guard
-post_date: 2013-11-01 13:33:13
-post_excerpt: ""
+date: 2013-11-01 13:33:13
+
 layout: post
 permalink: >
   /4-reasons-video-is-critical-for-every-search-engine-optimization-strategy/

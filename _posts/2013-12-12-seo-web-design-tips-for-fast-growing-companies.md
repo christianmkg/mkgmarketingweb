@@ -1,9 +1,9 @@
 ---
 ID: 3961
-post_title: 'SEO &#038; Web Design Tips for Fast Growing Companies'
+title: 'SEO &#038; Web Design Tips for Fast Growing Companies'
 author: Kerry Guard
-post_date: 2013-12-12 17:07:37
-post_excerpt: ""
+date: 2013-12-12 17:07:37
+
 layout: post
 permalink: >
   /seo-web-design-tips-for-fast-growing-companies/

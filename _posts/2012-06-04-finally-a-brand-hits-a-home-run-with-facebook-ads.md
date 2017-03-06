@@ -1,11 +1,11 @@
 ---
 ID: 1323
-post_title: >
+title: >
   Finally, a Brand Hits a Home Run with
   Facebook Ads
 author: Kerry Guard
-post_date: 2012-06-04 12:59:35
-post_excerpt: ""
+date: 2012-06-04 12:59:35
+
 layout: post
 permalink: >
   /finally-a-brand-hits-a-home-run-with-facebook-ads/

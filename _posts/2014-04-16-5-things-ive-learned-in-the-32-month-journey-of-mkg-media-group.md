@@ -1,9 +1,9 @@
 ---
 ID: 4387
-post_title: '5 Things I&#8217;ve Learned in the 32 Month Journey of MKG Media Group'
+title: '5 Things I&#8217;ve Learned in the 32 Month Journey of MKG Media Group'
 author: Kerry Guard
-post_date: 2014-04-16 10:21:02
-post_excerpt: ""
+date: 2014-04-16 10:21:02
+
 layout: post
 permalink: >
   /5-things-ive-learned-in-the-32-month-journey-of-mkg-media-group/

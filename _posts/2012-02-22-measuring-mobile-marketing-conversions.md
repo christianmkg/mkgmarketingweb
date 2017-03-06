@@ -1,35 +1,8 @@
 ---
-ID: 671
-post_title: Measuring Mobile Marketing Conversions
+title: Measuring Mobile Marketing Conversions
 author: Kerry Guard
-post_date: 2012-02-22 09:18:04
-post_excerpt: ""
+date: 2012-02-22 09:18:04
 layout: post
-permalink: >
-  /measuring-mobile-marketing-conversions/
-published: true
-image:
-  - >
-    http://mkgmediagroup.com/wp-content/uploads/2012/02/kissmetrics01.png
-  - >
-    http://mkgmediagroup.com/wp-content/uploads/2012/02/kissmetrics01.png
-  - >
-    http://mkgmediagroup.com/wp-content/uploads/2012/02/kissmetrics01.png
-  - >
-    http://mkgmediagroup.com/wp-content/uploads/2012/02/kissmetrics01.png
-  - >
-    http://mkgmediagroup.com/wp-content/uploads/2012/02/kissmetrics01.png
-  - >
-    http://mkgmediagroup.com/wp-content/uploads/2012/02/kissmetrics01.png
-seo_follow:
-  - 'true'
-  - 'true'
-  - 'true'
-  - 'true'
-  - 'true'
-  - 'true'
-views:
-  - "86"
 ---
 <h2><em>How the heck do I measure performance of my mobile marketing campaigns?</em></h2>
 Building on yesterdays <em><a href="http://mkgmediagroup.com/three-examples-of-mobile-marketing-genius" target="_blank">3 Examples of Mobile Marketing Genius </a></em>post, the next step would be to share an example of how an agency like ours would measure the effectiveness of mobile marketing conversion events

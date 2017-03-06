@@ -1,11 +1,11 @@
 ---
 ID: 5956
-post_title: >
+title: >
   Why I helped create MKG and still keep
   it going
 author: Kerry Guard
-post_date: 2016-10-10 12:23:59
-post_excerpt: ""
+date: 2016-10-10 12:23:59
+
 layout: post
 permalink: >
   /helped-create-mkg-still-keep-going/

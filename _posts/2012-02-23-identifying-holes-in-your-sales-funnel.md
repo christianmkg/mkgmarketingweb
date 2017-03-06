@@ -1,35 +1,8 @@
 ---
-ID: 681
-post_title: 'Identifying &#8216;Holes&#8217; in Your Sales Funnel'
+title: 'Identifying &#8216;Holes&#8217; in Your Sales Funnel'
 author: Kerry Guard
-post_date: 2012-02-23 09:41:06
-post_excerpt: ""
+date: 2012-02-23 09:41:06
 layout: post
-permalink: >
-  /identifying-holes-in-your-sales-funnel/
-published: true
-image:
-  - >
-    http://mkgmediagroup.com/wp-content/uploads/2012/02/conversion-funnel1.jpeg
-  - >
-    http://mkgmediagroup.com/wp-content/uploads/2012/02/conversion-funnel1.jpeg
-  - >
-    http://mkgmediagroup.com/wp-content/uploads/2012/02/conversion-funnel1.jpeg
-  - >
-    http://mkgmediagroup.com/wp-content/uploads/2012/02/conversion-funnel1.jpeg
-  - >
-    http://mkgmediagroup.com/wp-content/uploads/2012/02/conversion-funnel1.jpeg
-  - >
-    http://mkgmediagroup.com/wp-content/uploads/2012/02/conversion-funnel1.jpeg
-seo_follow:
-  - 'true'
-  - 'true'
-  - 'true'
-  - 'true'
-  - 'true'
-  - 'true'
-views:
-  - "68"
 ---
 <img class="alignleft size-medium wp-image-682" title="conversion-funnel" src="http://mkgmediagroup.com/wp-content/uploads/2012/02/conversion-funnel-300x125.jpg" alt="" width="300" height="125" />
 

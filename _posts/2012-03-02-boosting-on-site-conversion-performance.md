@@ -1,35 +1,8 @@
 ---
-ID: 693
-post_title: Boosting On Site Conversion Performance
+title: Boosting On Site Conversion Performance
 author: Kerry Guard
-post_date: 2012-03-02 10:02:43
-post_excerpt: ""
+date: 2012-03-02 10:02:43
 layout: post
-permalink: >
-  /boosting-on-site-conversion-performance/
-published: true
-image:
-  - >
-    http://mkgmediagroup.com/wp-content/uploads/2012/03/buynowbanana.png
-  - >
-    http://mkgmediagroup.com/wp-content/uploads/2012/03/buynowbanana.png
-  - >
-    http://mkgmediagroup.com/wp-content/uploads/2012/03/buynowbanana.png
-  - >
-    http://mkgmediagroup.com/wp-content/uploads/2012/03/buynowbanana.png
-  - >
-    http://mkgmediagroup.com/wp-content/uploads/2012/03/buynowbanana.png
-  - >
-    http://mkgmediagroup.com/wp-content/uploads/2012/03/buynowbanana.png
-seo_follow:
-  - 'true'
-  - 'true'
-  - 'true'
-  - 'true'
-  - 'true'
-  - 'true'
-views:
-  - "88"
 ---
 <img class="alignleft size-medium wp-image-741" title="buy-now-coupon" src="http://mkgmediagroup.com/wp-content/uploads/2012/03/buy-now-coupon1-300x300.jpg" alt="" width="300" height="300" />Recently, I spoke to a channel marketer who mentioned her company was having issues converting people with their online marketing efforts.
 <h3><em>So, I asked her: What is the flow, or path, to conversion for this program?</em></h3>

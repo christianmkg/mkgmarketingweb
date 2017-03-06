@@ -1,9 +1,9 @@
 ---
 ID: 1164
-post_title: The NFL Draft of Advertising
+title: The NFL Draft of Advertising
 author: Kerry Guard
-post_date: 2012-04-26 10:13:16
-post_excerpt: ""
+date: 2012-04-26 10:13:16
+
 layout: post
 permalink: >
   /the-nfl-draft-of-advertising/

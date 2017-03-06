@@ -1,35 +1,8 @@
 ---
-ID: 770
-post_title: Three Media Channels that Nurture Leads
+title: Three Media Channels that Nurture Leads
 author: Kerry Guard
-post_date: 2012-03-08 10:16:05
-post_excerpt: ""
+date: 2012-03-08 10:16:05
 layout: post
-permalink: >
-  /three-media-channels-that-nurture-leads/
-published: true
-image:
-  - >
-    http://mkgmediagroup.com/wp-content/uploads/2012/03/Finish-line.jpeg
-  - >
-    http://mkgmediagroup.com/wp-content/uploads/2012/03/Finish-line.jpeg
-  - >
-    http://mkgmediagroup.com/wp-content/uploads/2012/03/Finish-line.jpeg
-  - >
-    http://mkgmediagroup.com/wp-content/uploads/2012/03/Finish-line.jpeg
-  - >
-    http://mkgmediagroup.com/wp-content/uploads/2012/03/Finish-line.jpeg
-  - >
-    http://mkgmediagroup.com/wp-content/uploads/2012/03/Finish-line.jpeg
-seo_follow:
-  - 'true'
-  - 'true'
-  - 'true'
-  - 'true'
-  - 'true'
-  - 'true'
-views:
-  - "65"
 ---
 <img class="alignleft  wp-image-773" title="prospecting-leads" src="http://mkgmediagroup.com/wp-content/uploads/2012/03/prospecting-leads-pic-300x300.jpg" alt="email SMS marketing search retargeting" width="210" height="210" />There are a million and one ways to generate awareness or create buzz around your brand.
 <h2><em>But how can media agencies nurture bottom of the funnel leads?</em></h2>

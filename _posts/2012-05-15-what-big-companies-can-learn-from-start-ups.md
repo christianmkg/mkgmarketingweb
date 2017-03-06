@@ -1,11 +1,11 @@
 ---
 ID: 1265
-post_title: >
+title: >
   What Big Companies Can Learn From Start
   Ups
 author: Kerry Guard
-post_date: 2012-05-15 09:56:57
-post_excerpt: ""
+date: 2012-05-15 09:56:57
+
 layout: post
 permalink: >
   /what-big-companies-can-learn-from-start-ups/

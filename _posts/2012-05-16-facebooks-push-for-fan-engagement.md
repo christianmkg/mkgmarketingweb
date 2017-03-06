@@ -1,9 +1,9 @@
 ---
 ID: 1273
-post_title: 'Facebook&#8217;s Push for Fan Engagement'
+title: 'Facebook&#8217;s Push for Fan Engagement'
 author: Kerry Guard
-post_date: 2012-05-16 10:36:01
-post_excerpt: ""
+date: 2012-05-16 10:36:01
+
 layout: post
 permalink: >
   /facebooks-push-for-fan-engagement/

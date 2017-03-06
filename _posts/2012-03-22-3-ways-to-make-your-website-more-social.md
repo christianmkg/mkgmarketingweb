@@ -1,9 +1,9 @@
 ---
 ID: 912
-post_title: 3 Ways to Make Your Website More Social
+title: 3 Ways to Make Your Website More Social
 author: Kerry Guard
-post_date: 2012-03-22 10:13:33
-post_excerpt: ""
+date: 2012-03-22 10:13:33
+
 layout: post
 permalink: >
   /3-ways-to-make-your-website-more-social/

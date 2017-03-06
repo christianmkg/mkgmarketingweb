@@ -1,9 +1,9 @@
 ---
 ID: 6025
-post_title: 'Media Predictions for 2017: Transparency and Trust'
+title: 'Media Predictions for 2017: Transparency and Trust'
 author: Mike Krass
-post_date: 2017-02-02 07:18:12
-post_excerpt: ""
+date: 2017-02-02 07:18:12
+
 layout: post
 permalink: >
   /media-transparency-predictions-for-2017/

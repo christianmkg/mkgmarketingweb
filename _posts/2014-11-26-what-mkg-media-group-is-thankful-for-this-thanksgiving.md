@@ -1,11 +1,11 @@
 ---
 ID: 4968
-post_title: >
+title: >
   What MKG Media Group is Thankful For
   This Thanksgiving
 author: Adam Bullock
-post_date: 2014-11-26 10:37:13
-post_excerpt: ""
+date: 2014-11-26 10:37:13
+
 layout: post
 permalink: >
   /what-mkg-media-group-is-thankful-for-this-thanksgiving/

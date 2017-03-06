@@ -1,9 +1,9 @@
 ---
 ID: 2680
-post_title: 'The MKG Media Group Content Marketing Bible: A Six Part Series'
+title: 'The MKG Media Group Content Marketing Bible: A Six Part Series'
 author: Kerry Guard
-post_date: 2013-05-14 12:38:10
-post_excerpt: ""
+date: 2013-05-14 12:38:10
+
 layout: post
 permalink: >
   /the-mkg-media-group-content-marketing-bible-a-six-part-series/

@@ -1,17 +1,8 @@
 ---
-ID: 3349
-post_title: >
-  The SOPA Anti Piracy Bill Effect on Ad
-  Verification Tools
+title: The SOPA Anti Piracy Bill Effect on Ad Verification Tools
 author: Kerry Guard
-post_date: 2011-12-13 08:37:00
-post_excerpt: ""
+date: 2011-12-13 08:37:00
 layout: post
-permalink: >
-  /the-sopa-anti-piracy-bill-effect-on-ad-verification-tools/
-published: true
-views:
-  - "68"
 ---
 <h2><em>â€œDraconian.â€ â€¦ â€œCensorship.â€ â€¦ â€œUn-American.â€</em></h2>
 These are a small sampling of the adjectives that the likes ofÂ <a href="http://techcrunch.com/2011/11/15/eric-schmidt-doubles-down-on-sopa-bill-describing-it-as-censorship-draconian/" target="_blank">Googleâ€™s Eric Schmidt,Â </a><a href="http://news.cnet.com/8301-31921_3-57325134-281/google-facebook-zynga-oppose-new-sopa-copyright-bill/" target="_blank">Facebook representatives</a>Â and social gaming powerhouse<a href="http://mashable.com/2011/11/15/sopa-facebook-google/" target="_blank">Â Zynga</a>Â have used to describe the SOPA anti-piracy bill that will be voted on in congress tomorrow.

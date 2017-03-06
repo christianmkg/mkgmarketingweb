@@ -1,9 +1,9 @@
 ---
 ID: 3984
-post_title: 2013 in Review for MKG Media Group
+title: 2013 in Review for MKG Media Group
 author: Kerry Guard
-post_date: 2013-12-23 09:06:48
-post_excerpt: ""
+date: 2013-12-23 09:06:48
+
 layout: post
 permalink: >
   /2013-in-review-for-mkg-media-group/

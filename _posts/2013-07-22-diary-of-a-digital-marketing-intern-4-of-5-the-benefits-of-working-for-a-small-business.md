@@ -1,9 +1,9 @@
 ---
 ID: 3723
-post_title: 'Diary of a Digital Marketing Intern (Part 4 of 5): The Benefits of Working for a Small Business'
+title: 'Diary of a Digital Marketing Intern (Part 4 of 5): The Benefits of Working for a Small Business'
 author: JaminDaily
-post_date: 2013-07-22 10:44:31
-post_excerpt: ""
+date: 2013-07-22 10:44:31
+
 layout: post
 permalink: >
   /diary-of-a-digital-marketing-intern-4-of-5-the-benefits-of-working-for-a-small-business/

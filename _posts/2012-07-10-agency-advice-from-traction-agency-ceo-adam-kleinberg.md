@@ -1,11 +1,11 @@
 ---
 ID: 1377
-post_title: >
+title: >
   Agency Advice from Traction CEO Adam
   Kleinberg
 author: Kerry Guard
-post_date: 2012-07-10 14:22:00
-post_excerpt: ""
+date: 2012-07-10 14:22:00
+
 layout: post
 permalink: >
   /agency-advice-from-traction-agency-ceo-adam-kleinberg/

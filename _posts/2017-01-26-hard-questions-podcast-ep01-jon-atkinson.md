@@ -1,9 +1,9 @@
 ---
 ID: 6018
-post_title: 'Hard Questions Podcast: ep01 with Jon Atkinson'
+title: 'Hard Questions Podcast: ep01 with Jon Atkinson'
 author: Mike Krass
-post_date: 2017-01-26 08:23:46
-post_excerpt: ""
+date: 2017-01-26 08:23:46
+
 layout: post
 permalink: >
   /hard-questions-podcast-ep01-jon-atkinson/

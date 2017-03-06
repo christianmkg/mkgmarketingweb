@@ -1,9 +1,9 @@
 ---
 ID: 5848
-post_title: 'MKG: a Google Premier Agency Partner in 2016'
+title: 'MKG: a Google Premier Agency Partner in 2016'
 author: Mike Krass
-post_date: 2016-06-27 07:06:36
-post_excerpt: ""
+date: 2016-06-27 07:06:36
+
 layout: post
 permalink: >
   /mkg-google-premier-agency-partner/

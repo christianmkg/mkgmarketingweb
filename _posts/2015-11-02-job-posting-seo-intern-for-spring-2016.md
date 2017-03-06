@@ -1,9 +1,9 @@
 ---
 ID: 5655
-post_title: 'Job Posting: SEO Intern for Spring 2016'
+title: 'Job Posting: SEO Intern for Spring 2016'
 author: Mike Krass
-post_date: 2015-11-02 11:53:16
-post_excerpt: ""
+date: 2015-11-02 11:53:16
+
 layout: post
 permalink: >
   /job-posting-seo-intern-for-spring-2016/

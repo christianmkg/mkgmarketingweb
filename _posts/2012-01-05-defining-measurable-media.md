@@ -1,36 +1,8 @@
 ---
-ID: 3353
-post_title: Defining Measurable Media
+title: Defining Measurable Media
 author: KerryGuard
-post_date: 2012-01-05 14:59:55
-post_excerpt: ""
+date: 2012-01-05 14:59:55
 layout: post
-permalink: >
-  /defining-measurable-media/
-published: true
-slider_style:
-  - default
-  - default
-  - default
-  - default
-  - default
-  - default
-image:
-  - ""
-  - ""
-  - ""
-  - ""
-  - ""
-  - ""
-seo_follow:
-  - 'false'
-  - 'false'
-  - 'false'
-  - 'false'
-  - 'false'
-  - 'false'
-views:
-  - "57"
 ---
 <img class="size-medium wp-image-289 alignright" title="measure3_2" src="http://mkgmediagroup.com/wp-content/uploads/2012/01/measure3_21-300x199.jpg" alt="" width="300" height="199" />
 

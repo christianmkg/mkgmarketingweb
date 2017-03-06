@@ -1,9 +1,9 @@
 ---
 ID: 3361
-post_title: The Anatomy of a Great Tweet
+title: The Anatomy of a Great Tweet
 author: JaminDaily
-post_date: 2013-06-12 09:16:10
-post_excerpt: ""
+date: 2013-06-12 09:16:10
+
 layout: post
 permalink: >
   /the-anatomy-of-a-great-tweet/

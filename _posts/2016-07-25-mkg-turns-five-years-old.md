@@ -1,9 +1,9 @@
 ---
 ID: 5902
-post_title: MKG Turns FIVE Years Old Today
+title: MKG Turns FIVE Years Old Today
 author: Mike Krass
-post_date: 2016-07-25 06:29:20
-post_excerpt: ""
+date: 2016-07-25 06:29:20
+
 layout: post
 permalink: >
   /mkg-turns-five-years-old/

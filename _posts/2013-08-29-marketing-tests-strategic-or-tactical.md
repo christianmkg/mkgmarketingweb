@@ -1,9 +1,9 @@
 ---
 ID: 3479
-post_title: 'Marketing Tests: Strategic or Tactical?'
+title: 'Marketing Tests: Strategic or Tactical?'
 author: Kerry Guard
-post_date: 2013-08-29 14:04:45
-post_excerpt: ""
+date: 2013-08-29 14:04:45
+
 layout: post
 permalink: >
   /marketing-tests-strategic-or-tactical/

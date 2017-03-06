@@ -1,11 +1,11 @@
 ---
 ID: 5090
-post_title: >
+title: >
   How to Be a Good Influencer in Six
   Simple Steps
 author: JennaForstrom
-post_date: 2015-01-22 07:00:12
-post_excerpt: ""
+date: 2015-01-22 07:00:12
+
 layout: post
 permalink: >
   /good-influencer-in-six-simple-steps/

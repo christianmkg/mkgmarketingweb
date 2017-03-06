@@ -1,9 +1,9 @@
 ---
 ID: 947
-post_title: How Useful is Dynamic Media Pricing
+title: How Useful is Dynamic Media Pricing
 author: Kerry Guard
-post_date: 2012-03-29 00:53:43
-post_excerpt: ""
+date: 2012-03-29 00:53:43
+
 layout: post
 permalink: >
   /how-useful-is-dynamic-media-pricing/

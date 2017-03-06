@@ -1,9 +1,9 @@
 ---
 ID: 4237
-post_title: 'SearchFest 2014: Highlights and Disappointments'
+title: 'SearchFest 2014: Highlights and Disappointments'
 author: Kerry Guard
-post_date: 2014-03-03 10:56:45
-post_excerpt: ""
+date: 2014-03-03 10:56:45
+
 layout: post
 permalink: >
   /searchfest-2014-highlights-disappointments/

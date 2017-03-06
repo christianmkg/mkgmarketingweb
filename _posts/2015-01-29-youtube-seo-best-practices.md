@@ -1,9 +1,9 @@
 ---
 ID: 5121
-post_title: 'YouTube SEO Best Practices [Free Download]'
+title: 'YouTube SEO Best Practices [Free Download]'
 author: JennaForstrom
-post_date: 2015-01-29 10:32:21
-post_excerpt: ""
+date: 2015-01-29 10:32:21
+
 layout: post
 permalink: >
   /youtube-seo-best-practices/

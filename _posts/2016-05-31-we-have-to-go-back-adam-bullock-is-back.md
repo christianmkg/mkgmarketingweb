@@ -1,9 +1,9 @@
 ---
 ID: 5786
-post_title: '&#8220;We Have to Go Back!&#8221; &#8211; Adam Bullock is BACK'
+title: '&#8220;We Have to Go Back!&#8221; &#8211; Adam Bullock is BACK'
 author: Adam Bullock
-post_date: 2016-05-31 15:48:58
-post_excerpt: ""
+date: 2016-05-31 15:48:58
+
 layout: post
 permalink: >
   /we-have-to-go-back-adam-bullock-is-back/

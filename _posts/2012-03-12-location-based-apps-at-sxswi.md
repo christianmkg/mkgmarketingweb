@@ -1,37 +1,8 @@
 ---
-ID: 789
-post_title: >
-  Location Based Social Apps Take over
-  SXSW
+title: Location Based Social Apps Take over SXSW
 author: Kerry Guard
-post_date: 2012-03-12 09:58:58
-post_excerpt: ""
+date: 2012-03-12 09:58:58
 layout: post
-permalink: >
-  /location-based-apps-at-sxswi/
-published: true
-image:
-  - >
-    http://mkgmediagroup.com/wp-content/uploads/2012/03/APPS-articleLarge.jpeg
-  - >
-    http://mkgmediagroup.com/wp-content/uploads/2012/03/APPS-articleLarge.jpeg
-  - >
-    http://mkgmediagroup.com/wp-content/uploads/2012/03/APPS-articleLarge.jpeg
-  - >
-    http://mkgmediagroup.com/wp-content/uploads/2012/03/APPS-articleLarge.jpeg
-  - >
-    http://mkgmediagroup.com/wp-content/uploads/2012/03/APPS-articleLarge.jpeg
-  - >
-    http://mkgmediagroup.com/wp-content/uploads/2012/03/APPS-articleLarge.jpeg
-seo_follow:
-  - 'true'
-  - 'true'
-  - 'true'
-  - 'true'
-  - 'true'
-  - 'true'
-views:
-  - "189"
 ---
 <h2><em><img class="alignleft size-medium wp-image-792" title="location based" src="http://mkgmediagroup.com/wp-content/uploads/2012/03/location-based-300x189.png" alt="location based social applications" width="300" height="189" />Highlight. Glancee. Banjo. Sonar.</em></h2>
 These are just a few of the location-based social apps that have taken over Austin, Texas' South by Southwest interactive conference this year.

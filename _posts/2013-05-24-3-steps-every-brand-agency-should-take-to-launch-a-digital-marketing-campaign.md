@@ -1,9 +1,9 @@
 ---
 ID: 2882
-post_title: '3 Steps Every Brand &#038; Agency Should Take to Launch a Digital Marketing Campaign'
+title: '3 Steps Every Brand &#038; Agency Should Take to Launch a Digital Marketing Campaign'
 author: KerryGuard
-post_date: 2013-05-24 09:52:06
-post_excerpt: ""
+date: 2013-05-24 09:52:06
+
 layout: post
 permalink: >
   /3-steps-every-brand-agency-should-take-to-launch-a-digital-marketing-campaign/

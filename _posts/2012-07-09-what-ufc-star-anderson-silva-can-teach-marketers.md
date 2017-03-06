@@ -1,11 +1,11 @@
 ---
 ID: 1370
-post_title: >
+title: >
   What UFC Star Anderson Silva Can Teach
   Marketers
 author: Kerry Guard
-post_date: 2012-07-09 15:12:07
-post_excerpt: ""
+date: 2012-07-09 15:12:07
+
 layout: post
 permalink: >
   /what-ufc-star-anderson-silva-can-teach-marketers/

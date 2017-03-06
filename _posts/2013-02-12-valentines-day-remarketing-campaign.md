@@ -1,9 +1,9 @@
 ---
 ID: 2149
-post_title: 'What Valentine&#8217;s Day Can Tell Us About Running a Remarketing Campaign'
+title: 'What Valentine&#8217;s Day Can Tell Us About Running a Remarketing Campaign'
 author: Kerry Guard
-post_date: 2013-02-12 13:06:01
-post_excerpt: ""
+date: 2013-02-12 13:06:01
+
 layout: post
 permalink: >
   /valentines-day-remarketing-campaign/

@@ -1,11 +1,11 @@
 ---
 ID: 1304
-post_title: >
+title: >
   How Traditional Media Outlets are
   Partnering With Social Giants
 author: Kerry Guard
-post_date: 2012-05-23 14:49:07
-post_excerpt: ""
+date: 2012-05-23 14:49:07
+
 layout: post
 permalink: >
   /how-traditional-media-outlets-are-partnering-with-social-giants/

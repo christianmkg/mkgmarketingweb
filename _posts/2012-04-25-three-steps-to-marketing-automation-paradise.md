@@ -1,11 +1,11 @@
 ---
 ID: 1159
-post_title: >
+title: >
   Three Steps to Marketing Automation
   Paradise
 author: Kerry Guard
-post_date: 2012-04-25 14:21:07
-post_excerpt: ""
+date: 2012-04-25 14:21:07
+
 layout: post
 permalink: >
   /three-steps-to-marketing-automation-paradise/

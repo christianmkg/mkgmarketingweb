@@ -1,9 +1,9 @@
 ---
 ID: 2699
-post_title: 'Content Marketing Bible: Creating a Content Marketing Strategy'
+title: 'Content Marketing Bible: Creating a Content Marketing Strategy'
 author: Kerry Guard
-post_date: 2013-05-20 20:11:42
-post_excerpt: ""
+date: 2013-05-20 20:11:42
+
 layout: post
 permalink: >
   /content-marketing-bible-creating-a-content-marketing-strategy/

@@ -1,11 +1,11 @@
 ---
 ID: 1632
-post_title: >
+title: >
   Four Ways to Make a More Engaging
   Website
 author: Kerry Guard
-post_date: 2012-10-08 13:37:22
-post_excerpt: ""
+date: 2012-10-08 13:37:22
+
 layout: post
 permalink: >
   /four-ways-to-make-a-more-engaging-website-for-your-visitors/

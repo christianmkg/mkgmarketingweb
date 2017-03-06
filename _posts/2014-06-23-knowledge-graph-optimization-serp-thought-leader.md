@@ -1,9 +1,9 @@
 ---
 ID: 4652
-post_title: 'Knowledge Graph optimization (or: Be a SERP thought leader)'
+title: 'Knowledge Graph optimization (or: Be a SERP thought leader)'
 author: Kerry Guard
-post_date: 2014-06-23 10:25:57
-post_excerpt: ""
+date: 2014-06-23 10:25:57
+
 layout: post
 permalink: >
   /knowledge-graph-optimization-serp-thought-leader/

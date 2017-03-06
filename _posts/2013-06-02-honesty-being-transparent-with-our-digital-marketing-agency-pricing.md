@@ -1,9 +1,9 @@
 ---
 ID: 3165
-post_title: 'Honesty &#8211; Being Transparent With Our Digital Marketing Agency Pricing'
+title: 'Honesty &#8211; Being Transparent With Our Digital Marketing Agency Pricing'
 author: Kerry Guard
-post_date: 2013-06-02 17:41:39
-post_excerpt: ""
+date: 2013-06-02 17:41:39
+
 layout: post
 permalink: >
   /honesty-being-transparent-with-our-digital-marketing-agency-pricing/

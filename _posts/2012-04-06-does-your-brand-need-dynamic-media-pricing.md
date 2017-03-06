@@ -1,11 +1,11 @@
 ---
 ID: 909
-post_title: >
+title: >
   Does Your Brand Need Dynamic Media
   Pricing?
 author: Kerry Guard
-post_date: 2012-04-06 09:17:18
-post_excerpt: ""
+date: 2012-04-06 09:17:18
+
 layout: post
 permalink: >
   /does-your-brand-need-dynamic-media-pricing/

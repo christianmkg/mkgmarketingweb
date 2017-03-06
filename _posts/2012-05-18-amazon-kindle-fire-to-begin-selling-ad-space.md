@@ -1,11 +1,11 @@
 ---
 ID: 1283
-post_title: >
+title: >
   Amazon Kindle Fire to Begin Selling Ad
   Space
 author: Kerry Guard
-post_date: 2012-05-18 10:55:14
-post_excerpt: ""
+date: 2012-05-18 10:55:14
+
 layout: post
 permalink: >
   /amazon-kindle-fire-to-begin-selling-ad-space/

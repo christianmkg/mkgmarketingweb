@@ -1,37 +1,8 @@
 ---
-ID: 724
-post_title: >
-  The 3 Most Valuable Features of a DMP
-  Platform
+title: The 3 Most Valuable Features of a DMP Platform
 author: Kerry Guard
-post_date: 2012-03-01 09:14:56
-post_excerpt: ""
+date: 2012-03-01 09:14:56
 layout: post
-permalink: >
-  /the-3-most-valuable-features-of-a-dmp-platform/
-published: true
-image:
-  - >
-    http://mkgmediagroup.com/wp-content/uploads/2012/03/globaldata.jpeg
-  - >
-    http://mkgmediagroup.com/wp-content/uploads/2012/03/globaldata.jpeg
-  - >
-    http://mkgmediagroup.com/wp-content/uploads/2012/03/globaldata.jpeg
-  - >
-    http://mkgmediagroup.com/wp-content/uploads/2012/03/globaldata.jpeg
-  - >
-    http://mkgmediagroup.com/wp-content/uploads/2012/03/globaldata.jpeg
-  - >
-    http://mkgmediagroup.com/wp-content/uploads/2012/03/globaldata.jpeg
-seo_follow:
-  - 'true'
-  - 'true'
-  - 'true'
-  - 'true'
-  - 'true'
-  - 'true'
-views:
-  - "109"
 ---
 <img class="alignleft  wp-image-727" title="data_matrix" src="http://mkgmediagroup.com/wp-content/uploads/2012/03/data_matrix-290x300.jpg" alt="big data DMP platforms" width="203" height="210" />As we discussed in yesterdays blog post, <a href="what-is-a-data-management-platform-do-i-need-one" target="_blank">"What is a data management platform and why do I need one"</a>, we wanted to show you a couple useful ways a DMP can bring value to your organization.
 <h2><em>Become the King of Data Mountain</em></h2>

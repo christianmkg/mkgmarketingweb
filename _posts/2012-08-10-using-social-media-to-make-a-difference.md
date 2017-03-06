@@ -1,9 +1,9 @@
 ---
 ID: 1408
-post_title: Using Social Media to Make a Difference
+title: Using Social Media to Make a Difference
 author: Kerry Guard
-post_date: 2012-08-10 10:28:08
-post_excerpt: ""
+date: 2012-08-10 10:28:08
+
 layout: post
 permalink: >
   /using-social-media-to-make-a-difference/

@@ -1,36 +1,8 @@
 ---
-ID: 3352
-post_title: 'Don&#8217;t give up on the CTR'
+title: 'Don&#8217;t give up on the CTR'
 author: KerryGuard
-post_date: 2011-10-12 10:57:05
-post_excerpt: ""
+date: 2011-10-12 10:57:05
 layout: post
-permalink: >
-  /dont-give-up-on-the-ctr/
-published: true
-slider_style:
-  - default
-  - default
-  - default
-  - default
-  - default
-  - default
-image:
-  - ""
-  - ""
-  - ""
-  - ""
-  - ""
-  - ""
-seo_follow:
-  - 'true'
-  - 'true'
-  - 'true'
-  - 'true'
-  - 'true'
-  - 'true'
-views:
-  - "78"
 ---
 When talking to vendors several have said they do not pay attention to CTR (click-through-rate) as the CPA (cost-per-acquisition) is what matters.
 

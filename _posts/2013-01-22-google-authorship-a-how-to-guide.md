@@ -1,9 +1,9 @@
 ---
 ID: 1972
-post_title: 'Google Authorship: A How-To Guide'
+title: 'Google Authorship: A How-To Guide'
 author: Kerry Guard
-post_date: 2013-01-22 08:25:12
-post_excerpt: ""
+date: 2013-01-22 08:25:12
+
 layout: post
 permalink: >
   /google-authorship-a-how-to-guide/

@@ -1,44 +1,8 @@
 ---
-ID: 397
-post_title: >
-  When to Advertise like Blake Griffin
-  Dunks
+title: When to Advertise like Blake Griffin Dunks
 author: Adam Bullock
-post_date: 2012-02-01 02:34:11
-post_excerpt: ""
+date: 2012-02-01 02:34:11
 layout: post
-permalink: >
-  /when-to-advertise-like-blake-griffin/
-published: true
-slider_style:
-  - default
-  - default
-  - default
-  - default
-  - default
-  - default
-image:
-  - >
-    http://mkgmediagroup.com/wp-content/uploads/2012/02/blakegriffin.png
-  - >
-    http://mkgmediagroup.com/wp-content/uploads/2012/02/blakegriffin.png
-  - >
-    http://mkgmediagroup.com/wp-content/uploads/2012/02/blakegriffin.png
-  - >
-    http://mkgmediagroup.com/wp-content/uploads/2012/02/blakegriffin.png
-  - >
-    http://mkgmediagroup.com/wp-content/uploads/2012/02/blakegriffin.png
-  - >
-    http://mkgmediagroup.com/wp-content/uploads/2012/02/blakegriffin.png
-seo_follow:
-  - 'true'
-  - 'true'
-  - 'true'
-  - 'true'
-  - 'true'
-  - 'true'
-views:
-  - "60"
 ---
 <img class="size-medium wp-image-398 alignleft" title="blake griffin" src="http://mkgmediagroup.com/wp-content/uploads/2012/02/blake-griffin-300x225.png" alt="blake griffin media advertising" width="300" height="225" />
 

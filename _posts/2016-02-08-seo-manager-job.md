@@ -1,9 +1,9 @@
 ---
 ID: 5711
-post_title: SEO Manager Opening at MKG Marketing Inc
+title: SEO Manager Opening at MKG Marketing Inc
 author: Mike Krass
-post_date: 2016-02-08 11:42:55
-post_excerpt: ""
+date: 2016-02-08 11:42:55
+
 layout: post
 permalink: >
   /seo-manager-job/

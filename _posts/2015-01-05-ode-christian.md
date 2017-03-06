@@ -1,9 +1,9 @@
 ---
 ID: 5002
-post_title: An Ode to Christian
+title: An Ode to Christian
 author: Kerry Guard
-post_date: 2015-01-05 07:00:35
-post_excerpt: ""
+date: 2015-01-05 07:00:35
+
 layout: post
 permalink: >
   /ode-christian/

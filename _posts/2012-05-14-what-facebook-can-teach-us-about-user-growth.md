@@ -1,11 +1,11 @@
 ---
 ID: 1259
-post_title: >
+title: >
   What Facebook Can Teach Us About User
   Growth
 author: Kerry Guard
-post_date: 2012-05-14 10:11:41
-post_excerpt: ""
+date: 2012-05-14 10:11:41
+
 layout: post
 permalink: >
   /what-facebook-can-teach-us-about-user-growth/

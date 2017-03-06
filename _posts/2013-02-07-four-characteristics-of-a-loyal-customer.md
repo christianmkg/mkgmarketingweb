@@ -1,9 +1,9 @@
 ---
 ID: 2085
-post_title: Four Characteristics of a Loyal Customer
+title: Four Characteristics of a Loyal Customer
 author: Kerry Guard
-post_date: 2013-02-07 06:30:36
-post_excerpt: ""
+date: 2013-02-07 06:30:36
+
 layout: post
 permalink: >
   /four-characteristics-of-a-loyal-customer/

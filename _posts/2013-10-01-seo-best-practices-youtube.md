@@ -1,9 +1,9 @@
 ---
 ID: 3874
-post_title: SEO Best Practices for YouTube
+title: SEO Best Practices for YouTube
 author: Kerry Guard
-post_date: 2013-10-01 08:34:20
-post_excerpt: ""
+date: 2013-10-01 08:34:20
+
 layout: post
 permalink: >
   /seo-best-practices-youtube/

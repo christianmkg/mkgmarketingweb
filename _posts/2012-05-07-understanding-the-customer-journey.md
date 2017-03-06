@@ -1,9 +1,9 @@
 ---
 ID: 897
-post_title: Understanding the Customer Journey
+title: Understanding the Customer Journey
 author: Kerry Guard
-post_date: 2012-05-07 07:52:08
-post_excerpt: ""
+date: 2012-05-07 07:52:08
+
 layout: post
 permalink: >
   /understanding-the-customer-journey/

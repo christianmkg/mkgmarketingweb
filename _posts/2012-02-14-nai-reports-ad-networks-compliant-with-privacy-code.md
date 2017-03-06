@@ -1,37 +1,8 @@
 ---
-ID: 572
-post_title: >
-  NAI Reports Ad Networks Compliant with
-  Privacy Code
+title: NAI Reports Ad Networks Compliant with Privacy Code
 author: Kerry Guard
-post_date: 2012-02-14 10:47:24
-post_excerpt: ""
+date: 2012-02-14 10:47:24
 layout: post
-permalink: >
-  /nai-reports-ad-networks-compliant-with-privacy-code/
-published: true
-image:
-  - >
-    http://mkgmediagroup.com/wp-content/uploads/2012/02/dma-opt-out-screen-grab.jpeg
-  - >
-    http://mkgmediagroup.com/wp-content/uploads/2012/02/dma-opt-out-screen-grab.jpeg
-  - >
-    http://mkgmediagroup.com/wp-content/uploads/2012/02/dma-opt-out-screen-grab.jpeg
-  - >
-    http://mkgmediagroup.com/wp-content/uploads/2012/02/dma-opt-out-screen-grab.jpeg
-  - >
-    http://mkgmediagroup.com/wp-content/uploads/2012/02/dma-opt-out-screen-grab.jpeg
-  - >
-    http://mkgmediagroup.com/wp-content/uploads/2012/02/dma-opt-out-screen-grab.jpeg
-seo_follow:
-  - 'true'
-  - 'true'
-  - 'true'
-  - 'true'
-  - 'true'
-  - 'true'
-views:
-  - "62"
 ---
 With Valentines Day upon us, men and women alike are probably wondering why they're receiving ads for flowers.com and 'making that special someone happy on this special day'.
 

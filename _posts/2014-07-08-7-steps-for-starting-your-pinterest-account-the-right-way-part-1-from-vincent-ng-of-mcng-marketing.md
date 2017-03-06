@@ -1,9 +1,9 @@
 ---
 ID: 4716
-post_title: '7 Steps for Starting Your Pinterest Account &#8211; The Right Way &#8211; Part 1'
+title: '7 Steps for Starting Your Pinterest Account &#8211; The Right Way &#8211; Part 1'
 author: Adam Bullock
-post_date: 2014-07-08 09:35:25
-post_excerpt: ""
+date: 2014-07-08 09:35:25
+
 layout: post
 permalink: >
   /7-steps-for-starting-your-pinterest-account-the-right-way-part-1-from-vincent-ng-of-mcng-marketing/

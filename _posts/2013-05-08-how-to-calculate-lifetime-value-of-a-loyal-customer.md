@@ -1,11 +1,11 @@
 ---
 ID: 2416
-post_title: >
+title: >
   How to Calculate Lifetime Value of a
   Loyal Customer
 author: Kerry Guard
-post_date: 2013-05-08 13:52:45
-post_excerpt: ""
+date: 2013-05-08 13:52:45
+
 layout: post
 permalink: >
   /how-to-calculate-lifetime-value-of-a-loyal-customer/

@@ -1,11 +1,11 @@
 ---
 ID: 4336
-post_title: >
+title: >
   How to Chart Organic Search CTR Curve
   Using Google Webmaster Tools
 author: Kerry Guard
-post_date: 2014-04-14 07:07:20
-post_excerpt: ""
+date: 2014-04-14 07:07:20
+
 layout: post
 permalink: >
   /how-to-chart-organic-search-ctr-curve-using-google-webmaster-tools/

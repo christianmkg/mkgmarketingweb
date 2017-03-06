@@ -1,60 +1,8 @@
 ---
-ID: 379
-post_title: 'Anatomy of a Display Campaign: Target Audience'
+title: 'Anatomy of a Display Campaign: Target Audience'
 author: KerryGuard
-post_date: 2012-01-29 22:39:52
-post_excerpt: ""
+date: 2012-01-29 22:39:52
 layout: post
-permalink: >
-  /anatomy-of-a-digital-display-campaign-target-audience/
-published: true
-slider_style:
-  - default
-  - default
-  - default
-  - default
-  - default
-  - default
-image:
-  - >
-    http://mkgmediagroup.com/wp-content/uploads/2012/01/target_audience2.jpg
-  - >
-    http://mkgmediagroup.com/wp-content/uploads/2012/01/target_audience2.jpg
-  - >
-    http://mkgmediagroup.com/wp-content/uploads/2012/01/target_audience2.jpg
-  - >
-    http://mkgmediagroup.com/wp-content/uploads/2012/01/target_audience2.jpg
-  - >
-    http://mkgmediagroup.com/wp-content/uploads/2012/01/target_audience2.jpg
-  - >
-    http://mkgmediagroup.com/wp-content/uploads/2012/01/target_audience2.jpg
-seo_follow:
-  - 'false'
-  - 'false'
-  - 'false'
-  - 'false'
-  - 'false'
-  - 'false'
-seo_title:
-  - 'Anatomy of a Display Campaign: Target Audience'
-  - 'Anatomy of a Display Campaign: Target Audience'
-  - 'Anatomy of a Display Campaign: Target Audience'
-  - 'Anatomy of a Display Campaign: Target Audience'
-  - 'Anatomy of a Display Campaign: Target Audience'
-  - 'Anatomy of a Display Campaign: Target Audience'
-seo_description:
-  - >
-    Identifying who you should target to not
-    only get your product in the right hands
-    but who should see your message through
-    your display advertising campaign so the
-    right people buy it.
-seo_keywords:
-  - >
-    Advertising, Marketing, Paid Media, Paid
-    Advertising
-views:
-  - "92"
 ---
 <h2><em>Who should be the target?</em></h2>
 Target Audience is the users who will best respond to your brand.

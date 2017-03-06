@@ -1,9 +1,9 @@
 ---
 ID: 3652
-post_title: 'Diary of a Digital Marketing Intern (Part 3 of 5): A Winning Mindset!'
+title: 'Diary of a Digital Marketing Intern (Part 3 of 5): A Winning Mindset!'
 author: JaminDaily
-post_date: 2013-07-15 08:35:44
-post_excerpt: ""
+date: 2013-07-15 08:35:44
+
 layout: post
 permalink: >
   /diary-of-a-digital-marketing-intern-part-3-of-5-a-winning-mindset/

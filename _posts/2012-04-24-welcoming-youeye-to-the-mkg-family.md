@@ -1,9 +1,9 @@
 ---
 ID: 1149
-post_title: Welcoming YouEye to the MKG Family
+title: Welcoming YouEye to the MKG Family
 author: Kerry Guard
-post_date: 2012-04-24 08:26:11
-post_excerpt: ""
+date: 2012-04-24 08:26:11
+
 layout: post
 permalink: >
   /welcoming-youeye-to-the-mkg-family/

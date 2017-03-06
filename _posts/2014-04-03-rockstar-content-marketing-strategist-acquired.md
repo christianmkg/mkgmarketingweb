@@ -1,9 +1,9 @@
 ---
 ID: 4331
-post_title: 'Rockstar Content Marketing Strategist: Acquired'
+title: 'Rockstar Content Marketing Strategist: Acquired'
 author: Adam Bullock
-post_date: 2014-04-03 16:11:41
-post_excerpt: ""
+date: 2014-04-03 16:11:41
+
 layout: post
 permalink: >
   /rockstar-content-marketing-strategist-acquired/

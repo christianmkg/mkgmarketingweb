@@ -1,9 +1,9 @@
 ---
 ID: 1422
-post_title: How Much Are Social Mentions Worth?
+title: How Much Are Social Mentions Worth?
 author: Kerry Guard
-post_date: 2012-08-20 11:13:42
-post_excerpt: ""
+date: 2012-08-20 11:13:42
+
 layout: post
 permalink: >
   /how-much-are-social-mentions-worth/

@@ -1,9 +1,9 @@
 ---
 ID: 4259
-post_title: 'Google Tag Manager: How to Implement Custom HTML Tags on Click Listeners'
+title: 'Google Tag Manager: How to Implement Custom HTML Tags on Click Listeners'
 author: Kerry Guard
-post_date: 2014-03-06 06:56:57
-post_excerpt: ""
+date: 2014-03-06 06:56:57
+
 layout: post
 permalink:
   /google-tag-manager-how-to-implement-custom-html-tags-on-click-listeners/

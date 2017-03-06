@@ -1,11 +1,11 @@
 ---
 ID: 4367
-post_title: >
+title: >
   3 Reasons to Leave Google AdWords
   Management to the Experts
 author: KerryGuard
-post_date: 2014-04-09 07:35:08
-post_excerpt: ""
+date: 2014-04-09 07:35:08
+
 layout: post
 permalink: >
   /3-reasons-leave-google-adwords-management-experts/

@@ -1,9 +1,9 @@
 ---
 ID: 943
-post_title: Unveiling Social Rewards for TV Viewing
+title: Unveiling Social Rewards for TV Viewing
 author: Kerry Guard
-post_date: 2012-03-30 00:52:18
-post_excerpt: ""
+date: 2012-03-30 00:52:18
+
 layout: post
 permalink: >
   /unveiling-social-rewards-for-tv-viewing/

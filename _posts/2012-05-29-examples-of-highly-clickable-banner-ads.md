@@ -1,9 +1,9 @@
 ---
 ID: 1311
-post_title: Examples of Highly Clickable Banner Ads
+title: Examples of Highly Clickable Banner Ads
 author: Kerry Guard
-post_date: 2012-05-29 21:13:17
-post_excerpt: ""
+date: 2012-05-29 21:13:17
+
 layout: post
 permalink: >
   /examples-of-highly-clickable-banner-ads/

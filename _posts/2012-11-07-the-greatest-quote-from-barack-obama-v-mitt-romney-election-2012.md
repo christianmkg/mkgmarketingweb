@@ -1,11 +1,11 @@
 ---
 ID: 1764
-post_title: >
+title: >
   The Greatest Quote from Barack Obama v.
   Mitt Romney Election 2012
 author: Kerry Guard
-post_date: 2012-11-07 11:18:33
-post_excerpt: ""
+date: 2012-11-07 11:18:33
+
 layout: post
 permalink: >
   /the-greatest-quote-from-barack-obama-v-mitt-romney-election-2012/

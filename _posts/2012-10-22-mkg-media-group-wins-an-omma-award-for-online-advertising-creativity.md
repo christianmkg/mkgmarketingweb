@@ -1,11 +1,11 @@
 ---
 ID: 1715
-post_title: >
+title: >
   MKG Media Group Wins an OMMA Award for
   Online Advertising Creativity
 author: Kerry Guard
-post_date: 2012-10-22 11:51:11
-post_excerpt: ""
+date: 2012-10-22 11:51:11
+
 layout: post
 permalink: >
   /mkg-media-group-wins-an-omma-award-for-online-advertising-creativity/

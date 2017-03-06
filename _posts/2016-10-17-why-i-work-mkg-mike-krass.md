@@ -1,9 +1,9 @@
 ---
 ID: 5932
-post_title: Why I work @ MKG | Mike Krass
+title: Why I work @ MKG | Mike Krass
 author: Mike Krass
-post_date: 2016-10-17 09:12:08
-post_excerpt: ""
+date: 2016-10-17 09:12:08
+
 layout: post
 permalink: >
   /why-i-work-mkg-mike-krass/

@@ -1,35 +1,8 @@
 ---
-ID: 592
-post_title: Metrics You Should Be Using
+title: Metrics You Should Be Using
 author: Kerry Guard
-post_date: 2012-02-16 09:49:48
-post_excerpt: ""
+date: 2012-02-16 09:49:48
 layout: post
-permalink: >
-  /metrics-you-should-be-using/
-published: true
-image:
-  - >
-    http://mkgmediagroup.com/wp-content/uploads/2012/02/metrics2.jpeg
-  - >
-    http://mkgmediagroup.com/wp-content/uploads/2012/02/metrics2.jpeg
-  - >
-    http://mkgmediagroup.com/wp-content/uploads/2012/02/metrics2.jpeg
-  - >
-    http://mkgmediagroup.com/wp-content/uploads/2012/02/metrics2.jpeg
-  - >
-    http://mkgmediagroup.com/wp-content/uploads/2012/02/metrics2.jpeg
-  - >
-    http://mkgmediagroup.com/wp-content/uploads/2012/02/metrics2.jpeg
-seo_follow:
-  - 'true'
-  - 'true'
-  - 'true'
-  - 'true'
-  - 'true'
-  - 'true'
-views:
-  - "89"
 ---
 <img class="alignleft size-medium wp-image-598" title="metrics" src="http://mkgmediagroup.com/wp-content/uploads/2012/02/metrics1-300x225.jpg" alt="" width="300" height="225" />
 

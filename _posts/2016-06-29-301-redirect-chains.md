@@ -1,12 +1,12 @@
 ---
 ID: 5853
-post_title: >
+title: >
   This One Exercise Will Improve Your Site
   Ranking Strength Now (Break the 301
   Redirect Chains)
 author: Christian Bullock
-post_date: 2016-06-29 09:35:13
-post_excerpt: ""
+date: 2016-06-29 09:35:13
+
 layout: post
 permalink: >
   /301-redirect-chains/

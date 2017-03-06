@@ -1,11 +1,11 @@
 ---
 ID: 2607
-post_title: >
+title: >
   How to Track Facebook Promotions Using
   3rd Party Tags
 author: KerryGuard
-post_date: 2013-05-06 10:27:44
-post_excerpt: ""
+date: 2013-05-06 10:27:44
+
 layout: post
 permalink: >
   /how-to-track-facebook-promotions-using-3rd-party-tags/

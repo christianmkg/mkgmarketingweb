@@ -1,9 +1,9 @@
 ---
 ID: 1198
-post_title: 'GigaOM Trends &#038; Visions in Digital Advertising'
+title: 'GigaOM Trends &#038; Visions in Digital Advertising'
 author: Kerry Guard
-post_date: 2012-05-01 08:57:20
-post_excerpt: ""
+date: 2012-05-01 08:57:20
+
 layout: post
 permalink: >
   /gigaom-trends-visions-in-digital-advertising/

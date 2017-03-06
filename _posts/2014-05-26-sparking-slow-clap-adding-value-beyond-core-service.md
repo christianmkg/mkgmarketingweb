@@ -1,9 +1,9 @@
 ---
 ID: 4643
-post_title: 'Sparking the Slow Clap: Adding Value Beyond Your Core Service'
+title: 'Sparking the Slow Clap: Adding Value Beyond Your Core Service'
 author: Adam Bullock
-post_date: 2014-05-26 12:44:13
-post_excerpt: ""
+date: 2014-05-26 12:44:13
+
 layout: post
 permalink: >
   /sparking-slow-clap-adding-value-beyond-core-service/

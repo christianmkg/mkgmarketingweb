@@ -1,37 +1,8 @@
 ---
-ID: 664
-post_title: >
-  Three Examples of Mobile Marketing
-  Genius
+title: Three Examples of Mobile Marketing Genius
 author: Kerry Guard
-post_date: 2012-02-21 09:46:45
-post_excerpt: ""
+date: 2012-02-21 09:46:45
 layout: post
-permalink: >
-  /three-examples-of-mobile-marketing-genius/
-published: true
-image:
-  - >
-    http://mkgmediagroup.com/wp-content/uploads/2012/02/mobileads.jpeg
-  - >
-    http://mkgmediagroup.com/wp-content/uploads/2012/02/mobileads.jpeg
-  - >
-    http://mkgmediagroup.com/wp-content/uploads/2012/02/mobileads.jpeg
-  - >
-    http://mkgmediagroup.com/wp-content/uploads/2012/02/mobileads.jpeg
-  - >
-    http://mkgmediagroup.com/wp-content/uploads/2012/02/mobileads.jpeg
-  - >
-    http://mkgmediagroup.com/wp-content/uploads/2012/02/mobileads.jpeg
-seo_follow:
-  - 'true'
-  - 'true'
-  - 'true'
-  - 'true'
-  - 'true'
-  - 'true'
-views:
-  - "71"
 ---
 <img class="alignleft size-full wp-image-665" title="smart phones" src="http://mkgmediagroup.com/wp-content/uploads/2012/02/smart-phones.jpeg" alt="mobile marketing" width="268" height="188" />You've probably heard the statistics about smartphone ownership; mobile is the next marketing frontier. Just to brush up, let me remind you that ...
 <ul>

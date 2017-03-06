@@ -1,11 +1,11 @@
 ---
 ID: 2428
-post_title: >
+title: >
   Four Things to Consider When Evaluating
   Banner Ad Creative
 author: Kerry Guard
-post_date: 2013-04-08 06:08:03
-post_excerpt: ""
+date: 2013-04-08 06:08:03
+
 layout: post
 permalink: >
   /four-things-to-consider-when-evaluating-banner-ad-creative/

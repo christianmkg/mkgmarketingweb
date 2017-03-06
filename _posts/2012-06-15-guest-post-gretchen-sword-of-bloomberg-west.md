@@ -1,9 +1,9 @@
 ---
 ID: 1342
-post_title: 'Guest Post: Gretchen Sword of Bloomberg West'
+title: 'Guest Post: Gretchen Sword of Bloomberg West'
 author: Kerry Guard
-post_date: 2012-06-15 10:07:35
-post_excerpt: ""
+date: 2012-06-15 10:07:35
+
 layout: post
 permalink: >
   /guest-post-gretchen-sword-of-bloomberg-west/

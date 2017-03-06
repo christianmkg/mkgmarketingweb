@@ -1,9 +1,9 @@
 ---
 ID: 4762
-post_title: 'ClubBING Google: 3 Ways Bing Beats Google'
+title: 'ClubBING Google: 3 Ways Bing Beats Google'
 author: Adam Bullock
-post_date: 2014-08-01 09:50:33
-post_excerpt: ""
+date: 2014-08-01 09:50:33
+
 layout: post
 permalink: >
   /clubbing-google-3-ways-bing-beats-google/

@@ -1,9 +1,9 @@
 ---
 ID: 5293
-post_title: 'Google Analytics: What are Intelligence Events?'
+title: 'Google Analytics: What are Intelligence Events?'
 author: Mike Krass
-post_date: 2015-03-23 06:40:22
-post_excerpt: ""
+date: 2015-03-23 06:40:22
+
 layout: post
 permalink: >
   /google-analytics-intelligence-events-what-are-they/

@@ -1,9 +1,9 @@
 ---
 ID: 1251
-post_title: Who Uses Location Based Mobile Apps?
+title: Who Uses Location Based Mobile Apps?
 author: Kerry Guard
-post_date: 2012-05-11 10:52:52
-post_excerpt: ""
+date: 2012-05-11 10:52:52
+
 layout: post
 permalink: >
   /who-uses-location-based-mobile-apps/

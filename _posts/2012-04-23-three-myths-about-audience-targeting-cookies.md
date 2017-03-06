@@ -1,9 +1,9 @@
 ---
 ID: 1142
-post_title: 'Three Myths About Audience Targeting &#038; Cookies'
+title: 'Three Myths About Audience Targeting &#038; Cookies'
 author: Kerry Guard
-post_date: 2012-04-23 09:54:06
-post_excerpt: ""
+date: 2012-04-23 09:54:06
+
 layout: post
 permalink: >
   /three-myths-about-audience-targeting-cookies/

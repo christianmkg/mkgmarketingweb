@@ -1,9 +1,9 @@
 ---
 ID: 5790
-post_title: 'New Team Member: Jessica Ward'
+title: 'New Team Member: Jessica Ward'
 author: Jessica Ward
-post_date: 2016-05-17 07:08:37
-post_excerpt: ""
+date: 2016-05-17 07:08:37
+
 layout: post
 permalink: >
   /new-team-member-jessica-ward/

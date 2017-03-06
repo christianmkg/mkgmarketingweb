@@ -1,11 +1,11 @@
 ---
 ID: 2609
-post_title: >
+title: >
   3 Tips to Find a Great Social Media
   Marketing Agency
 author: Kerry Guard
-post_date: 2013-04-25 12:28:19
-post_excerpt: ""
+date: 2013-04-25 12:28:19
+
 layout: post
 permalink: >
   /3-tips-to-find-a-great-social-media-marketing-agency/

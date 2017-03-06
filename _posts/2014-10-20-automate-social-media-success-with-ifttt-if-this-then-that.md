@@ -1,11 +1,11 @@
 ---
 ID: 4868
-post_title: >
+title: >
   Automate Social Media Success with IFTTT
   (If This Then That)
 author: Kerry Guard
-post_date: 2014-10-20 06:48:40
-post_excerpt: ""
+date: 2014-10-20 06:48:40
+
 layout: post
 permalink: >
   /automate-social-media-success-with-ifttt-if-this-then-that/

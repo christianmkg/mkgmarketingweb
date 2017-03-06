@@ -1,9 +1,9 @@
 ---
 ID: 1296
-post_title: 'How to Design Effective &#8216;Shock Ads&#8217;'
+title: 'How to Design Effective &#8216;Shock Ads&#8217;'
 author: Kerry Guard
-post_date: 2012-05-22 09:43:56
-post_excerpt: ""
+date: 2012-05-22 09:43:56
+
 layout: post
 permalink: >
   /how-to-design-effective-shock-ads/

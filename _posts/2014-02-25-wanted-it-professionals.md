@@ -1,9 +1,9 @@
 ---
 ID: 4229
-post_title: 'Wanted: IT Professionals'
+title: 'Wanted: IT Professionals'
 author: Kerry Guard
-post_date: 2014-02-25 14:57:12
-post_excerpt: ""
+date: 2014-02-25 14:57:12
+
 layout: post
 permalink: >
   /wanted-it-professionals/

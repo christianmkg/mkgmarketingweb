@@ -1,9 +1,9 @@
 ---
 ID: 817
-post_title: Marketing is About Making Connections
+title: Marketing is About Making Connections
 author: Kerry Guard
-post_date: 2012-03-15 13:28:22
-post_excerpt: ""
+date: 2012-03-15 13:28:22
+
 layout: post
 permalink: >
   /marketing-is-about-making-connections/

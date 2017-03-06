@@ -1,45 +1,9 @@
 ---
-ID: 408
-post_title: Setting Accurate Metrics
+title: Setting Accurate Metrics
 author: Kerry Guard
-post_date: 2012-02-02 11:49:17
-post_excerpt: ""
+date: 2012-02-02 11:49:17
 layout: post
-permalink: >
-  /setting-accurate-metrics/
-published: true
-slider_style:
-  - default
-  - default
-  - default
-  - default
-  - default
-  - default
-image:
-  - >
-    http://mkgmediagroup.com/wp-content/uploads/2012/02/metrics.jpeg
-  - >
-    http://mkgmediagroup.com/wp-content/uploads/2012/02/metrics.jpeg
-  - >
-    http://mkgmediagroup.com/wp-content/uploads/2012/02/metrics.jpeg
-  - >
-    http://mkgmediagroup.com/wp-content/uploads/2012/02/metrics.jpeg
-  - >
-    http://mkgmediagroup.com/wp-content/uploads/2012/02/metrics.jpeg
-  - >
-    http://mkgmediagroup.com/wp-content/uploads/2012/02/metrics.jpeg
-seo_follow:
-  - 'true'
-  - 'true'
-  - 'true'
-  - 'true'
-  - 'true'
-  - 'true'
-views:
-  - "62"
 ---
-&nbsp;
-
 <img class="size-full wp-image-409 alignleft" title="facebook IPO" src="http://mkgmediagroup.com/wp-content/uploads/2012/02/alg_facebook.jpeg" alt="mark zuckerburg facebook IPO" width="450" height="287" />
 <p style="text-align: left;">Today's post will be short, sweet and centered around one of the hottest topics in Sillicon Valley &amp; Wall Street over the past few days:</p>
 

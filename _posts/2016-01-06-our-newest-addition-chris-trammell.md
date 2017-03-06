@@ -1,9 +1,9 @@
 ---
 ID: 5696
-post_title: 'The Newest Addition to MKG: Chris Trammell'
+title: 'The Newest Addition to MKG: Chris Trammell'
 author: Chris Trammell
-post_date: 2016-01-06 06:55:18
-post_excerpt: ""
+date: 2016-01-06 06:55:18
+
 layout: post
 permalink: >
   /our-newest-addition-chris-trammell/

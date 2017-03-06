@@ -1,9 +1,9 @@
 ---
 ID: 1041
-post_title: 'The Power of Brand: How Ozzie Guillen Spit on His Own Brand'
+title: 'The Power of Brand: How Ozzie Guillen Spit on His Own Brand'
 author: Kerry Guard
-post_date: 2012-04-10 08:57:32
-post_excerpt: ""
+date: 2012-04-10 08:57:32
+
 layout: post
 permalink: >
   /the-power-of-brand-how-ozzie-guillen-spit-on-his-own-brand/

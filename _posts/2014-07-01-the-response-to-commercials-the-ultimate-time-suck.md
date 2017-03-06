@@ -1,9 +1,9 @@
 ---
 ID: 4703
-post_title: 'The Response to Commercials: The Ultimate Time Suck'
+title: 'The Response to Commercials: The Ultimate Time Suck'
 author: Adam Bullock
-post_date: 2014-07-01 12:49:32
-post_excerpt: ""
+date: 2014-07-01 12:49:32
+
 layout: post
 permalink: >
   /the-response-to-commercials-the-ultimate-time-suck/

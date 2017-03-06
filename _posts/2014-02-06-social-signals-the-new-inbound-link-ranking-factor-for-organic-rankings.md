@@ -1,9 +1,9 @@
 ---
 ID: 4014
-post_title: 'Social Signals: The New Inbound Link Ranking Factor for Organic Rankings'
+title: 'Social Signals: The New Inbound Link Ranking Factor for Organic Rankings'
 author: Kerry Guard
-post_date: 2014-02-06 21:03:51
-post_excerpt: ""
+date: 2014-02-06 21:03:51
+
 layout: post
 permalink: >
   /social-signals-the-new-inbound-link-ranking-factor-for-organic-rankings/

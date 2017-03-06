@@ -1,11 +1,11 @@
 ---
 ID: 5439
-post_title: >
+title: >
   Enhance your brand tweets in two minutes
   with Twitter Cards
 author: Kerry Guard
-post_date: 2015-04-22 13:11:52
-post_excerpt: ""
+date: 2015-04-22 13:11:52
+
 layout: post
 permalink: >
   /enhance-your-brand-tweets-in-two-minutes-with-twitter-cards/

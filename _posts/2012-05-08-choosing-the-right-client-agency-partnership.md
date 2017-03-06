@@ -1,9 +1,9 @@
 ---
 ID: 1234
-post_title: 'Choosing the Right Client &#038; Agency Partnership'
+title: 'Choosing the Right Client &#038; Agency Partnership'
 author: Kerry Guard
-post_date: 2012-05-08 10:48:11
-post_excerpt: ""
+date: 2012-05-08 10:48:11
+
 layout: post
 permalink: >
   /choosing-the-right-client-agency-partnership/

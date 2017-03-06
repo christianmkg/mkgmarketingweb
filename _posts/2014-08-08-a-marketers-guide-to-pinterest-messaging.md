@@ -1,11 +1,11 @@
 ---
 ID: 4784
-post_title: >
+title: >
   A Marketer’s Guide to Pinterest
   Messaging
 author: Adam Bullock
-post_date: 2014-08-08 07:52:36
-post_excerpt: ""
+date: 2014-08-08 07:52:36
+
 layout: post
 permalink: >
   /a-marketers-guide-to-pinterest-messaging/

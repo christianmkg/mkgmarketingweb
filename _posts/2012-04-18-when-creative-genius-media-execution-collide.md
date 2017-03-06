@@ -1,9 +1,9 @@
 ---
 ID: 1119
-post_title: 'When Creative Genius &#038; Media Execution Collide'
+title: 'When Creative Genius &#038; Media Execution Collide'
 author: Kerry Guard
-post_date: 2012-04-18 07:10:18
-post_excerpt: ""
+date: 2012-04-18 07:10:18
+
 layout: post
 permalink: >
   /when-creative-genius-media-execution-collide/

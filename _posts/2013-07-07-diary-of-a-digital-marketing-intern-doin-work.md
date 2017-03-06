@@ -1,9 +1,9 @@
 ---
 ID: 3599
-post_title: 'Diary of a Digital Marketing Intern: Doin&#8217; Work!'
+title: 'Diary of a Digital Marketing Intern: Doin&#8217; Work!'
 author: JaminDaily
-post_date: 2013-07-07 21:38:51
-post_excerpt: ""
+date: 2013-07-07 21:38:51
+
 layout: post
 permalink: >
   /diary-of-a-digital-marketing-intern-doin-work/

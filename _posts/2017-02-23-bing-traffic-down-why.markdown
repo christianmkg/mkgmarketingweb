@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Why is my Bing traffic down? Four ways to diagnose"
-date: 2017-01-23 22:06:45 -0800
-categories: jekyll update
+date: 2017-02-23 20:15:10 -0800
+categories: seo
 ---
 We get it - everyone uses Google.
 
@@ -30,15 +30,15 @@ Technical website issues can kill any domain authority that a website has built
 
 Bing Webmaster Tools also provides some great technical site reporting. And you should first look at what Bing is reporting as far as 4xx, 5xx errors and all of its error reporting and fixing those first. This is because what Bing reports, you want to fix (duh!).
 
-What we've seen personally is that Bing tends to penalize a bit harsher when it comes to sites that have deep-seated technical issues. Things like uncrawlable AJAX or Javascript. And an issue that I've blogged about before: the <a href="http://mkgmarketinginc.com/301-redirect-chains/">d</a><a href="http://mkgmarketinginc.com/301-redirect-chains/">readed 301 redirect chain</a>. Usually hard to diagnose. And typically harder to even fix.
+What we've seen personally is that Bing tends to penalize a bit harsher when it comes to sites that have deep-seated technical issues. Things like uncrawlable AJAX or Javascript. And an issue that I've blogged about before: the <a href="/301-redirect-chains/">d</a><a href="/301-redirect-chains/">readed 301 redirect chain</a>. Usually hard to diagnose. And typically harder to even fix.
 
 To look for redirect chain issues, I typically look at top 301 redirects reported by Bing by # of links they see. Basically - these are your high value URLs that have 301s.
 
-<a href="http://mkgmarketinginc.com/wp-content/uploads/2017/02/301-redirects-sorted-by-links.png"><img class="alignnone size-medium wp-image-6062" src="http://mkgmarketinginc.com/wp-content/uploads/2017/02/301-redirects-sorted-by-links-205x300.png" alt="Bing Webmaster Tools - 301s sorted by links" width="205" height="300" /></a>
+<a href="/wp-content/uploads/2017/02/301-redirects-sorted-by-links.png"><img class="alignnone size-medium wp-image-6062" src="/wp-content/uploads/2017/02/301-redirects-sorted-by-links-205x300.png" alt="Bing Webmaster Tools - 301s sorted by links" width="205" height="300" /></a>
 
 I then start plugging them into a redirect checker tool. My go to is <a href="http://www.redirect-checker.org/">Redirect Checker</a>. I'll sample about 10 or so manually, and then rely on an output from <a href="https://www.screamingfrog.co.uk/redirect-checker/">Screaming Frog SEO Spider</a> to look at site-wide redirect chains that the crawler finds.
 
-I go over <a href="http://mkgmarketinginc.com/301-redirect-chains/">how to fix 301 redirects in another post</a>. Suffice to say - it's quite a bit of work untangling the mess, especially if you're seeing four or more. I've seen a six redirect chain before; how many have you seen?
+I go over <a href="/301-redirect-chains/">how to fix 301 redirects in another post</a>. Suffice to say - it's quite a bit of work untangling the mess, especially if you're seeing four or more. I've seen a six redirect chain before; how many have you seen?
 
 We've seen redirect chain fixes help improve rankings across the board for sites. This is due to fixing up page authority scores, which helps a domain's overall authority.
 
@@ -46,7 +46,7 @@ Know that technical site issues can hurt both in Google and Bing. But we've seen
 <h2>Index Explorer = Better Indexation View</h2>
 Bing Webmaster Tools' index explorer is awesome. Instead of a list view that Google Webmaster Tools gives, this version from Bing gives you an FTP-like view along with stats based on subfolder or subdomain views.
 
-<a href="http://mkgmarketinginc.com/wp-content/uploads/2017/02/bing-webmaster-tools-index-explorer.png"><img class="alignnone size-medium wp-image-6063" src="http://mkgmarketinginc.com/wp-content/uploads/2017/02/bing-webmaster-tools-index-explorer-150x300.png" alt="Bing Webmaster Tools Index Explorer" width="150" height="300" /></a>
+<a href="/wp-content/uploads/2017/02/bing-webmaster-tools-index-explorer.png"><img class="alignnone size-medium wp-image-6063" src="/wp-content/uploads/2017/02/bing-webmaster-tools-index-explorer-150x300.png" alt="Bing Webmaster Tools Index Explorer" width="150" height="300" /></a>
 
 Instead of a .csv pull, you can easily answer questions such as:
 <ul>
@@ -63,6 +63,7 @@ Bing can give you their own SEO recommendations based on any URL in a profile yo
 You might be surprised at what they report as being an issue.
 
 Access this tool in Bing Webmaster Tools at Reports &amp; Data &gt;&gt; SEO Reports. Enter a URL and they will tell you if there are any issues and classify each item as low / medium / high priority.
+
 
 <span style="color: #ff6600;"><span style="text-decoration: underline;"><strong>Test time</strong></span>! Let's see how you do in knowing what Bing deems as<strong> low, medium or high</strong> SEO importance for elements of a web page. Highlight the area after the question to see the answer. <strong>Feel free to leave a comment below with your score out of five</strong>.</span>
 <ol>
@@ -91,7 +92,7 @@ Sometimes, drops can be felt due to a change in the SERP.
 
 Look at this carousel result showing for the query "dentists in portland or" -
 
-<a href="http://mkgmarketinginc.com/wp-content/uploads/2017/02/bing-organic-carousel.png"><img class="alignnone wp-image-6066 " src="http://mkgmarketinginc.com/wp-content/uploads/2017/02/bing-organic-carousel-1024x966.png" alt="Bing organic carousel result" width="804" height="759" /></a>
+<a href="/wp-content/uploads/2017/02/bing-organic-carousel.png"><img class="alignnone wp-image-6066 " src="/wp-content/uploads/2017/02/bing-organic-carousel-1024x966.png" alt="Bing organic carousel result" width="804" height="759" /></a>
 
 Grabs up a lot of space, doesn't it?
 

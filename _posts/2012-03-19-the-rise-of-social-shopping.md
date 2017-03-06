@@ -1,9 +1,9 @@
 ---
 ID: 837
-post_title: The Rise of Social Shopping
+title: The Rise of Social Shopping
 author: Kerry Guard
-post_date: 2012-03-19 09:30:12
-post_excerpt: ""
+date: 2012-03-19 09:30:12
+
 layout: post
 permalink: >
   /the-rise-of-social-shopping/

@@ -1,9 +1,9 @@
 ---
 ID: 5170
-post_title: It’s Been Real MKG!
+title: It’s Been Real MKG!
 author: JennaForstrom
-post_date: 2015-01-30 00:21:57
-post_excerpt: ""
+date: 2015-01-30 00:21:57
+
 layout: post
 permalink: >
   /its-been-real-mkg/

@@ -1,9 +1,9 @@
 ---
 ID: 5431
-post_title: 'Keyword Stuffing: A Creative Take'
+title: 'Keyword Stuffing: A Creative Take'
 author: Christian Bullock
-post_date: 2015-04-20 08:18:00
-post_excerpt: ""
+date: 2015-04-20 08:18:00
+
 layout: post
 permalink: >
   /keyword-stuffing-creative-take/

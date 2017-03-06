@@ -1,11 +1,11 @@
 ---
 ID: 2381
-post_title: >
+title: >
   What Youâ€™re Missing Without
   Integrated Marketing Analytics
 author: Kerry Guard
-post_date: 2013-04-02 08:18:12
-post_excerpt: ""
+date: 2013-04-02 08:18:12
+
 layout: post
 permalink: >
   /what-youre-missing-without-integrated-marketing-analytics/

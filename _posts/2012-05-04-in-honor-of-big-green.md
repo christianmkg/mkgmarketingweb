@@ -1,9 +1,9 @@
 ---
 ID: 1219
-post_title: In Honor of Big Green
+title: In Honor of Big Green
 author: Kerry Guard
-post_date: 2012-05-04 10:35:48
-post_excerpt: ""
+date: 2012-05-04 10:35:48
+
 layout: post
 permalink: >
   /in-honor-of-big-green/

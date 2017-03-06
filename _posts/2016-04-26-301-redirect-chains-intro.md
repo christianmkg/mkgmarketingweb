@@ -1,9 +1,9 @@
 ---
 ID: 5773
-post_title: '301 Redirect Chains: A Basic Intro to an Advanced SEO Topic'
+title: '301 Redirect Chains: A Basic Intro to an Advanced SEO Topic'
 author: Mike Krass
-post_date: 2016-04-26 08:09:39
-post_excerpt: ""
+date: 2016-04-26 08:09:39
+
 layout: post
 permalink: >
   /301-redirect-chains-intro/

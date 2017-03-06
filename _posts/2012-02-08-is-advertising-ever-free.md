@@ -1,42 +1,8 @@
 ---
-ID: 506
-post_title: Is Advertising Ever Free?
+title: Is Advertising Ever Free?
 author: Kerry Guard
-post_date: 2012-02-08 09:01:56
-post_excerpt: ""
+date: 2012-02-08 09:01:56
 layout: post
-permalink: >
-  /is-advertising-ever-free/
-published: true
-slider_style:
-  - default
-  - default
-  - default
-  - default
-  - default
-  - default
-image:
-  - >
-    http://mkgmediagroup.com/wp-content/uploads/2012/02/free.jpeg
-  - >
-    http://mkgmediagroup.com/wp-content/uploads/2012/02/free.jpeg
-  - >
-    http://mkgmediagroup.com/wp-content/uploads/2012/02/free.jpeg
-  - >
-    http://mkgmediagroup.com/wp-content/uploads/2012/02/free.jpeg
-  - >
-    http://mkgmediagroup.com/wp-content/uploads/2012/02/free.jpeg
-  - >
-    http://mkgmediagroup.com/wp-content/uploads/2012/02/free.jpeg
-seo_follow:
-  - 'true'
-  - 'true'
-  - 'true'
-  - 'true'
-  - 'true'
-  - 'true'
-views:
-  - "71"
 ---
 <img class="alignleft size-medium wp-image-509" title="free written in the sky" src="http://mkgmediagroup.com/wp-content/uploads/2012/02/free1-300x199.jpg" alt="is media ever 'free'?" width="300" height="199" />
 

@@ -1,11 +1,11 @@
 ---
 ID: 2338
-post_title: >
+title: >
   3 Ways Digital Marketing Agencies
   Measure Mobile
 author: Kerry Guard
-post_date: 2013-03-26 08:48:36
-post_excerpt: ""
+date: 2013-03-26 08:48:36
+
 layout: post
 permalink: >
   /3-ways-digital-marketing-agencies-measure-mobile/

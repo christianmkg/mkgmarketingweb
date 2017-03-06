@@ -1,11 +1,11 @@
 ---
 ID: 4128
-post_title: >
+title: >
   Planning Analytics vs. Day-to-Day
   Executional Analytics
 author: Kerry Guard
-post_date: 2014-02-10 06:31:20
-post_excerpt: ""
+date: 2014-02-10 06:31:20
+
 layout: post
 permalink: >
   /planning-analytics-vs-day-day-executional-analytics/

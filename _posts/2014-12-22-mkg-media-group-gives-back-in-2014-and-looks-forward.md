@@ -1,11 +1,11 @@
 ---
 ID: 4986
-post_title: >
+title: >
   MKG Media Group Gives Back in 2014 and
   Looks Forward
 author: Adam Bullock
-post_date: 2014-12-22 10:34:44
-post_excerpt: ""
+date: 2014-12-22 10:34:44
+
 layout: post
 permalink: >
   /mkg-media-group-gives-back-in-2014-and-looks-forward/

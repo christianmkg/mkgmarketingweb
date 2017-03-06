@@ -1,9 +1,9 @@
 ---
 ID: 5500
-post_title: 'Ahoy Mateys! Targeting Pirates with SEO [Case Study]'
+title: 'Ahoy Mateys! Targeting Pirates with SEO [Case Study]'
 author: Christian Bullock
-post_date: 2015-05-18 10:11:36
-post_excerpt: ""
+date: 2015-05-18 10:11:36
+
 layout: post
 permalink: >
   /targeting-pirates-seo-case-study/

@@ -1,9 +1,9 @@
 ---
 ID: 5004
-post_title: '2014 Year in Review (Spoiler: It Was Awesome)'
+title: '2014 Year in Review (Spoiler: It Was Awesome)'
 author: Adam Bullock
-post_date: 2015-01-02 13:32:06
-post_excerpt: ""
+date: 2015-01-02 13:32:06
+
 layout: post
 permalink: >
   /2014-year-review-spoiler-awesome/

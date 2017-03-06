@@ -1,11 +1,11 @@
 ---
 ID: 4188
-post_title: >
+title: >
   How to Customize Sidebars in Squarespace
   6 Using CSS
 author: KerryGuard
-post_date: 2014-02-25 06:17:44
-post_excerpt: ""
+date: 2014-02-25 06:17:44
+
 layout: post
 permalink: >
   /how-to-customize-sidebars-in-squarespace6-using-css/

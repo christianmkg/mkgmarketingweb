@@ -1,9 +1,9 @@
 ---
 ID: 5211
-post_title: MKG is Hiring a PPC Manager
+title: MKG is Hiring a PPC Manager
 author: Kerry Guard
-post_date: 2015-02-13 15:49:44
-post_excerpt: ""
+date: 2015-02-13 15:49:44
+
 layout: post
 permalink: >
   /mkg-hiring-ppc-manager/

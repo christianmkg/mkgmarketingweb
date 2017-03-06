@@ -1,11 +1,11 @@
 ---
 ID: 5720
-post_title: >
+title: >
   Who is hiring a Paid Search specialist?
   We are!
 author: Mike Krass
-post_date: 2016-02-10 06:40:18
-post_excerpt: ""
+date: 2016-02-10 06:40:18
+
 layout: post
 permalink: >
   /paid-search-specialist-job/

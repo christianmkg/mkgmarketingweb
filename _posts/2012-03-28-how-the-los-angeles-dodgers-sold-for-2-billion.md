@@ -1,11 +1,11 @@
 ---
 ID: 899
-post_title: >
+title: >
   How the Los Angeles Dodgers Sold for $2
   Billion
 author: Kerry Guard
-post_date: 2012-03-28 09:48:59
-post_excerpt: ""
+date: 2012-03-28 09:48:59
+
 layout: post
 permalink: >
   /how-the-los-angeles-dodgers-sold-for-2-billion/

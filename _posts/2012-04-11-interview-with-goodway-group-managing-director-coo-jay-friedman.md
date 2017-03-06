@@ -1,11 +1,11 @@
 ---
 ID: 1052
-post_title: >
+title: >
   Interview with Goodway Group Managing
   Director / COO Jay Friedman
 author: Kerry Guard
-post_date: 2012-04-11 09:44:00
-post_excerpt: ""
+date: 2012-04-11 09:44:00
+
 layout: post
 permalink: >
   /interview-with-goodway-group-managing-director-coo-jay-friedman/

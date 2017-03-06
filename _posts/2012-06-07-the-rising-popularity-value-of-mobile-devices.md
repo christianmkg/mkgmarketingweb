@@ -1,9 +1,9 @@
 ---
 ID: 1328
-post_title: 'The Rising Popularity &#038; Value of Mobile Devices'
+title: 'The Rising Popularity &#038; Value of Mobile Devices'
 author: Kerry Guard
-post_date: 2012-06-07 09:40:33
-post_excerpt: ""
+date: 2012-06-07 09:40:33
+
 layout: post
 permalink: >
   /the-rising-popularity-value-of-mobile-devices/

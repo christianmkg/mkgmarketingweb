@@ -1,9 +1,9 @@
 ---
 ID: 1727
-post_title: 'Why Agencies &#038; Clients Should Strive to Stand Out'
+title: 'Why Agencies &#038; Clients Should Strive to Stand Out'
 author: Kerry Guard
-post_date: 2012-10-23 16:46:50
-post_excerpt: ""
+date: 2012-10-23 16:46:50
+
 layout: post
 permalink: >
   /why-agencies-clients-should-strive-to-stand-out/

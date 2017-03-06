@@ -1,11 +1,11 @@
 ---
 ID: 710
-post_title: >
+title: >
   What The Daytona 500 Can Teach Us About
   Marketing
 author: Kerry Guard
-post_date: 2012-02-28 09:24:10
-post_excerpt: ""
+date: 2012-02-28 09:24:10
+excerpt: ""
 layout: post
 permalink: >
   /what-the-daytona-500-can-teach-us-about-marketing/

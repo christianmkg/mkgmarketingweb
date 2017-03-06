@@ -1,46 +1,8 @@
 ---
-ID: 843
-post_title: Big Data is Cheap
+title: Big Data is Cheap
 author: KerryGuard
-post_date: 2011-12-04 14:48:19
-post_excerpt: ""
+date: 2011-12-04 14:48:19
 layout: post
-permalink: >
-  /big-data-is-cheap-2/
-published: true
-slider_style:
-  - default
-  - default
-  - default
-  - default
-  - default
-  - default
-image:
-  - >
-    http://mkgmediagroup.com/wp-content/uploads/2011/12/matrix.jpeg
-  - >
-    http://mkgmediagroup.com/wp-content/uploads/2011/12/matrix.jpeg
-  - >
-    http://mkgmediagroup.com/wp-content/uploads/2011/12/matrix.jpeg
-  - >
-    http://mkgmediagroup.com/wp-content/uploads/2011/12/matrix.jpeg
-  - >
-    http://mkgmediagroup.com/wp-content/uploads/2011/12/matrix.jpeg
-  - >
-    http://mkgmediagroup.com/wp-content/uploads/2011/12/matrix.jpeg
-seo_follow:
-  - 'true'
-  - 'true'
-  - 'true'
-  - 'true'
-  - 'true'
-  - 'true'
-seo_title:
-  - Big Data is Cheap
-seo_keywords:
-  - Big Data
-views:
-  - "135"
 ---
 <h2><em style="text-align: left;"><img class="alignleft size-medium wp-image-217" title="binary_data" src="http://mkgmediagroup.com/wp-content/uploads/2011/12/binary_data-300x225.jpg" alt="big data oracle" width="300" height="225" />What is Big Data?</em></h2>
 <p style="text-align: left;">The phrase "big data" refers to the tools, processes andÂ proceduresÂ that allow an organization to create, manipulate and interpret enormous sets of data.</p>

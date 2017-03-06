@@ -1,11 +1,11 @@
 ---
 ID: 872
-post_title: >
+title: >
   How Pinterest can Shape Marketing
   Forever
 author: Kerry Guard
-post_date: 2012-03-23 08:58:57
-post_excerpt: ""
+date: 2012-03-23 08:58:57
+
 layout: post
 permalink: >
   /how-pinterest-can-shape-marketing-forever/

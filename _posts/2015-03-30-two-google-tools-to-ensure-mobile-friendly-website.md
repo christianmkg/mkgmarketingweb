@@ -1,11 +1,11 @@
 ---
 ID: 5320
-post_title: >
+title: >
   Two Google Tools to Ensure You Have a
   Mobile-Friendly Website
 author: Mike Krass
-post_date: 2015-03-30 07:35:29
-post_excerpt: ""
+date: 2015-03-30 07:35:29
+
 layout: post
 permalink: >
   /two-google-tools-to-ensure-mobile-friendly-website/

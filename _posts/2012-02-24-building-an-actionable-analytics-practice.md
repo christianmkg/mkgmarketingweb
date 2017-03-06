@@ -1,37 +1,8 @@
 ---
-ID: 687
-post_title: >
-  Building an Actionable Analytics
-  Practice
+title: Building an Actionable Analytics Practice
 author: Kerry Guard
-post_date: 2012-02-24 08:47:44
-post_excerpt: ""
+date: 2012-02-24 08:47:44
 layout: post
-permalink: >
-  /building-an-actionable-analytics-practice/
-published: true
-image:
-  - >
-    http://mkgmediagroup.com/wp-content/uploads/2012/02/analyticsrecyclesymbol.jpeg
-  - >
-    http://mkgmediagroup.com/wp-content/uploads/2012/02/analyticsrecyclesymbol.jpeg
-  - >
-    http://mkgmediagroup.com/wp-content/uploads/2012/02/analyticsrecyclesymbol.jpeg
-  - >
-    http://mkgmediagroup.com/wp-content/uploads/2012/02/analyticsrecyclesymbol.jpeg
-  - >
-    http://mkgmediagroup.com/wp-content/uploads/2012/02/analyticsrecyclesymbol.jpeg
-  - >
-    http://mkgmediagroup.com/wp-content/uploads/2012/02/analyticsrecyclesymbol.jpeg
-seo_follow:
-  - 'true'
-  - 'true'
-  - 'true'
-  - 'true'
-  - 'true'
-  - 'true'
-views:
-  - "89"
 ---
 <img class="alignleft size-full wp-image-688" title="i heart analytics" alt="analytics plans" src="http://mkgmediagroup.com/wp-content/uploads/2012/02/i-heart-analytics.jpeg" width="225" height="225" />Andrew Edwards wrote a great article on <a href="http://www.clickz.com/clickz/column/2122892/analytics-bridge" target="_blank">ClickZ titled </a><em><a href="http://www.clickz.com/clickz/column/2122892/analytics-bridge" target="_blank">The Analytics Bridge to Nowhere</a>; </em>the premise of the article centered around many companies' short sighted-ness when it comes to establishing and executing actionable analytics programs.
 

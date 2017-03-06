@@ -1,9 +1,9 @@
 ---
 ID: 4818
-post_title: 'MKG Media Group Presenting at &#8220;What If&#8230;?&#8221; Conference in Philadelphia'
+title: 'MKG Media Group Presenting at &#8220;What If&#8230;?&#8221; Conference in Philadelphia'
 author: Adam Bullock
-post_date: 2014-08-29 11:50:40
-post_excerpt: ""
+date: 2014-08-29 11:50:40
+
 layout: post
 permalink: >
   /mkg-media-group-presenting-at-what-if-conference-in-philadelphia/

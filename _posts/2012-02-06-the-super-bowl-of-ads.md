@@ -1,42 +1,8 @@
 ---
-ID: 492
-post_title: The Super Bowl of Ads
+title: The Super Bowl of Ads
 author: Kerry Guard
-post_date: 2012-02-06 07:07:43
-post_excerpt: ""
+date: 2012-02-06 07:07:43
 layout: post
-permalink: >
-  /the-super-bowl-of-ads/
-published: true
-slider_style:
-  - default
-  - default
-  - default
-  - default
-  - default
-  - default
-image:
-  - >
-    http://mkgmediagroup.com/wp-content/uploads/2012/02/super-bowl462.jpeg
-  - >
-    http://mkgmediagroup.com/wp-content/uploads/2012/02/super-bowl462.jpeg
-  - >
-    http://mkgmediagroup.com/wp-content/uploads/2012/02/super-bowl462.jpeg
-  - >
-    http://mkgmediagroup.com/wp-content/uploads/2012/02/super-bowl462.jpeg
-  - >
-    http://mkgmediagroup.com/wp-content/uploads/2012/02/super-bowl462.jpeg
-  - >
-    http://mkgmediagroup.com/wp-content/uploads/2012/02/super-bowl462.jpeg
-seo_follow:
-  - 'true'
-  - 'true'
-  - 'true'
-  - 'true'
-  - 'true'
-  - 'true'
-views:
-  - "64"
 ---
 <p style="text-align: left;"><img class="alignleft  wp-image-495" title="super bowl 46 ads" src="http://mkgmediagroup.com/wp-content/uploads/2012/02/super-bowl46-300x143.jpg" alt="Super Bowl Ads" width="210" height="100" /></p>
 <p style="text-align: left;">Since America just experienced the biggest advertising day of the year, the Super Bowl, we wanted to take a moment to call out a couple winners and losers that stood out to us during the big game.</p>

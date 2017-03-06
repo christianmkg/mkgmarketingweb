@@ -1,9 +1,9 @@
 ---
 ID: 5965
-post_title: 'Facebook Live Video Benchmarks &#8211; October 2016'
+title: 'Facebook Live Video Benchmarks &#8211; October 2016'
 author: Mike Krass
-post_date: 2016-11-08 13:57:17
-post_excerpt: ""
+date: 2016-11-08 13:57:17
+
 layout: post
 permalink: >
   /facebook-live-benchmarks-october-2016/

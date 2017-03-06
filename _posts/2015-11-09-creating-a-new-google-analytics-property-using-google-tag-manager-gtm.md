@@ -1,11 +1,11 @@
 ---
 ID: 5612
-post_title: >
+title: >
   Creating a New Google Analytics Property
   Using Google Tag Manager (GTM)
 author: Jessica Ward
-post_date: 2015-11-09 07:22:50
-post_excerpt: ""
+date: 2015-11-09 07:22:50
+
 layout: post
 permalink: >
   /creating-a-new-google-analytics-property-using-google-tag-manager-gtm/

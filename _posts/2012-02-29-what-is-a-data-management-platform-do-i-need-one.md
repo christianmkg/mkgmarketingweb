@@ -1,35 +1,9 @@
 ---
 ID: 717
-post_title: 'What is a Data Management Platform &#038; Do I Need One?'
+title: 'What is a Data Management Platform &#038; Do I Need One?'
 author: Kerry Guard
-post_date: 2012-02-29 09:48:39
-post_excerpt: ""
+date: 2012-02-29 09:48:39
 layout: post
-permalink: >
-  /what-is-a-data-management-platform-do-i-need-one/
-published: true
-image:
-  - >
-    http://mkgmediagroup.com/wp-content/uploads/2012/02/bluekaidmpgraphic.jpeg
-  - >
-    http://mkgmediagroup.com/wp-content/uploads/2012/02/bluekaidmpgraphic.jpeg
-  - >
-    http://mkgmediagroup.com/wp-content/uploads/2012/02/bluekaidmpgraphic.jpeg
-  - >
-    http://mkgmediagroup.com/wp-content/uploads/2012/02/bluekaidmpgraphic.jpeg
-  - >
-    http://mkgmediagroup.com/wp-content/uploads/2012/02/bluekaidmpgraphic.jpeg
-  - >
-    http://mkgmediagroup.com/wp-content/uploads/2012/02/bluekaidmpgraphic.jpeg
-seo_follow:
-  - 'true'
-  - 'true'
-  - 'true'
-  - 'true'
-  - 'true'
-  - 'true'
-views:
-  - "104"
 ---
 <h2><em><img class="alignleft  wp-image-719" title="think outside the box phrase on blackboard" src="http://mkgmediagroup.com/wp-content/uploads/2012/02/Black-Board-223x300.jpg" alt="big data data management DMP platform" width="178" height="240" />A DMP -- or Data Management Platform -- is a centralized location that use first and third party data sources to create custom data segments.</em></h2>
 These segments are valuable because:

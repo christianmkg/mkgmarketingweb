@@ -1,11 +1,11 @@
 ---
 ID: 4153
-post_title: >
+title: >
   The Most Awesome and Official 2014 Goals
   of MKG Media Group
 author: Kerry Guard
-post_date: 2014-02-12 09:08:45
-post_excerpt: ""
+date: 2014-02-12 09:08:45
+
 layout: post
 permalink: >
   /the-most-awesome-and-official-2014-goals-of-mkg-media-group/

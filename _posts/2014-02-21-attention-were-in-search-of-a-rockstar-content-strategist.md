@@ -1,9 +1,9 @@
 ---
 ID: 4178
-post_title: 'Attention: We&#8217;re in Search of a Rockstar Content Strategist'
+title: 'Attention: We&#8217;re in Search of a Rockstar Content Strategist'
 author: Kerry Guard
-post_date: 2014-02-21 17:19:18
-post_excerpt: ""
+date: 2014-02-21 17:19:18
+
 layout: post
 permalink: >
   /attention-were-in-search-of-a-rockstar-content-strategist/

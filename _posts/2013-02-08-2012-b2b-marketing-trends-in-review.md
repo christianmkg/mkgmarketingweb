@@ -1,9 +1,9 @@
 ---
 ID: 2104
-post_title: 2012 B2B Marketing Trends in Review
+title: 2012 B2B Marketing Trends in Review
 author: Kerry Guard
-post_date: 2013-02-08 06:50:21
-post_excerpt: ""
+date: 2013-02-08 06:50:21
+
 layout: post
 permalink: >
   /2012-b2b-marketing-trends-in-review/

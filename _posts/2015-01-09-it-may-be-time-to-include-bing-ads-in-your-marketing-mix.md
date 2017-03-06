@@ -1,11 +1,11 @@
 ---
 ID: 5051
-post_title: >
+title: >
   It May Be Time to Include Bing Ads In
   Your Marketing Mix
 author: Adam Bullock
-post_date: 2015-01-09 11:32:26
-post_excerpt: ""
+date: 2015-01-09 11:32:26
+
 layout: post
 permalink: >
   /it-may-be-time-to-include-bing-ads-in-your-marketing-mix/

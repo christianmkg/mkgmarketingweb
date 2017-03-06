@@ -1,9 +1,9 @@
 ---
 ID: 1360
-post_title: 'Highlights from #ID48'
+title: 'Highlights from #ID48'
 author: Kerry Guard
-post_date: 2012-07-05 22:47:44
-post_excerpt: ""
+date: 2012-07-05 22:47:44
+
 layout: post
 permalink: >
   /highlights-from-id48-sf/

@@ -1,9 +1,9 @@
 ---
 ID: 5943
-post_title: Why I Work @ MKG | Adam Bullock
+title: Why I Work @ MKG | Adam Bullock
 author: Mike Krass
-post_date: 2016-09-20 08:07:49
-post_excerpt: ""
+date: 2016-09-20 08:07:49
+
 layout: post
 permalink: >
   /work-i-work-at-mkg-marketing-inc-by-adam-bullock/

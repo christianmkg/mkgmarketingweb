@@ -1,9 +1,9 @@
 ---
 ID: 5935
-post_title: Why I work at MKG | Christian Bullock
+title: Why I work at MKG | Christian Bullock
 author: Christian Bullock
-post_date: 2016-10-03 07:10:56
-post_excerpt: ""
+date: 2016-10-03 07:10:56
+
 layout: post
 permalink: >
   /why-christian-works-at-mkg/

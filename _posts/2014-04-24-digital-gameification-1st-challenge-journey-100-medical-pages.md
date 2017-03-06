@@ -1,9 +1,9 @@
 ---
 ID: 4120
-post_title: '1st Health Challenge &#8211; Journey to 100 Medical Pages'
+title: '1st Health Challenge &#8211; Journey to 100 Medical Pages'
 author: KerryGuard
-post_date: 2014-04-24 09:44:36
-post_excerpt: ""
+date: 2014-04-24 09:44:36
+
 layout: post
 permalink: >
   /digital-gameification-1st-challenge-journey-100-medical-pages/

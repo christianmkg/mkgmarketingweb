@@ -1,9 +1,9 @@
 ---
 ID: 1076
-post_title: 'Brand Building 101: Communicating Without Words'
+title: 'Brand Building 101: Communicating Without Words'
 author: Kerry Guard
-post_date: 2012-04-16 08:51:02
-post_excerpt: ""
+date: 2012-04-16 08:51:02
+
 layout: post
 permalink: >
   /brand-building-101-communicating-without-words/

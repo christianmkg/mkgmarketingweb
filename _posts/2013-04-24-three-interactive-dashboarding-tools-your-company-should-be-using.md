@@ -1,11 +1,11 @@
 ---
 ID: 2583
-post_title: >
+title: >
   Three Interactive Dashboarding Tools
   Your Company Should be Using
 author: Kerry Guard
-post_date: 2013-04-24 10:20:50
-post_excerpt: ""
+date: 2013-04-24 10:20:50
+
 layout: post
 permalink: >
   /three-interactive-dashboarding-tools-your-company-should-be-using/

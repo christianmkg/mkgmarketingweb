@@ -1,9 +1,9 @@
 ---
 ID: 6035
-post_title: 'Exceeding Expectations: Why We Attended the CNCF Cloud Native Road Show in Portland &#8211; February 2017'
+title: 'Exceeding Expectations: Why We Attended the CNCF Cloud Native Road Show in Portland &#8211; February 2017'
 author: Adam Bullock
-post_date: 2017-02-09 14:04:45
-post_excerpt: ""
+date: 2017-02-09 14:04:45
+
 layout: post
 permalink: >
   /exceeding-expectations-why-we-attended-the-cncf-cloud-native-road-show-in-portland-february-2017/

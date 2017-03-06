@@ -1,11 +1,11 @@
 ---
 ID: 1292
-post_title: >
+title: >
   Facebook Purchases Karma, a Mobile-Based
   Social Gifting Application
 author: Kerry Guard
-post_date: 2012-05-21 12:15:07
-post_excerpt: ""
+date: 2012-05-21 12:15:07
+
 layout: post
 permalink: >
   /facebook-purchases-karma-a-mobile-based-social-gifting-application/

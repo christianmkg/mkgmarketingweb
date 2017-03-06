@@ -1,11 +1,11 @@
 ---
 ID: 2020
-post_title: >
+title: >
   Search Engine Marketing Findings from
   VMware
 author: Kerry Guard
-post_date: 2013-02-04 09:52:57
-post_excerpt: ""
+date: 2013-02-04 09:52:57
+
 layout: post
 permalink: >
   /search-engine-marketing-findings-from-vmware/

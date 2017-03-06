@@ -1,9 +1,9 @@
 ---
 ID: 1390
-post_title: 'Customer Service is Objective #1'
+title: 'Customer Service is Objective #1'
 author: Kerry Guard
-post_date: 2012-07-17 10:52:43
-post_excerpt: ""
+date: 2012-07-17 10:52:43
+
 layout: post
 permalink: >
   /customer-service-is-objective-1/

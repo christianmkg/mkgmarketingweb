@@ -1,9 +1,9 @@
 ---
 ID: 5814
-post_title: '[Case Study] What $8,000,000 in Sales Taught Us About YouTube Advertising'
+title: '[Case Study] What $8,000,000 in Sales Taught Us About YouTube Advertising'
 author: Mike Krass
-post_date: 2016-06-13 15:57:32
-post_excerpt: ""
+date: 2016-06-13 15:57:32
+
 layout: post
 permalink: >
   /case-study-what-8-mm-in-sales-taught-us-about-youtube-advertising/

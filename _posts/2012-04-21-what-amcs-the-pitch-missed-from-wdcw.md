@@ -1,9 +1,9 @@
 ---
 ID: 1135
-post_title: 'What AMC&#8217;s &#8216;The Pitch&#8217; Missed from WDCW'
+title: 'What AMC&#8217;s &#8216;The Pitch&#8217; Missed from WDCW'
 author: Kerry Guard
-post_date: 2012-04-21 11:29:25
-post_excerpt: ""
+date: 2012-04-21 11:29:25
+
 layout: post
 permalink: >
   /what-amcs-the-pitch-missed-from-wdcw/

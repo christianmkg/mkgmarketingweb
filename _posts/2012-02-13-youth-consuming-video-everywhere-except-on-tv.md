@@ -1,42 +1,8 @@
 ---
-ID: 538
-post_title: 'Youth Consuming Video Everywhere &#8212; Except on TV'
+title: 'Youth Consuming Video Everywhere &#8212; Except on TV'
 author: Kerry Guard
-post_date: 2012-02-13 08:48:36
-post_excerpt: ""
+date: 2012-02-13 08:48:36
 layout: post
-permalink: >
-  /youth-consuming-video-everywhere-except-on-tv/
-published: true
-slider_style:
-  - default
-  - default
-  - default
-  - default
-  - default
-  - default
-image:
-  - >
-    http://mkgmediagroup.com/wp-content/uploads/2012/02/itunes_endstate_20110311.jpeg
-  - >
-    http://mkgmediagroup.com/wp-content/uploads/2012/02/itunes_endstate_20110311.jpeg
-  - >
-    http://mkgmediagroup.com/wp-content/uploads/2012/02/itunes_endstate_20110311.jpeg
-  - >
-    http://mkgmediagroup.com/wp-content/uploads/2012/02/itunes_endstate_20110311.jpeg
-  - >
-    http://mkgmediagroup.com/wp-content/uploads/2012/02/itunes_endstate_20110311.jpeg
-  - >
-    http://mkgmediagroup.com/wp-content/uploads/2012/02/itunes_endstate_20110311.jpeg
-seo_follow:
-  - 'true'
-  - 'true'
-  - 'true'
-  - 'true'
-  - 'true'
-  - 'true'
-views:
-  - "54"
 ---
 <img class="alignleft size-medium wp-image-540" title="iPad TV viewing" src="http://mkgmediagroup.com/wp-content/uploads/2012/02/itunes_endstate_201103111-300x169.jpg" alt="third screen, TV, Nielsen, Youth video" width="300" height="169" />
 

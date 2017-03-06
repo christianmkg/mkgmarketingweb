@@ -1,11 +1,11 @@
 ---
 ID: 1126
-post_title: >
+title: >
   What Marketing Agencies Can Learn From
   Dick Clark
 author: Kerry Guard
-post_date: 2012-04-19 10:05:39
-post_excerpt: ""
+date: 2012-04-19 10:05:39
+
 layout: post
 permalink: >
   /what-marketing-agencies-can-learn-from-dick-clark/

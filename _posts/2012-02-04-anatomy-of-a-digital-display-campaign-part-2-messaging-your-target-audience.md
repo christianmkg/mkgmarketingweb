@@ -1,71 +1,11 @@
 ---
-ID: 423
-post_title: 'Anatomy of a Display Campaign: Messaging Your Target Audience'
-author: KerryGuard
-post_date: 2012-02-04 18:44:07
-post_excerpt: ""
+title: 'Anatomy of a Display Campaign: Messaging Your Target Audience'
+author: Kerry Guard
+date: 2012-02-04 18:44:07
 layout: post
-permalink: >
-  /anatomy-of-a-digital-display-campaign-part-2-messaging-your-target-audience/
-published: true
-slider_style:
-  - default
-  - default
-  - default
-  - default
-  - default
-  - default
-image:
-  - >
-    http://mkgmediagroup.com/wp-content/uploads/2012/02/red-megaphone.gif
-  - >
-    http://mkgmediagroup.com/wp-content/uploads/2012/02/red-megaphone.gif
-  - >
-    http://mkgmediagroup.com/wp-content/uploads/2012/02/red-megaphone.gif
-  - >
-    http://mkgmediagroup.com/wp-content/uploads/2012/02/red-megaphone.gif
-  - >
-    http://mkgmediagroup.com/wp-content/uploads/2012/02/red-megaphone.gif
-  - >
-    http://mkgmediagroup.com/wp-content/uploads/2012/02/red-megaphone.gif
-seo_follow:
-  - 'false'
-  - 'false'
-  - 'false'
-  - 'false'
-  - 'false'
-  - 'false'
-slider_thumbnail:
-  - >
-    http://mkgmediagroup.com/wp-content/uploads/2012/02/red-megaphone.gif
-  - >
-    http://mkgmediagroup.com/wp-content/uploads/2012/02/red-megaphone.gif
-  - >
-    http://mkgmediagroup.com/wp-content/uploads/2012/02/red-megaphone.gif
-  - >
-    http://mkgmediagroup.com/wp-content/uploads/2012/02/red-megaphone.gif
-  - >
-    http://mkgmediagroup.com/wp-content/uploads/2012/02/red-megaphone.gif
-  - >
-    http://mkgmediagroup.com/wp-content/uploads/2012/02/red-megaphone.gif
-seo_title:
-  - Messaging Your Target Audience
-seo_description:
-  - >
-    Once your audience is defined now you
-    need to figure out what message will
-    resonate with that target for your
-    display campaign. Be sure to test
-    multiple banner messages and calls to
-    action in an effort to optimize towards
-    the best results.
-seo_keywords:
-  - >
-    Advertising, Marketing, Paid Media, Paid
-    Advertising
-views:
-  - "120"
+meta:Once your audience is defined now you need to figure out what message will resonate with that target for your display campaign. Be sure to test multiple banner messages and calls to action in an effort to optimize towards the best results.
 ---
+
 <img class="alignleft size-medium wp-image-425" title="red-megaphone" src="http://mkgmediagroup.com/wp-content/uploads/2012/02/red-megaphone-300x202.gif" alt="" width="300" height="202" />
 
 After defining your audience next determine what your target audience needs to know and what actions they should take to find out more. Â This is one of the mostÂ importantÂ pieces of the campaign as this is what will be measured and optimized against to improve your campaign over time.

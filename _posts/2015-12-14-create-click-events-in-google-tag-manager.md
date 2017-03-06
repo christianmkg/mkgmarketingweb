@@ -1,9 +1,9 @@
 ---
 ID: 5676
-post_title: 'The 121 Second Guide to Create &#038; Deploy Click Events in Google Tag Manager'
+title: 'The 121 Second Guide to Create &#038; Deploy Click Events in Google Tag Manager'
 author: Mike Krass
-post_date: 2015-12-14 07:02:42
-post_excerpt: ""
+date: 2015-12-14 07:02:42
+
 layout: post
 permalink: >
   /create-click-events-in-google-tag-manager/

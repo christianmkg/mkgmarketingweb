@@ -1,9 +1,9 @@
 ---
 ID: 4630
-post_title: 'Commercials: The Ultimate Time Suck (Infographic)'
+title: 'Commercials: The Ultimate Time Suck (Infographic)'
 author: KerryGuard
-post_date: 2014-05-19 14:10:34
-post_excerpt: ""
+date: 2014-05-19 14:10:34
+
 layout: post
 permalink: >
   /commercials-the-ultimate-time-suck-infographic/

@@ -1,11 +1,11 @@
 ---
 ID: 4706
-post_title: >
+title: >
   5 Words to Use on Your Website (and 5
   Words to Avoid)
 author: Adam Bullock
-post_date: 2014-07-16 07:23:49
-post_excerpt: ""
+date: 2014-07-16 07:23:49
+
 layout: post
 permalink: >
   /5-words-use-website-5-words-avoid/

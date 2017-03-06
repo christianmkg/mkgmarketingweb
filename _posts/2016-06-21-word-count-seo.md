@@ -1,9 +1,9 @@
 ---
 ID: 5828
-post_title: 'Word Counts for SEO: How Many Words Should Your Content / SEO Elements Be?'
+title: 'Word Counts for SEO: How Many Words Should Your Content / SEO Elements Be?'
 author: Christian Bullock
-post_date: 2016-06-21 15:04:42
-post_excerpt: ""
+date: 2016-06-21 15:04:42
+
 layout: post
 permalink: >
   /word-count-seo/

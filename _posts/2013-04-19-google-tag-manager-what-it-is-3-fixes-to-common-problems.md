@@ -1,9 +1,9 @@
 ---
 ID: 2541
-post_title: 'Google Tag Manager: What It Is &#038; 3 Fixes to Common Problems'
+title: 'Google Tag Manager: What It Is &#038; 3 Fixes to Common Problems'
 author: Kerry Guard
-post_date: 2013-04-19 06:00:52
-post_excerpt: ""
+date: 2013-04-19 06:00:52
+
 layout: post
 permalink: >
   /google-tag-manager-what-it-is-3-fixes-to-common-problems/

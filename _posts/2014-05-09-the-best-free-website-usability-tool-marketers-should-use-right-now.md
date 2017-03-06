@@ -1,9 +1,9 @@
 ---
 ID: 4611
-post_title: 'The Best *Free* Website Usability Tool Marketers Should Use Right Now'
+title: 'The Best *Free* Website Usability Tool Marketers Should Use Right Now'
 author: Adam Bullock
-post_date: 2014-05-09 13:32:27
-post_excerpt: ""
+date: 2014-05-09 13:32:27
+
 layout: post
 permalink: >
   /the-best-free-website-usability-tool-marketers-should-use-right-now/

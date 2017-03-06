@@ -1,35 +1,8 @@
 ---
-ID: 752
-post_title: The Super Tuesday of Digital Media
+title: The Super Tuesday of Digital Media
 author: Kerry Guard
-post_date: 2012-03-06 09:51:47
-post_excerpt: ""
+date: 2012-03-06 09:51:47
 layout: post
-permalink: >
-  /the-super-tuesday-of-digital-media/
-published: true
-image:
-  - >
-    http://mkgmediagroup.com/wp-content/uploads/2012/03/safe-online-shopping.jpeg
-  - >
-    http://mkgmediagroup.com/wp-content/uploads/2012/03/safe-online-shopping.jpeg
-  - >
-    http://mkgmediagroup.com/wp-content/uploads/2012/03/safe-online-shopping.jpeg
-  - >
-    http://mkgmediagroup.com/wp-content/uploads/2012/03/safe-online-shopping.jpeg
-  - >
-    http://mkgmediagroup.com/wp-content/uploads/2012/03/safe-online-shopping.jpeg
-  - >
-    http://mkgmediagroup.com/wp-content/uploads/2012/03/safe-online-shopping.jpeg
-seo_follow:
-  - 'true'
-  - 'true'
-  - 'true'
-  - 'true'
-  - 'true'
-  - 'true'
-views:
-  - "61"
 ---
 <img class="alignleft  wp-image-753" title="shopping-bags" alt="online shopping amazon dealio" src="http://mkgmediagroup.com/wp-content/uploads/2012/03/shopping-bags2-300x300.jpg" width="180" height="180" />Super Tuesday is upon us -- Voters in 10 states will participate in caucuses and primaries that will award more more delegates in the Republican presidential nomination than all the caucuses and primaries that have come before it.
 <h3><em>So, what is the digital mediaÂ equivalentÂ of Super Tuesday?</em></h3>

@@ -1,9 +1,9 @@
 ---
 ID: 1402
-post_title: 'Happy Birthday &#038; The Power of Content'
+title: 'Happy Birthday &#038; The Power of Content'
 author: Kerry Guard
-post_date: 2012-08-08 15:10:22
-post_excerpt: ""
+date: 2012-08-08 15:10:22
+
 layout: post
 permalink: >
   /happy-birthday-the-power-of-content/

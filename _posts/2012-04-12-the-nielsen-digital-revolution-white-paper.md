@@ -1,9 +1,9 @@
 ---
 ID: 1050
-post_title: 'The Nielsen &#8216;Digital Revolution&#8217; White Paper'
+title: 'The Nielsen &#8216;Digital Revolution&#8217; White Paper'
 author: Kerry Guard
-post_date: 2012-04-12 09:05:45
-post_excerpt: ""
+date: 2012-04-12 09:05:45
+
 layout: post
 permalink: >
   /the-nielsen-digital-revolution-white-paper/

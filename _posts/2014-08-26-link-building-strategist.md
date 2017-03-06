@@ -1,9 +1,9 @@
 ---
 ID: 4793
-post_title: 'Attention: We&#8217;re Looking for a Link Building Strategist'
+title: 'Attention: We&#8217;re Looking for a Link Building Strategist'
 author: Adam Bullock
-post_date: 2014-08-26 16:00:34
-post_excerpt: ""
+date: 2014-08-26 16:00:34
+
 layout: post
 permalink: >
   /link-building-strategist/

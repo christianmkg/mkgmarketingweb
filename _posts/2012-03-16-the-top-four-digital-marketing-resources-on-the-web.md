@@ -1,11 +1,11 @@
 ---
 ID: 825
-post_title: >
+title: >
   The Four Best Digital Marketing
   Resources on the Web
 author: Kerry Guard
-post_date: 2012-03-16 09:38:33
-post_excerpt: ""
+date: 2012-03-16 09:38:33
+
 layout: post
 permalink: >
   /the-top-four-digital-marketing-resources-on-the-web/

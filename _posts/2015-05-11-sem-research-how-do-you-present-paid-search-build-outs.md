@@ -1,9 +1,9 @@
 ---
 ID: 5472
-post_title: 'SEM Research: How Do You Present Paid Search Build Outs?'
+title: 'SEM Research: How Do You Present Paid Search Build Outs?'
 author: Mike Krass
-post_date: 2015-05-11 09:53:03
-post_excerpt: ""
+date: 2015-05-11 09:53:03
+
 layout: post
 permalink: >
   /sem-research-how-do-you-present-paid-search-build-outs/

@@ -1,9 +1,9 @@
 ---
 ID: 1317
-post_title: 'Ending All &#8216;Bad Ads&#8217; Across the Web'
+title: 'Ending All &#8216;Bad Ads&#8217; Across the Web'
 author: Kerry Guard
-post_date: 2012-05-30 08:31:18
-post_excerpt: ""
+date: 2012-05-30 08:31:18
+
 layout: post
 permalink: >
   /ending-all-bad-ads-across-the-web/

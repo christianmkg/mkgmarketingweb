@@ -1,11 +1,11 @@
 ---
 ID: 1955
-post_title: >
+title: >
   Welcoming Christian Bullock to the MKG
   Team
 author: Kerry Guard
-post_date: 2013-01-07 10:59:20
-post_excerpt: ""
+date: 2013-01-07 10:59:20
+
 layout: post
 permalink: >
   /welcoming-christian-bullock-to-the-mkg-team/

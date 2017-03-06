@@ -1,9 +1,9 @@
 ---
 ID: 1245
-post_title: 10 Reasons to Start Your Own Company
+title: 10 Reasons to Start Your Own Company
 author: Kerry Guard
-post_date: 2012-05-10 10:21:30
-post_excerpt: ""
+date: 2012-05-10 10:21:30
+
 layout: post
 permalink: >
   /10-reasons-to-start-your-own-company/

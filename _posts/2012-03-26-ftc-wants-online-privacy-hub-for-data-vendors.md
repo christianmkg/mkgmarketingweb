@@ -1,11 +1,11 @@
 ---
 ID: 881
-post_title: >
+title: >
   FTC Wants Online Privacy Hub for Data
   Vendors
 author: Kerry Guard
-post_date: 2012-03-26 10:46:25
-post_excerpt: ""
+date: 2012-03-26 10:46:25
+
 layout: post
 permalink: >
   /ftc-wants-online-privacy-hub-for-data-vendors/

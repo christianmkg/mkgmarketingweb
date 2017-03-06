@@ -1,9 +1,9 @@
 ---
 ID: 953
-post_title: 'Measuring Social ROI using Adobe &#038; Google'
+title: 'Measuring Social ROI using Adobe &#038; Google'
 author: Kerry Guard
-post_date: 2012-04-02 00:56:47
-post_excerpt: ""
+date: 2012-04-02 00:56:47
+
 layout: post
 permalink: >
   /measuring-social-roi-using-adobe-google/

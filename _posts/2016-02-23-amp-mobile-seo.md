@@ -1,11 +1,11 @@
 ---
 ID: 5731
-post_title: >
+title: >
   Get Mobile Traffic? Implement AMP Format
   Now
 author: Christian Bullock
-post_date: 2016-02-23 13:44:47
-post_excerpt: ""
+date: 2016-02-23 13:44:47
+
 layout: post
 permalink: >
   /amp-mobile-seo/

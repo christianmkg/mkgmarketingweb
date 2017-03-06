@@ -1,9 +1,9 @@
 ---
 ID: 2227
-post_title: 'Relationship Marketing, March Madness &#038; Oreo Tweets'
+title: 'Relationship Marketing, March Madness &#038; Oreo Tweets'
 author: Kerry Guard
-post_date: 2013-03-19 08:09:55
-post_excerpt: ""
+date: 2013-03-19 08:09:55
+
 layout: post
 permalink: >
   /relationship-marketing-march-madness-oreo-tweets/

@@ -1,9 +1,9 @@
 ---
 ID: 1213
-post_title: Three Tips for User Acquisition
+title: Three Tips for User Acquisition
 author: Kerry Guard
-post_date: 2012-05-03 09:33:06
-post_excerpt: ""
+date: 2012-05-03 09:33:06
+
 layout: post
 permalink: >
   /three-tips-for-user-acquisition/

@@ -1,9 +1,9 @@
 ---
 ID: 2640
-post_title: 'Personalization Marketing Done Right: JetSetter'
+title: 'Personalization Marketing Done Right: JetSetter'
 author: KerryGuard
-post_date: 2013-04-30 12:30:16
-post_excerpt: ""
+date: 2013-04-30 12:30:16
+
 layout: post
 permalink: >
   /personalization-marketing-done-right-jetsetter/

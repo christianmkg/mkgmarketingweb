@@ -1,9 +1,9 @@
 ---
 ID: 2497
-post_title: 'The Cost, Return on Investment &#038; Benefits of Marketing Analytics'
+title: 'The Cost, Return on Investment &#038; Benefits of Marketing Analytics'
 author: Kerry Guard
-post_date: 2013-04-17 06:07:53
-post_excerpt: ""
+date: 2013-04-17 06:07:53
+
 layout: post
 permalink: >
   /the-cost-return-on-investment-benefits-of-marketing-analytics/

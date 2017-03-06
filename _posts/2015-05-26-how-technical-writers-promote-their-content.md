@@ -1,11 +1,11 @@
 ---
 ID: 5514
-post_title: >
+title: >
   How Technical Writers Promote Their
   Content
 author: Mike Krass
-post_date: 2015-05-26 07:18:41
-post_excerpt: ""
+date: 2015-05-26 07:18:41
+
 layout: post
 permalink: >
   /how-technical-writers-promote-their-content/

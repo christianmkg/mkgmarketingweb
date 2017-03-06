@@ -1,35 +1,8 @@
 ---
-ID: 763
-post_title: 'How to &#8220;Rush Limbaugh&#8221; Your Audience Online'
+title: 'How to &#8220;Rush Limbaugh&#8221; Your Audience Online'
 author: Kerry Guard
-post_date: 2012-03-07 09:48:18
-post_excerpt: ""
+date: 2012-03-07 09:48:18
 layout: post
-permalink: >
-  /how-to-rush-limbaugh-your-audience-online/
-published: true
-image:
-  - >
-    http://mkgmediagroup.com/wp-content/uploads/2012/03/120302_rush_limbaugh_ap_328.jpeg
-  - >
-    http://mkgmediagroup.com/wp-content/uploads/2012/03/120302_rush_limbaugh_ap_328.jpeg
-  - >
-    http://mkgmediagroup.com/wp-content/uploads/2012/03/120302_rush_limbaugh_ap_328.jpeg
-  - >
-    http://mkgmediagroup.com/wp-content/uploads/2012/03/120302_rush_limbaugh_ap_328.jpeg
-  - >
-    http://mkgmediagroup.com/wp-content/uploads/2012/03/120302_rush_limbaugh_ap_328.jpeg
-  - >
-    http://mkgmediagroup.com/wp-content/uploads/2012/03/120302_rush_limbaugh_ap_328.jpeg
-seo_follow:
-  - 'true'
-  - 'true'
-  - 'true'
-  - 'true'
-  - 'true'
-  - 'true'
-views:
-  - "61"
 ---
 <img class="alignleft  wp-image-765" title="rush-limbaugh" alt="rush limbaugh sandra fluke " src="http://mkgmediagroup.com/wp-content/uploads/2012/03/rush-limbaugh-253x300.jpg" width="177" height="210" />As of yesterday morning, the <a href="http://www.hollywoodreporter.com/news/rush-limbaugh-sponsor-exodus-sandra-fluke-station-loss-297057" target="_blank">exodus of advertisers from the Rush Limbaugh</a>Â radio programÂ reached a new high: <em><strong>Forty.</strong></em>
 

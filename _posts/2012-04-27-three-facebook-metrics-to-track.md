@@ -1,9 +1,9 @@
 ---
 ID: 1168
-post_title: Three Facebook Metrics to Track
+title: Three Facebook Metrics to Track
 author: Kerry Guard
-post_date: 2012-04-27 10:29:55
-post_excerpt: ""
+date: 2012-04-27 10:29:55
+
 layout: post
 permalink: >
   /three-facebook-metrics-to-track/

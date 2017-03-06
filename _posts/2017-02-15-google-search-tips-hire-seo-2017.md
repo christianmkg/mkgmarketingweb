@@ -1,9 +1,9 @@
 ---
 ID: 6050
-post_title: 'Google Search Team Tips to Hire an SEO &#8211; February 2017'
+title: 'Google Search Team Tips to Hire an SEO &#8211; February 2017'
 author: Mike Krass
-post_date: 2017-02-15 12:17:58
-post_excerpt: ""
+date: 2017-02-15 12:17:58
+
 layout: post
 permalink: >
   /google-search-tips-hire-seo-2017/

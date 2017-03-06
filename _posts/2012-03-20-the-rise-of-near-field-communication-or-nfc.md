@@ -1,11 +1,11 @@
 ---
 ID: 910
-post_title: >
+title: >
   The Rise of Near Field Communication, or
   NFC
 author: Kerry Guard
-post_date: 2012-03-20 09:35:28
-post_excerpt: ""
+date: 2012-03-20 09:35:28
+
 layout: post
 permalink: >
   /the-rise-of-near-field-communication-or-nfc/

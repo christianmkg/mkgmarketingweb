@@ -1,9 +1,9 @@
 ---
 ID: 5647
-post_title: 'Job Posting: SEM Intern for Spring 2016'
+title: 'Job Posting: SEM Intern for Spring 2016'
 author: Mike Krass
-post_date: 2015-11-02 11:29:15
-post_excerpt: ""
+date: 2015-11-02 11:29:15
+
 layout: post
 permalink: >
   /job-posting-sem-intern-for-spring-2016/

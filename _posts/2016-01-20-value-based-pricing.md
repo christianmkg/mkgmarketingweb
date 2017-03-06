@@ -1,11 +1,11 @@
 ---
 ID: 5704
-post_title: >
+title: >
   Value Based Pricing for Marketing
   Agencies
 author: Mike Krass
-post_date: 2016-01-20 07:57:50
-post_excerpt: ""
+date: 2016-01-20 07:57:50
+
 layout: post
 permalink: >
   /value-based-pricing/

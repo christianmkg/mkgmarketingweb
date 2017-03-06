@@ -1,9 +1,9 @@
 ---
 ID: 3552
-post_title: 'Diary of a Digital Marketing Intern: Part 1 of 5'
+title: 'Diary of a Digital Marketing Intern: Part 1 of 5'
 author: JaminDaily
-post_date: 2013-07-01 11:43:04
-post_excerpt: ""
+date: 2013-07-01 11:43:04
+
 layout: post
 permalink: >
   /dairy-of-a-digital-marketing-intern-part-1-of-5/

@@ -1,9 +1,9 @@
 ---
 ID: 5168
-post_title: Adam Bids MKG Media Group Adieu
+title: Adam Bids MKG Media Group Adieu
 author: Adam Bullock
-post_date: 2015-01-30 13:19:57
-post_excerpt: ""
+date: 2015-01-30 13:19:57
+
 layout: post
 permalink: >
   /adam-bids-mkg-media-group-adieu/

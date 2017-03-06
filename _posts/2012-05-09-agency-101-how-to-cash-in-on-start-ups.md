@@ -1,9 +1,9 @@
 ---
 ID: 1240
-post_title: 'Agency 101: How to Cash in On Start Ups'
+title: 'Agency 101: How to Cash in On Start Ups'
 author: Kerry Guard
-post_date: 2012-05-09 10:45:32
-post_excerpt: ""
+date: 2012-05-09 10:45:32
+
 layout: post
 permalink: >
   /agency-101-how-to-cash-in-on-start-ups/

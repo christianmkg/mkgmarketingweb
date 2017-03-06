@@ -1,11 +1,11 @@
 ---
 ID: 2539
-post_title: >
+title: >
   MKG Media Group named Agency of Record
   for Zweena Health
 author: Kerry Guard
-post_date: 2013-04-22 06:10:59
-post_excerpt: ""
+date: 2013-04-22 06:10:59
+
 layout: post
 permalink: >
   /mkg-media-group-named-agency-of-record-for-zweena-health/

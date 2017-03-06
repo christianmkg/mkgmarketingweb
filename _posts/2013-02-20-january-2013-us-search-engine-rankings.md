@@ -1,9 +1,9 @@
 ---
 ID: 2172
-post_title: January 2013 U.S. Search Engine Rankings
+title: January 2013 U.S. Search Engine Rankings
 author: Kerry Guard
-post_date: 2013-02-20 09:27:32
-post_excerpt: ""
+date: 2013-02-20 09:27:32
+
 layout: post
 permalink: >
   /january-2013-us-search-engine-rankings/

@@ -1,9 +1,9 @@
 ---
 ID: 1085
-post_title: 'How Lasers Took Over Coachella, the Fiesta Bowl &#038; London'
+title: 'How Lasers Took Over Coachella, the Fiesta Bowl &#038; London'
 author: Kerry Guard
-post_date: 2012-04-17 08:22:21
-post_excerpt: ""
+date: 2012-04-17 08:22:21
+
 layout: post
 permalink: >
   /how-lasers-took-over-coachella-the-fiesta-bowl-london/

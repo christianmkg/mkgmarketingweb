@@ -1,11 +1,11 @@
 ---
 ID: 911
-post_title: >
+title: >
   Ad Age Interactive Marketing Spend
   Forecast
 author: Kerry Guard
-post_date: 2012-03-21 08:10:33
-post_excerpt: ""
+date: 2012-03-21 08:10:33
+
 layout: post
 permalink: >
   /ad-age-interactive-marketing-spend-forecast/

@@ -1,9 +1,9 @@
 ---
 ID: 5993
-post_title: 'Healthcare Marketing Trends in 2017: Costs &#038; Outcomes'
+title: 'Healthcare Marketing Trends in 2017: Costs &#038; Outcomes'
 author: Mike Krass
-post_date: 2016-11-21 05:57:29
-post_excerpt: ""
+date: 2016-11-21 05:57:29
+
 layout: post
 permalink: >
   /healthcare-marketing-trends-in-2017-costs-outcomes/

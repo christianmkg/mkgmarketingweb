@@ -1,42 +1,8 @@
 ---
-ID: 415
-post_title: How to Combat Unseen Ads Online
+title: How to Combat Unseen Ads Online
 author: Kerry Guard
-post_date: 2012-02-03 07:51:52
-post_excerpt: ""
+date: 2012-02-03 07:51:52
 layout: post
-permalink: >
-  /how-to-combat-unseen-ads-online/
-published: true
-slider_style:
-  - default
-  - default
-  - default
-  - default
-  - default
-  - default
-image:
-  - >
-    http://mkgmediagroup.com/wp-content/uploads/2012/02/goals1.jpeg
-  - >
-    http://mkgmediagroup.com/wp-content/uploads/2012/02/goals1.jpeg
-  - >
-    http://mkgmediagroup.com/wp-content/uploads/2012/02/goals1.jpeg
-  - >
-    http://mkgmediagroup.com/wp-content/uploads/2012/02/goals1.jpeg
-  - >
-    http://mkgmediagroup.com/wp-content/uploads/2012/02/goals1.jpeg
-  - >
-    http://mkgmediagroup.com/wp-content/uploads/2012/02/goals1.jpeg
-seo_follow:
-  - 'true'
-  - 'true'
-  - 'true'
-  - 'true'
-  - 'true'
-  - 'true'
-views:
-  - "54"
 ---
 <p style="text-align: left;"><img class="alignleft size-full wp-image-417" title="goals" src="http://mkgmediagroup.com/wp-content/uploads/2012/02/goals.jpeg" alt="" width="400" height="300" /></p>
 <p style="text-align: left;">According to <a href="http://www.comscore.com/Press_Events/Press_Releases/2012/1/comScore_Introduces_Validated_Campaign_Essentials" target="_blank">ComScore research released in January of this year</a>, 31% of online ad impressions are never even seen by an end user.</p>

@@ -1,9 +1,9 @@
 ---
 ID: 1177
-post_title: The Future of MKG Media Group
+title: The Future of MKG Media Group
 author: Kerry Guard
-post_date: 2012-04-30 08:44:55
-post_excerpt: ""
+date: 2012-04-30 08:44:55
+
 layout: post
 permalink: >
   /vision-moving-forward-for-mkg-media-group/

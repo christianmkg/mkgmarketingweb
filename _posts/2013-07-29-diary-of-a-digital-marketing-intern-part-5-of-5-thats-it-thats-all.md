@@ -1,9 +1,9 @@
 ---
 ID: 3800
-post_title: 'Diary of a Digital Marketing Intern (Part 5 of 5): That&#8217;s It, That&#8217;s All!'
+title: 'Diary of a Digital Marketing Intern (Part 5 of 5): That&#8217;s It, That&#8217;s All!'
 author: JaminDaily
-post_date: 2013-07-29 14:20:01
-post_excerpt: ""
+date: 2013-07-29 14:20:01
+
 layout: post
 permalink: >
   /diary-of-a-digital-marketing-intern-part-5-of-5-thats-it-thats-all/

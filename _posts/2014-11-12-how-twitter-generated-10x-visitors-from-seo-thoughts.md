@@ -1,9 +1,9 @@
 ---
 ID: 4954
-post_title: 'How Twitter Generated 10x Visitors from SEO: Our Thoughts'
+title: 'How Twitter Generated 10x Visitors from SEO: Our Thoughts'
 author: Kerry Guard
-post_date: 2014-11-12 16:32:20
-post_excerpt: ""
+date: 2014-11-12 16:32:20
+
 layout: post
 permalink: >
   /how-twitter-generated-10x-visitors-from-seo-thoughts/

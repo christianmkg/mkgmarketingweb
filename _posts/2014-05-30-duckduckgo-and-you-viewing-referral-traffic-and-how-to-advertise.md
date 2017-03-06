@@ -1,9 +1,9 @@
 ---
 ID: 4674
-post_title: 'DuckDuckGo and YOU: Viewing Referral Traffic &#038; How to Advertise'
+title: 'DuckDuckGo and YOU: Viewing Referral Traffic &#038; How to Advertise'
 author: Adam Bullock
-post_date: 2014-05-30 13:02:32
-post_excerpt: ""
+date: 2014-05-30 13:02:32
+
 layout: post
 permalink: >
   /duckduckgo-and-you-viewing-referral-traffic-and-how-to-advertise/

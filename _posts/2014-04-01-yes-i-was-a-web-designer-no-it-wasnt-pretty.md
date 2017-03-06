@@ -1,9 +1,9 @@
 ---
 ID: 4294
-post_title: 'Yes, I was a Web Designer. No, it wasn&#8217;t pretty.'
+title: 'Yes, I was a Web Designer. No, it wasn&#8217;t pretty.'
 author: Kerry Guard
-post_date: 2014-04-01 09:45:05
-post_excerpt: ""
+date: 2014-04-01 09:45:05
+
 layout: post
 permalink: >
   /yes-i-was-a-web-designer-no-it-wasnt-pretty/

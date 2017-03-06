@@ -1,42 +1,8 @@
 ---
-ID: 403
-post_title: Measuring Qualified Leads
+title: Measuring Qualified Leads
 author: Kerry Guard
-post_date: 2012-02-27 09:55:04
-post_excerpt: ""
+date: 2012-02-27 09:55:04
 layout: post
-permalink: >
-  /measuring-qualified-leads/
-published: true
-slider_style:
-  - default
-  - default
-  - default
-  - default
-  - default
-  - default
-image:
-  - >
-    http://mkgmediagroup.com/wp-content/uploads/2012/02/Human-network.jpeg
-  - >
-    http://mkgmediagroup.com/wp-content/uploads/2012/02/Human-network.jpeg
-  - >
-    http://mkgmediagroup.com/wp-content/uploads/2012/02/Human-network.jpeg
-  - >
-    http://mkgmediagroup.com/wp-content/uploads/2012/02/Human-network.jpeg
-  - >
-    http://mkgmediagroup.com/wp-content/uploads/2012/02/Human-network.jpeg
-  - >
-    http://mkgmediagroup.com/wp-content/uploads/2012/02/Human-network.jpeg
-seo_follow:
-  - 'true'
-  - 'true'
-  - 'true'
-  - 'true'
-  - 'true'
-  - 'true'
-views:
-  - "69"
 ---
 <img class="alignleft size-full wp-image-698" title="quality leads" src="http://mkgmediagroup.com/wp-content/uploads/2012/02/Quality-MLM-Lead1.jpeg" alt="sales leads" width="290" height="234" />At some point in your working life, it's inevitable that this subject will be brought up by the client ...
 <h2><em>Our conversions are booming, but how do we understand if these are quality leads?</em></h2>

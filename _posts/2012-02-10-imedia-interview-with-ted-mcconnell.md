@@ -1,42 +1,8 @@
 ---
-ID: 530
-post_title: iMedia Interview with Ted McConnell
+title: iMedia Interview with Ted McConnell
 author: Kerry Guard
-post_date: 2012-02-10 10:00:39
-post_excerpt: ""
+date: 2012-02-10 10:00:39
 layout: post
-permalink: >
-  /imedia-interview-with-ted-mcconnell/
-published: true
-slider_style:
-  - default
-  - default
-  - default
-  - default
-  - default
-  - default
-image:
-  - >
-    http://mkgmediagroup.com/wp-content/uploads/2012/02/TedMcConnellSarahFayiMedia.png
-  - >
-    http://mkgmediagroup.com/wp-content/uploads/2012/02/TedMcConnellSarahFayiMedia.png
-  - >
-    http://mkgmediagroup.com/wp-content/uploads/2012/02/TedMcConnellSarahFayiMedia.png
-  - >
-    http://mkgmediagroup.com/wp-content/uploads/2012/02/TedMcConnellSarahFayiMedia.png
-  - >
-    http://mkgmediagroup.com/wp-content/uploads/2012/02/TedMcConnellSarahFayiMedia.png
-  - >
-    http://mkgmediagroup.com/wp-content/uploads/2012/02/TedMcConnellSarahFayiMedia.png
-seo_follow:
-  - 'true'
-  - 'true'
-  - 'true'
-  - 'true'
-  - 'true'
-  - 'true'
-views:
-  - "74"
 ---
 Earlier this year, Sarah Fay (Chairman of Board of Governors for ad:tech and iMedia) discussed advertisingÂ measurementÂ with Ted McConnell, the new EVP of Digital at the Advertising Research Foundation.
 

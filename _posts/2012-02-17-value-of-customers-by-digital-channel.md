@@ -1,35 +1,8 @@
 ---
-ID: 602
-post_title: Value of Customers by Digital Channel
+title: Value of Customers by Digital Channel
 author: Kerry Guard
-post_date: 2012-02-17 11:15:28
-post_excerpt: ""
+date: 2012-02-17 11:15:28
 layout: post
-permalink: >
-  /value-of-customers-by-digital-channel/
-published: true
-seo_follow:
-  - 'true'
-  - 'true'
-  - 'true'
-  - 'true'
-  - 'true'
-  - 'true'
-image:
-  - >
-    http://mkgmediagroup.com/wp-content/uploads/2012/02/social_networking_iconpack_452.jpeg
-  - >
-    http://mkgmediagroup.com/wp-content/uploads/2012/02/social_networking_iconpack_452.jpeg
-  - >
-    http://mkgmediagroup.com/wp-content/uploads/2012/02/social_networking_iconpack_452.jpeg
-  - >
-    http://mkgmediagroup.com/wp-content/uploads/2012/02/social_networking_iconpack_452.jpeg
-  - >
-    http://mkgmediagroup.com/wp-content/uploads/2012/02/social_networking_iconpack_452.jpeg
-  - >
-    http://mkgmediagroup.com/wp-content/uploads/2012/02/social_networking_iconpack_452.jpeg
-views:
-  - "61"
 ---
 <img class="alignleft size-medium wp-image-648" title="social-media-success" src="http://mkgmediagroup.com/wp-content/uploads/2012/02/social-media-success-300x250.jpg" alt="" width="300" height="250" />ClearSaleing, the analytics and attribution provider, <a href="http://www.emarketer.com/Article.aspx?R=1008845&amp;awid=6273373231268389210-3483" target="_blank">provided data to eMarketer </a>that showed the average revenue per order &amp; revenue per click based upon which paid &amp; earned media touch points consumers interacted with online.
 

@@ -1,9 +1,9 @@
 ---
 ID: 1338
-post_title: 'Next Up for Digital Media: Programmatic Premium'
+title: 'Next Up for Digital Media: Programmatic Premium'
 author: Kerry Guard
-post_date: 2012-06-12 10:57:48
-post_excerpt: ""
+date: 2012-06-12 10:57:48
+
 layout: post
 permalink: >
   /next-up-for-digital-media-programmatic-premium/

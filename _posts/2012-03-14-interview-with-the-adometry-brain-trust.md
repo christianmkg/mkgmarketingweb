@@ -1,9 +1,9 @@
 ---
 ID: 807
-post_title: Interview with the Adometry Brain Trust
+title: Interview with the Adometry Brain Trust
 author: Kerry Guard
-post_date: 2012-03-14 08:50:40
-post_excerpt: ""
+date: 2012-03-14 08:50:40
+
 layout: post
 permalink: >
   /interview-with-the-adometry-brain-trust/

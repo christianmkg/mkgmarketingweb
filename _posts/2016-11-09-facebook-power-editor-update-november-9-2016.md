@@ -1,9 +1,9 @@
 ---
 ID: 5984
-post_title: 'Facebook Ad&#8217;s Power Editor Update &#8211; November 9, 2016'
+title: 'Facebook Ad&#8217;s Power Editor Update &#8211; November 9, 2016'
 author: Adam Bullock
-post_date: 2016-11-09 15:14:17
-post_excerpt: ""
+date: 2016-11-09 15:14:17
+
 layout: post
 permalink: >
   /facebook-power-editor-update-november-9-2016/

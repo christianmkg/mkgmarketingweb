@@ -1,9 +1,9 @@
 ---
 ID: 5875
-post_title: 'What the 6/29 Facebook News Feed Update Means for Marketers &#038; Facebook Ads'
+title: 'What the 6/29 Facebook News Feed Update Means for Marketers &#038; Facebook Ads'
 author: Adam Bullock
-post_date: 2016-06-30 16:11:28
-post_excerpt: ""
+date: 2016-06-30 16:11:28
+
 layout: post
 permalink: >
   /what-the-june-29-2016-facebook-news-feed-update-means-for-marketers-and-facebook-ads/

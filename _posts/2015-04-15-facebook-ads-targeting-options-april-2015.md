@@ -1,9 +1,9 @@
 ---
 ID: 5416
-post_title: 'Facebook Ads: Targeting Options in April 2015 [VIDEO]'
+title: 'Facebook Ads: Targeting Options in April 2015 [VIDEO]'
 author: Christian Bullock
-post_date: 2015-04-15 14:49:47
-post_excerpt: ""
+date: 2015-04-15 14:49:47
+
 layout: post
 permalink: >
   /facebook-ads-targeting-options-april-2015/

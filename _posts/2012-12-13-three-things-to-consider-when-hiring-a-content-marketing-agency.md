@@ -1,11 +1,11 @@
 ---
 ID: 1790
-post_title: >
+title: >
   Three Things to Consider When Hiring a
   Content Marketing Agency
 author: Kerry Guard
-post_date: 2012-12-13 11:08:51
-post_excerpt: ""
+date: 2012-12-13 11:08:51
+
 layout: post
 permalink: >
   /three-things-to-consider-when-hiring-a-content-marketing-agency/

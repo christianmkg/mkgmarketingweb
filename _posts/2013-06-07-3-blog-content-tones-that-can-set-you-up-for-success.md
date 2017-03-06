@@ -1,11 +1,11 @@
 ---
 ID: 3336
-post_title: >
+title: >
   3 Blog Content Tones That Can Set You Up
   for Success
 author: KerryGuard
-post_date: 2013-06-07 07:30:58
-post_excerpt: ""
+date: 2013-06-07 07:30:58
+
 layout: post
 permalink: >
   /3-blog-content-tones-that-can-set-you-up-for-success/

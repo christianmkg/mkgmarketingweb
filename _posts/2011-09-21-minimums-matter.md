@@ -1,36 +1,9 @@
 ---
-ID: 3351
-post_title: Minimums Matter for Maximum Results
+title: Minimums Matter for Maximum Results
 author: KerryGuard
-post_date: 2011-09-21 18:18:44
-post_excerpt: ""
+date: 2011-09-21 18:18:44
 layout: post
-permalink: >
-  /minimums-matter/
-published: true
-slider_style:
-  - default
-  - default
-  - default
-  - default
-  - default
-  - default
-image:
-  - ""
-  - ""
-  - ""
-  - ""
-  - ""
-  - ""
-seo_follow:
-  - 'true'
-  - 'true'
-  - 'true'
-  - 'true'
-  - 'true'
-  - 'true'
-views:
-  - "54"
+
 ---
 <ul>
 	<li>Cost per click - Â no minimum, but results achieved through constant manual optimization</li>

@@ -1,9 +1,9 @@
 ---
 ID: 1206
-post_title: 'The &#8216;Deere Season&#8217; Facebook App'
+title: 'The &#8216;Deere Season&#8217; Facebook App'
 author: Kerry Guard
-post_date: 2012-05-02 09:55:56
-post_excerpt: ""
+date: 2012-05-02 09:55:56
+
 layout: post
 permalink: >
   /the-deere-season-facebook-app/

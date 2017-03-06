@@ -1,9 +1,9 @@
 ---
 ID: 2184
-post_title: 'How to Personalize &#038; Scale Your Digital Marketing'
+title: 'How to Personalize &#038; Scale Your Digital Marketing'
 author: KerryGuard
-post_date: 2013-04-16 06:00:10
-post_excerpt: ""
+date: 2013-04-16 06:00:10
+
 layout: post
 permalink: >
   /how-to-personalize-scale-your-digital-marketing/

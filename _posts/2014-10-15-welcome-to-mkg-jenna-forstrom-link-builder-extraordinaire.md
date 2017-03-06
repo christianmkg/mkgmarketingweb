@@ -1,9 +1,9 @@
 ---
 ID: 4850
-post_title: 'Welcome to MKG: Jenna Forstrom, Link Builder Extraordinaire'
+title: 'Welcome to MKG: Jenna Forstrom, Link Builder Extraordinaire'
 author: JennaForstrom
-post_date: 2014-10-15 06:38:10
-post_excerpt: ""
+date: 2014-10-15 06:38:10
+
 layout: post
 permalink: >
   /welcome-to-mkg-jenna-forstrom-link-builder-extraordinaire/

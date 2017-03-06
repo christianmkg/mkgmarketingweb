@@ -1,9 +1,9 @@
 ---
 ID: 5424
-post_title: 'QA Optimizely Experiments: A 3-Step Guide'
+title: 'QA Optimizely Experiments: A 3-Step Guide'
 author: Mike Krass
-post_date: 2015-04-27 06:59:47
-post_excerpt: ""
+date: 2015-04-27 06:59:47
+
 layout: post
 permalink: >
   /qa-optimizely-experiments/
