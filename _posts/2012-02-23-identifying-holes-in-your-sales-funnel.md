@@ -1,5 +1,5 @@
 ---
-title: 'Identifying &#8216;Holes&#8217; in Your Sales Funnel'
+title: Identifying &#8216;Holes&#8217; in Your Sales Funnel
 author: Kerry Guard
 date: 2012-02-23 09:41:06
 layout: post

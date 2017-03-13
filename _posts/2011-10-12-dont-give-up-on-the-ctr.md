@@ -1,5 +1,5 @@
 ---
-title: 'Don&#8217;t give up on the CTR'
+title: Don&#8217;t give up on the CTR
 author: KerryGuard
 date: 2011-10-12 10:57:05
 layout: post

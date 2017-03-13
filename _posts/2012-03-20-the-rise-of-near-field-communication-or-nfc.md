@@ -1,5 +1,4 @@
 ---
-ID: 910
 title: >
   The Rise of Near Field Communication, or
   NFC

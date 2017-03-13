@@ -1,37 +1,8 @@
 ---
-ID: 825
-title: >
-  The Four Best Digital Marketing
-  Resources on the Web
+title: The Four Best Digital Marketing Resources on the Web
 author: Kerry Guard
 date: 2012-03-16 09:38:33
-
 layout: post
-permalink: >
-  /the-top-four-digital-marketing-resources-on-the-web/
-published: true
-image:
-  - >
-    http://mkgmediagroup.com/wp-content/uploads/2012/03/clickZ.png
-  - >
-    http://mkgmediagroup.com/wp-content/uploads/2012/03/clickZ.png
-  - >
-    http://mkgmediagroup.com/wp-content/uploads/2012/03/clickZ.png
-  - >
-    http://mkgmediagroup.com/wp-content/uploads/2012/03/clickZ.png
-  - >
-    http://mkgmediagroup.com/wp-content/uploads/2012/03/clickZ.png
-  - >
-    http://mkgmediagroup.com/wp-content/uploads/2012/03/clickZ.png
-seo_follow:
-  - 'true'
-  - 'true'
-  - 'true'
-  - 'true'
-  - 'true'
-  - 'true'
-views:
-  - "65"
 ---
 <h2><em><img class="alignleft  wp-image-828" title="best of the best" src="http://mkgmediagroup.com/wp-content/uploads/2012/03/best-of-the-best.jpeg" alt="" width="183" height="176" />What on earth makes these MKG guys experts?</em></h2>
 First of all, we don't claim to be the end-all-be-all of digital media &amp; marketing knowledge ... Far from it, in fact.

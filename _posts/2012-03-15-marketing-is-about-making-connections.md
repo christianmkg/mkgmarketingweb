@@ -1,35 +1,8 @@
 ---
-ID: 817
 title: Marketing is About Making Connections
 author: Kerry Guard
 date: 2012-03-15 13:28:22
-
 layout: post
-permalink: >
-  /marketing-is-about-making-connections/
-published: true
-image:
-  - >
-    http://mkgmediagroup.com/wp-content/uploads/2012/03/community.jpeg
-  - >
-    http://mkgmediagroup.com/wp-content/uploads/2012/03/community.jpeg
-  - >
-    http://mkgmediagroup.com/wp-content/uploads/2012/03/community.jpeg
-  - >
-    http://mkgmediagroup.com/wp-content/uploads/2012/03/community.jpeg
-  - >
-    http://mkgmediagroup.com/wp-content/uploads/2012/03/community.jpeg
-  - >
-    http://mkgmediagroup.com/wp-content/uploads/2012/03/community.jpeg
-seo_follow:
-  - 'true'
-  - 'true'
-  - 'true'
-  - 'true'
-  - 'true'
-  - 'true'
-views:
-  - "94"
 ---
 <h2><img class="alignleft  wp-image-818" title="making-connections" src="http://mkgmediagroup.com/wp-content/uploads/2012/03/making-connections-300x225.jpg" alt="" width="210" height="158" /><em>Today, I had the pleasure of attending the <a href="http://www.salesforce.com/events/details/cf12-sf/registration.jsp" target="_blank">Cloud Force conference</a> here in San Francisco.</em></h2>
 Put on by <a href="http://salesforce.com" target="_blank">Sales Force</a>, the conference brought together start-up founders, marketers and brand leaders from companies like <a href="http://burberry.com" target="_blank">Burberry</a>, <a href="http://toyota.com" target="_blank">Toyota</a>, <a href="http://radian6.com" target="_blank">Radian6</a> &amp; more to discuss the way the social enterprise is quickly shaping how business is conducted today.

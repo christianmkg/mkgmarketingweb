@@ -1,37 +1,8 @@
 ---
-ID: 797
-title: >
-  Using March Madness to Highlight
-  Customer Touchpoints
+title: Using March Madness to Highlight Customer Touchpoints
 author: Kerry Guard
 date: 2012-03-13 07:43:41
-
 layout: post
-permalink: >
-  /using-march-madness-to-highlight-customer-touchpoints/
-published: true
-image:
-  - >
-    http://mkgmediagroup.com/wp-content/uploads/2012/03/streamingmarchmadnessmobiledevice.png
-  - >
-    http://mkgmediagroup.com/wp-content/uploads/2012/03/streamingmarchmadnessmobiledevice.png
-  - >
-    http://mkgmediagroup.com/wp-content/uploads/2012/03/streamingmarchmadnessmobiledevice.png
-  - >
-    http://mkgmediagroup.com/wp-content/uploads/2012/03/streamingmarchmadnessmobiledevice.png
-  - >
-    http://mkgmediagroup.com/wp-content/uploads/2012/03/streamingmarchmadnessmobiledevice.png
-  - >
-    http://mkgmediagroup.com/wp-content/uploads/2012/03/streamingmarchmadnessmobiledevice.png
-seo_follow:
-  - 'true'
-  - 'true'
-  - 'true'
-  - 'true'
-  - 'true'
-  - 'true'
-views:
-  - "105"
 ---
 <h2><img class="alignleft size-medium wp-image-801" title="stream NCAA March Madness on iPhone" src="http://mkgmediagroup.com/wp-content/uploads/2012/03/iphonebasketball-300x199.png" alt="Stream March Madness Android iPhone iPad" width="300" height="199" /></h2>
 <h2><em>8.4 million viewers per game across 4 television networks &amp; more than 26 million site visitors over the first few days of the tournament.</em></h2>

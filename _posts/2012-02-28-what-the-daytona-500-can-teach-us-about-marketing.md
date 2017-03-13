@@ -1,37 +1,8 @@
 ---
-ID: 710
-title: >
-  What The Daytona 500 Can Teach Us About
-  Marketing
+title: What The Daytona 500 Can Teach Us About Marketing
 author: Kerry Guard
 date: 2012-02-28 09:24:10
-excerpt: ""
 layout: post
-permalink: >
-  /what-the-daytona-500-can-teach-us-about-marketing/
-published: true
-image:
-  - >
-    http://mkgmediagroup.com/wp-content/uploads/2012/02/daytona5002012.jpeg
-  - >
-    http://mkgmediagroup.com/wp-content/uploads/2012/02/daytona5002012.jpeg
-  - >
-    http://mkgmediagroup.com/wp-content/uploads/2012/02/daytona5002012.jpeg
-  - >
-    http://mkgmediagroup.com/wp-content/uploads/2012/02/daytona5002012.jpeg
-  - >
-    http://mkgmediagroup.com/wp-content/uploads/2012/02/daytona5002012.jpeg
-  - >
-    http://mkgmediagroup.com/wp-content/uploads/2012/02/daytona5002012.jpeg
-seo_follow:
-  - 'true'
-  - 'true'
-  - 'true'
-  - 'true'
-  - 'true'
-  - 'true'
-views:
-  - "45"
 ---
 <img class="alignleft size-medium wp-image-712" title="daytona-500-2012-crash" src="http://mkgmediagroup.com/wp-content/uploads/2012/02/daytona-500-2012-crash-300x201.jpg" alt="" width="300" height="201" />Monday's latest rendition of the Daytona 500 featured it all: A super wreck on the second lap, drivers updating their Twitter accounts mid-lap and even someone slamming into a maintenance vehicle on the track.
 <h2><em>But I'd like to explore a couple things that the Daytona 500 can teach us marketers ...</em></h2>

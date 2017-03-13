@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Small Agency Advantage"
+title: Small Agency Advantage
 date: 2011-08-15 21:42:10
 categories: agency
 author: Kerry Guard

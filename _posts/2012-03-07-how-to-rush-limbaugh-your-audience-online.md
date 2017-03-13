@@ -1,5 +1,5 @@
 ---
-title: 'How to &#8220;Rush Limbaugh&#8221; Your Audience Online'
+title: How to &#8220;Rush Limbaugh&#8221; Your Audience Online
 author: Kerry Guard
 date: 2012-03-07 09:48:18
 layout: post

@@ -1,35 +1,8 @@
 ---
-ID: 807
 title: Interview with the Adometry Brain Trust
 author: Kerry Guard
 date: 2012-03-14 08:50:40
-
 layout: post
-permalink: >
-  /interview-with-the-adometry-brain-trust/
-published: true
-seo_follow:
-  - 'true'
-  - 'true'
-  - 'true'
-  - 'true'
-  - 'true'
-  - 'true'
-image:
-  - >
-    http://mkgmediagroup.com/wp-content/uploads/2012/03/Adometrywebsite.png
-  - >
-    http://mkgmediagroup.com/wp-content/uploads/2012/03/Adometrywebsite.png
-  - >
-    http://mkgmediagroup.com/wp-content/uploads/2012/03/Adometrywebsite.png
-  - >
-    http://mkgmediagroup.com/wp-content/uploads/2012/03/Adometrywebsite.png
-  - >
-    http://mkgmediagroup.com/wp-content/uploads/2012/03/Adometrywebsite.png
-  - >
-    http://mkgmediagroup.com/wp-content/uploads/2012/03/Adometrywebsite.png
-views:
-  - "79"
 ---
 <em><img class="alignleft size-medium wp-image-815" title="official adometry logo" src="http://mkgmediagroup.com/wp-content/uploads/2012/03/official-adometry-logo-300x98.jpg" alt="" width="300" height="98" />Todays guest post comes courtesy of our good friends at <a href="http://adometry.com" target="_blank">Adometry</a> out of Seattle.</em>
 

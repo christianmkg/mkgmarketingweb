@@ -1,5 +1,5 @@
 ---
-title: 'Anatomy of a Display Campaign: Target Audience'
+title: Anatomy of a Display Campaign: Target Audience
 author: KerryGuard
 date: 2012-01-29 22:39:52
 layout: post

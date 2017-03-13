@@ -1,6 +1,5 @@
 ---
-ID: 717
-title: 'What is a Data Management Platform &#038; Do I Need One?'
+title: What is a Data Management Platform &#038; Do I Need One?
 author: Kerry Guard
 date: 2012-02-29 09:48:39
 layout: post

@@ -1,43 +1,8 @@
 ---
-ID: 837
 title: The Rise of Social Shopping
 author: Kerry Guard
 date: 2012-03-19 09:30:12
-
 layout: post
-permalink: >
-  /the-rise-of-social-shopping/
-published: true
-image:
-  - >
-    http://mkgmediagroup.com/wp-content/uploads/2012/03/socialcommerceAmEx.png
-  - >
-    http://mkgmediagroup.com/wp-content/uploads/2012/03/socialcommerceAmEx.png
-  - >
-    http://mkgmediagroup.com/wp-content/uploads/2012/03/socialcommerceAmEx.png
-  - >
-    http://mkgmediagroup.com/wp-content/uploads/2012/03/socialcommerceAmEx.png
-  - >
-    http://mkgmediagroup.com/wp-content/uploads/2012/03/socialcommerceAmEx.png
-  - >
-    http://mkgmediagroup.com/wp-content/uploads/2012/03/socialcommerceAmEx.png
-seo_follow:
-  - 'true'
-  - 'true'
-  - 'true'
-  - 'true'
-  - 'true'
-  - 'true'
-slider_style:
-  - default
-  - default
-slide_redirect_url:
-  - >
-    http://mkgmediagroup.com/the-rise-of-social-shopping/
-  - >
-    http://mkgmediagroup.com/the-rise-of-social-shopping/
-views:
-  - "54"
 ---
 <img class="alignleft  wp-image-838" title="facebook-target-social-commerce" src="http://mkgmediagroup.com/wp-content/uploads/2012/03/facebook-target-300x286.jpg" alt="" width="240" height="229" />As this recent <a href="http://www.clickz.com/clickz/column/2158498/shopping-social" target="_blank">ClickZ article, <em>Shopping is Social, </em></a>pointed out, placing a check out cart on your brands Facebook page is <strong>not </strong>an engaging social shopping strategy.
 <h2><em>Social is all about engagement.</em></h2>

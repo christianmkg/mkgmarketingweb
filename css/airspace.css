@@ -61,6 +61,8 @@ a:active {
   font-style: italic;
   color: #666;
 }
+
+.section-title blockquote {color: #7B7B7B; font-style: italic; font-size: 15px; font-family: 'Volkhov', serif;}
 /*--
 	Header Start
 --*/

@@ -1,7 +1,7 @@
 ---
 layout: contact
 title: Request an Audit
-permalink: /products/
+permalink: /audit/
 img: audit-hero
 ---
 
