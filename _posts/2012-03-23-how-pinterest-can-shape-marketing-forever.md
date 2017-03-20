@@ -59,7 +59,7 @@ A female researcher on staff tugged relentlessly on his sleeve and urged him to 
 <h2><em>So what's the point here?</em></h2>
 The point is this: Pinterest is the perfect example of a product / service that blew up by reaching what was initially thought of as an unprofitable or non-existant market.
 
-Take this quote from Andreessen: <em>"Our industry historically â€¦ do we produce products initially aimed primarily at men or women? You'd have to say men."</em>
+Take this quote from Andreessen: <em>"Our industry historically €¦ do we produce products initially aimed primarily at men or women? You'd have to say men."</em>
 
-<strong>And he's right:</strong> Brands have the ability to become complacent with their current audience, which could lead to them missing out onÂ previously unseen target segments.
+<strong>And he's right:</strong> Brands have the ability to become complacent with their current audience, which could lead to them missing out on previously unseen target segments.
 <h2><em>Is your brand missing a critical / undiscovered piece of your target audience?</em></h2>

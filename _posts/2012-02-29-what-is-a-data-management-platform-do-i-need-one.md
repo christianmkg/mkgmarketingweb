@@ -9,7 +9,7 @@ These segments are valuable because:
 <ul>
 	<li>They allow brands to target campaigns more accurately</li>
 	<li>Brands can measure which audience segments performed the best</li>
-	<li>Â Brands can refine media buyingÂ efficienciesÂ as they collect actionable results over time</li>
+	<li> Brands can refine media buying efficiencies as they collect actionable results over time</li>
 </ul>
 <em>And these are just a few of the valuable examples ---- Woot!</em>
 <h2><em>As an advertiser, how do you know if you need a DMP or not?</em></h2>

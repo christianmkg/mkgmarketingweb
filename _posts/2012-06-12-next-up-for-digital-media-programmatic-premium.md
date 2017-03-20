@@ -12,7 +12,7 @@ views:
   - "51"
 ---
 <p style="text-align: center;"><img class="aligncenter size-full wp-image-1339" title="money" src="http://mkgmediagroup.com/wp-content/uploads/2012/06/cents.png" alt="data xu Mike Baker programmatic media premium" width="600" height="400" /></p>
-As a digital media agency, we areÂ constantly toeing the line between buying programmatic, hyper-effecient channels (DSP's, for example) and contextually relevant, brand-targeted environments (site direct).
+As a digital media agency, we are constantly toeing the line between buying programmatic, hyper-effecient channels (DSP's, for example) and contextually relevant, brand-targeted environments (site direct).
 <h2><em>Why do we toe this line?</em></h2>
 Well, there are a few reasons:
 <ul>

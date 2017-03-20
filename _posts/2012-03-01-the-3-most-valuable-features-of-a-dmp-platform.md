@@ -9,9 +9,9 @@ layout: post
 The more first party data you personally own, the better.
 
 Combining first party sources like on-site audience data and company CRM database data gives advertisers greater control over who, when and why someone is receiving your message online. Also, it gives brands the freedom not to rely on third party data sources like <a href="http://exelate.com" target="_blank">eXelate</a> to provide that valuable information about online consumers.
-<h2><em>Holistic</em><em>Â Performance Reporting</em></h2>
+<h2><em>Holistic</em><em> Performance Reporting</em></h2>
 Plugging all your data sources into one, easy to read dashboard makes it easier to determine performance, reduce time compiling bulky reports from multiple data sources and visualize the data in an easy-to-read manner.
-<h2><em>Unique Audience Insights That Span Marketing ChannelsÂ </em></h2>
+<h2><em>Unique Audience Insights That Span Marketing Channels </em></h2>
 If your data is not compiled into one central location, then the insights you're pulling from each individual data source could be inconsistent and, ultimately, inconclusive.
 
 What good are audience insights if you spend time slicing and dicing each marketing channel, only to find out that your piece-mailed analysis is completely inaccurate?

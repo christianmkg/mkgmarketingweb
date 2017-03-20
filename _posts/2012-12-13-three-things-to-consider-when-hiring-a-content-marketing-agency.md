@@ -38,17 +38,17 @@ Ask prospective content marketing agency partners for a sample report of the suc
 
 For example:
 <ul>
-	<li><span style="line-height: 13.981481552124023px;" data-mce-mark="1"><strong>Engagement Metrics:</strong> Examples of engagement metrics that content marketing agencies use are measuring keyword performance for bounce rate, time on site, pages per visit and number of returning visitors.Â </span></li>
+	<li><span style="line-height: 13.981481552124023px;" data-mce-mark="1"><strong>Engagement Metrics:</strong> Examples of engagement metrics that content marketing agencies use are measuring keyword performance for bounce rate, time on site, pages per visit and number of returning visitors. </span></li>
 	<li><strong>Revenue Driving Metrics:</strong> Examples of revenue driving metrics include increase in keyword performance for overall traffic, conversion rate through stages of your marketing funnel and an overall bump in actual revenue driven by specific keywords.</li>
 </ul>
 Now that you've gotten an initial view into the metrics that content marketing agency measures success against, another great question is: What tools allow you to measure these metrics?
 
 In our experience, there are two different answers that commonly come up here:
 <ul>
-	<li><strong>ProprietaryÂ Analytics Tools:</strong> These tools were built in-house by the content marketing agency. They may pull bits and pieces from other providers, but essentially this is a custom-built toolset that allows them to aggregate and analyze data.</li>
-	<li><strong>Third Party Analytics Tools:</strong>Â Try out <a href="http://radian6.com" target="_blank">Radian6</a>. Need a tool to measure organic keyword performance across the web? We love using <a href="http://seomoz.com" target="_blank">SEOmoz</a>. Do vet the content marketing agencies' chops with these third party tools - make sure they know how to get value out of them!</li>
+	<li><strong>Proprietary Analytics Tools:</strong> These tools were built in-house by the content marketing agency. They may pull bits and pieces from other providers, but essentially this is a custom-built toolset that allows them to aggregate and analyze data.</li>
+	<li><strong>Third Party Analytics Tools:</strong> Try out <a href="http://radian6.com" target="_blank">Radian6</a>. Need a tool to measure organic keyword performance across the web? We love using <a href="http://seomoz.com" target="_blank">SEOmoz</a>. Do vet the content marketing agencies' chops with these third party tools - make sure they know how to get value out of them!</li>
 </ul>
-<h2><em>2. Content: Creative Style &amp; ProcessÂ </em></h2>
+<h2><em>2. Content: Creative Style &amp; Process </em></h2>
 Another great question for clients to ask prospective content marketing agency partners is: <strong><em>What format do you create content in?</em></strong>
 
 For example, content can take the form of:

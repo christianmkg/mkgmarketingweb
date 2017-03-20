@@ -14,8 +14,8 @@ layout: post
 
 <ul style="text-align: left;">
 	<li>Impression Caps: Require that all network, DSP and exchange partners cap the number of impressions that a single user sees on a daily / weekly / monthly basis</li>
-	<li>Cookie Data: Keep tabs on the impression caps youÂ implementedÂ by checking frequency reprots in your ad server. These reports will use third party cookie data to ensure if your media partners are indeed keeping true to their frequency cap promise or not.</li>
-	<li>Transparency from Media Partners: Demand that your media partners show youÂ frequencyÂ reports on their end (to double check against your ad server data) and remind themÂ constantlyÂ of their promise to cap impression delivery to each and every user.</li>
+	<li>Cookie Data: Keep tabs on the impression caps you implemented by checking frequency reprots in your ad server. These reports will use third party cookie data to ensure if your media partners are indeed keeping true to their frequency cap promise or not.</li>
+	<li>Transparency from Media Partners: Demand that your media partners show you frequency reports on their end (to double check against your ad server data) and remind them constantly of their promise to cap impression delivery to each and every user.</li>
 </ul>
 <p style="text-align: left;">This post was not meant to scare off potential online advertisers -- instead, this post illustrates the amount of stewardship online campaigns require in order to generate successful results, which is the end goal for every client.</p>
 <p style="text-align: left;">Go Forth &amp; Conquer,</p>

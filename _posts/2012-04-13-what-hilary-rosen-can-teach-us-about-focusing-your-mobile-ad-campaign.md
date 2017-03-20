@@ -29,7 +29,7 @@ I know we're stretching here, but stick with us and we'll take you to the promis
 <h2><em>1. Content</em></h2>
 Imagine that the Democratic National Committee was running a mobile ad campaign in political-heavy mobile apps like CNN or MSNBC.
 
-As Hilary Rosen utters the phrase mentioned above, you are buying up all inventory around political content (breaking news, politics section, etc) and your DNC advertisement shows upÂ directlyÂ next to a negative story about your brand.
+As Hilary Rosen utters the phrase mentioned above, you are buying up all inventory around political content (breaking news, politics section, etc) and your DNC advertisement shows up directly next to a negative story about your brand.
 
 <em>Lesson Learned: Do you have a transparent view into the type of content your mobile message is running alongside?</em>
 <h2><em>2. Device</em></h2>

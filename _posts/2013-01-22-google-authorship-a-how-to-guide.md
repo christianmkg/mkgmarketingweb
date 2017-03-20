@@ -35,7 +35,7 @@ views:
 
 <p>Fortunately, we're put together a super-easy four step process on how you can get Google Authorship implemented for your website. Ready?</p>
 
-<p>1) Go here (when signed into your G+ account):Â <a href="https://plus.google.com/authorship" target="_blank">https://plus.google.com/authorship</a></p>
+<p>1) Go here (when signed into your G+ account): <a href="https://plus.google.com/authorship" target="_blank">https://plus.google.com/authorship</a></p>
 
 <p>2) Verify your email address. What Google is looking for is that you have an email address on the domain of which your content is on.</p>
 
@@ -53,7 +53,7 @@ views:
 
 <p>5) PSYCHE! Remember? Only 4 steps!</p>
 
-<p>Tell us what you think. Is this process easy to follow? Did you implement Google Authorship for your own website? Did you see aÂ noticeableÂ bump in organic search results because of it? <strong>Let us know!</strong></p>
+<p>Tell us what you think. Is this process easy to follow? Did you implement Google Authorship for your own website? Did you see a noticeable bump in organic search results because of it? <strong>Let us know!</strong></p>
 
 <p>*Edit* And look! Right after this post went live:</p>
 

@@ -30,9 +30,9 @@ So ...
 We'd like to help establish our clients as thought leaders in their particular fields using content.
 
 Why is this valuable? <a href="http://strategeezy.com/2012/03/06/thebusiness-value-of-content-strategy/" target="_blank">Take this recent quote from Stratageezy</a> on for size:
-<p style="text-align: center;">'<em>According to a recent study by IDG Connect, B2B technology buyers now spend only 21% of their journey through the buying cycle in conversations with sales people.Â They spend more than 55% of the buying cycle searching for and engaging with content.'</em></p>
-<p style="text-align: left;">The stat above begins to prove what <a href="http://www.adexchanger.com/social-media/attention-houghland/" target="_blank">Attention founder Curtis Houghland mentioned in last years AdExchanger</a>Â interview.</p>
-<p style="text-align: center;">'[using social media]Â We can actually engage in conversations, which is the Holy Grail for marketers.'</p>
+<p style="text-align: center;">'<em>According to a recent study by IDG Connect, B2B technology buyers now spend only 21% of their journey through the buying cycle in conversations with sales people. They spend more than 55% of the buying cycle searching for and engaging with content.'</em></p>
+<p style="text-align: left;">The stat above begins to prove what <a href="http://www.adexchanger.com/social-media/attention-houghland/" target="_blank">Attention founder Curtis Houghland mentioned in last years AdExchanger</a> interview.</p>
+<p style="text-align: center;">'[using social media] We can actually engage in conversations, which is the Holy Grail for marketers.'</p>
 
 <h2 style="text-align: left;"><em>So, w<strong style="font-style: italic;">hat's the point of creating conversations / building out content strategies for our consumers?</strong></em></h2>
 The point is that we want to encourage cyclical conversations between brands and their customers.
@@ -61,7 +61,7 @@ One example situation could be ...
 	<li>As the results page appears, the brands ad appears above the results</li>
 	<li>User can either organically arrive at the brand website or click on the paid search link to visit the site</li>
 </ul>
-<h2>Â <em>This is exciting!</em></h2>
+<h2> <em>This is exciting!</em></h2>
 Our clients are excited. We as an agency are excited. And users across the web who are constantly consuming content are excited to have additional resources to rely on for expert advice.
 
 By customizing marketing strategies to include both paid and organic communication channels, we are able to supply our clients with marketing plans that don't simply 'add to the clutter' that is the big advertising / marketing machine.

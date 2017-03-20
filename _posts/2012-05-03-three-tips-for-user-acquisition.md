@@ -12,7 +12,7 @@ views:
   - "153"
 ---
 <p style="text-align: center;"><img class="aligncenter  wp-image-1214" title="target-audience" src="http://mkgmediagroup.com/wp-content/uploads/2012/05/target-audience.jpeg" alt="" width="480" height="360" /></p>
-Brian Balfour, the CMO of <a href="http://www.boundless.com/" target="_blank">Boundless</a>, shared some great advice in thisÂ <a href="http://onstartups.com/tabid/3339/bid/82788/Building-It-Is-Not-Enough-5-Practical-Tips-On-User-Acquisition.aspx" target="_blank">OnStartups article <em>Building is Not Enough: 5 Practical Tips for User Acquisition</em></a>.
+Brian Balfour, the CMO of <a href="http://www.boundless.com/" target="_blank">Boundless</a>, shared some great advice in this <a href="http://onstartups.com/tabid/3339/bid/82788/Building-It-Is-Not-Enough-5-Practical-Tips-On-User-Acquisition.aspx" target="_blank">OnStartups article <em>Building is Not Enough: 5 Practical Tips for User Acquisition</em></a>.
 
 Based on our own experience, we wanted to expand on three of Brian's tips in a little more detail.
 <h2><em>1. Don't Test a Lot of Channels at Once</em></h2>
@@ -32,11 +32,11 @@ All new users are acquired directly or indirectly.
 
 An example of direct user acquisition would be running paid search ads.
 
-IndirectÂ acquisitionÂ would be SEO or viral acquisition, which is seen as 'free' from a mediaÂ standpointÂ but actually has a price tag attached to it in terms of man hours.
+Indirect acquisition would be SEO or viral acquisition, which is seen as 'free' from a media standpoint but actually has a price tag attached to it in terms of man hours.
 
-The speed at which your brand learns how to acquire new users means <em>everything:Â </em>the quicker you can learn what does / doesn't work to acquire new users, the better.
+The speed at which your brand learns how to acquire new users means <em>everything: </em>the quicker you can learn what does / doesn't work to acquire new users, the better.
 
-So don't fight direct userÂ acquisitionÂ programs -- embrace a paid userÂ acquisitionÂ strategy to learn quicker!
+So don't fight direct user acquisition programs -- embrace a paid user acquisition strategy to learn quicker!
 <h2><em>3. Avoid the A/B Testing Death Trap</em></h2>
 'But what if we change the purchase button to blue instead of orange ...'
 
@@ -56,12 +56,12 @@ Instead, it would be better to focus on testing things like:
 
 <img src="http://mkgmediagroup.com/wp-content/uploads/2011/08/mk_median_bw_head.jpeg" alt="Mike Krass, CEO of MKG Media Group" width="219" height="218" class="alignleft size-full wp-image-1794" />
 
-Â  <span itemprop="jobTitle">Mike Krass | CEO & All-Around Nice Guy</span>
-Â <a href="http://www.mkgmediagroup.com" itemprop="url">MKG Media Group</a>
+  <span itemprop="jobTitle">Mike Krass | CEO & All-Around Nice Guy</span>
+ <a href="http://www.mkgmediagroup.com" itemprop="url">MKG Media Group</a>
 </span>
 
 Aside from being the CEO of MKG Media Group, Mike is a dark beer aficionado with a healthy appetite for travel and pushing personal boundaries. A proud graduate of the Edward R. Murrow School of Communication at Washington State University, Mike currently calls San Francisco home. Feel free to contact him via Twitter & Email:
-Â  <a href="http://www.twitter.com/mikekrass" itemprop="url">Twitter</a>
-Â <a href="mailto:mike@mkgmediagroup.com" itemprop="email">
-Â  Â  mike@mkgmediagroup.com</a>
+  <a href="http://www.twitter.com/mikekrass" itemprop="url">Twitter</a>
+ <a href="mailto:mike@mkgmediagroup.com" itemprop="email">
+    mike@mkgmediagroup.com</a>
 </div>

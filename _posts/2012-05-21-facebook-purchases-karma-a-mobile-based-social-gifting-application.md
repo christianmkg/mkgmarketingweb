@@ -36,7 +36,7 @@ Well ...
 	<li><strong>Visual upgrades: </strong>Instagram is a company born out of the ashes of amateur photographers taking professional quality photographs. The visual aspect of incorporating more still / video experiences into the Facebook platform will allow users to upload, share &amp; customize more personal content</li>
 	<li><strong>Location Based Services: </strong>Glancee, a competitor of Highlight, Banjo, Circle (the list goes on -- <a href="http://mkgmediagroup.com/location-based-apps-at-sxswi" target="_blank">read more here</a>), offers location-based social networking services. If Facebook were able to combine this geographic capability with loyalty or commerce platforms like Tagtile / Karma, they could make a strong push into location specific loyalty &amp; commerce offerings</li>
 </ul>
-You can read more about the KarmaÂ acquisitionÂ inÂ <a href="http://www.clickz.com/clickz/news/2178476/facebook-buys-social-gifting-mobile-app" target="_blank">this ClickZ article</a>.
+You can read more about the Karma acquisition in <a href="http://www.clickz.com/clickz/news/2178476/facebook-buys-social-gifting-mobile-app" target="_blank">this ClickZ article</a>.
 <h2><strong><em>What other parts of Facebook's mobile experience need improving?</em></strong></h2>
 
 <img src="http://mkgmediagroup.com/wp-content/uploads/2011/08/mk_median_bw_head.jpeg" alt="Mike Krass, CEO of MKG Media Group" width="219" height="218" class="alignleft size-full wp-image-1794" />

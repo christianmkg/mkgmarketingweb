@@ -32,11 +32,11 @@ If there's one thing Dick Clark knew how to do, it was how to put on a show and 
 
 Marketing agencies could tear a page out of Clark's book to engage with their clients more often by trying out some of the ideas below:
 <ul>
-	<li><strong>Interactive Presentations: </strong>Everyone hates 50 slideÂ powerpointsÂ -- STOP USING THEM. Move the room by walking around, introduce a 'surprise guest' or bring in a white board to walk them through your concepts in real time.</li>
+	<li><strong>Interactive Presentations: </strong>Everyone hates 50 slide powerpoints -- STOP USING THEM. Move the room by walking around, introduce a 'surprise guest' or bring in a white board to walk them through your concepts in real time.</li>
 	<li><strong>Reward Your Clients: </strong>Clients put a lot of faith (and financial investment) into their agency relationships. Agencies should repay the favor by rewarding those clients with something of value (preferably sentimental) that the client would truly appreciate.</li>
 </ul>
 <h2><strong><em>How to Acquire Wide Ranging Clients</em></strong></h2>
-Dick Clark wasn't just a one-hit wonder -- the man appeared on dozens of radio andÂ televisionÂ programs. The range of programming that he hosted was absolutely astounding, as you can see below:
+Dick Clark wasn't just a one-hit wonder -- the man appeared on dozens of radio and television programs. The range of programming that he hosted was absolutely astounding, as you can see below:
 <ul>
 	<li>Game shows like Scattergories, Pyramid, The Challengers &amp; more</li>
 	<li>Dick Clark's Rockin' New Years Eve</li>

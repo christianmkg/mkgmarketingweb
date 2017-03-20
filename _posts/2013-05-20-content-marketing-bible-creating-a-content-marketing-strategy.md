@@ -23,7 +23,7 @@ views:
 ---
 <a href="http://mkgmediagroup.com/wp-content/uploads/2013/05/content-marketing-strategy-idea-plan-execute.png"><img class="alignleft size-full wp-image-2732" alt="mkg media group idea plan action" src="http://mkgmediagroup.com/wp-content/uploads/2013/05/content-marketing-strategy-idea-plan-execute.png" width="800" height="261" /></a>
 
-<span style="font-size: 14.44444465637207px;">As we announced last week, our team<a href="http://mkgmediagroup.com/the-mkg-media-group-content-marketing-bible-a-six-part-series">Â is producing a six-part series on content marketing</a>Â to be distributed for <em><strong>FREE</strong></em> via e-book at the end of June.Â <span style="color: #000000;">
+<span style="font-size: 14.44444465637207px;">As we announced last week, our team<a href="http://mkgmediagroup.com/the-mkg-media-group-content-marketing-bible-a-six-part-series"> is producing a six-part series on content marketing</a> to be distributed for <em><strong>FREE</strong></em> via e-book at the end of June. <span style="color: #000000;">
 </span></span>
 
 <span style="font-size: 14.44444465637207px;">This series was born out of one simple question from a few of our clients:</span>
@@ -43,7 +43,7 @@ First and foremost: All efforts should have tangible goals to measure success ag
 
 To be more specific, these goals should focus exclusively on macro conversions, i.e. <strong>REVENUE.</strong>
 
-<span style="line-height: 1.5em;">As your group begins the strategic planning process, lead the entireÂ strategy with theseÂ </span><em style="font-size: 14px; line-height: 1.5em;">goals in mind.Â </em><span style="line-height: 1.5em;">Every single idea your team brainstorms should focus on directly improving your bottom line performance. Great questions to consistently ask yourselves in the planning phase is:</span>
+<span style="line-height: 1.5em;">As your group begins the strategic planning process, lead the entire strategy with these </span><em style="font-size: 14px; line-height: 1.5em;">goals in mind. </em><span style="line-height: 1.5em;">Every single idea your team brainstorms should focus on directly improving your bottom line performance. Great questions to consistently ask yourselves in the planning phase is:</span>
 <ul>
 	<li>What is the purpose of this content?</li>
 	<li>What actions would we like our site visitors to take after viewing / as a result of viewing this content?</li>
@@ -54,14 +54,14 @@ Some great examples of tangible goals to measure success against include:
 	<li>Measure conversion percentage in converting non-paying leads into paying customers from content, such as e-books, white papers or other valuable resources</li>
 </ol>
 <h2><span style="font-size: 24px; line-height: 1.2em;">Outline Parameters for Your Content Strategy</span></h2>
-You're focused onÂ <em>revenue --Â </em>great start! Now, the process of outlining yourÂ content marketing strategy begins with assembling company stakeholders to have a candid conversation.
+You're focused on <em>revenue -- </em>great start! Now, the process of outlining your content marketing strategy begins with assembling company stakeholders to have a candid conversation.
 
 Here are a few great questions to kick things off:
 <ul>
 	<li><span style="line-height: 1.5em;">Initially, how long will our content marketing effort last? A year-long test ... Maybe two?</span></li>
 	<li><span style="line-height: 1.5em;">What resources are we going to invest?</span></li>
-	<li><span style="line-height: 1.5em;">Who leads this strategy? What success framework should be built up around that individual?Â </span></li>
-	<li>How <strong><em>exactlyÂ </em></strong>will success be measured?</li>
+	<li><span style="line-height: 1.5em;">Who leads this strategy? What success framework should be built up around that individual? </span></li>
+	<li>How <strong><em>exactly </em></strong>will success be measured?</li>
 </ul>
 At the conclusion of outlining your content strategy parameters, your group should have the following questions answered:
 <ul>
@@ -96,13 +96,13 @@ In most cases, we pull this data from the following sources:
 </ul>
 Let's walk through each one of these data sources and then show you how to assemble the data.
 <h3>Google Keyword Research Tool</h3>
-Google Keyword Tool aggregates keyword performance data for each and every search performed on the Google search engine and presents it in a monthly snapshot.Â This tool hosts historic and current keyword data that can be used by marketers to use for research purposes.
+Google Keyword Tool aggregates keyword performance data for each and every search performed on the Google search engine and presents it in a monthly snapshot. This tool hosts historic and current keyword data that can be used by marketers to use for research purposes.
 
 Follow the steps below to use this tool for keyword research:
 
 <strong>Step #1: Direct Browser to Google Keyword Tool</strong>
 
-<strong></strong><span style="line-height: 1.5em;">Point your browser to the following URLÂ <a href="https://adwords.google.com/o/KeywordToo" target="_blank">https://adwords.google.com/o/KeywordTool</a>Â </span>
+<strong></strong><span style="line-height: 1.5em;">Point your browser to the following URL <a href="https://adwords.google.com/o/KeywordToo" target="_blank">https://adwords.google.com/o/KeywordTool</a> </span>
 
 <strong>Step #2: Authenticate</strong>
 
@@ -176,7 +176,7 @@ After selecting the correct date range, scroll to the top of the 'keywords' sect
 
 See an example in the screenshot below:
 <h3><a href="http://mkgmediagroup.com/wp-content/uploads/2013/05/AdWords-Keywords-Google-Analytics-.png"><img class="alignleft size-full wp-image-2720" alt="AdWords Keywords Google Analytics " src="http://mkgmediagroup.com/wp-content/uploads/2013/05/AdWords-Keywords-Google-Analytics-.png" width="1347" height="683" /></a>Organic Search Marketing Data</h3>
-In Google Analytics, the approach to find organic search marketing data is almost exactly the same as theÂ approachÂ we just walked through to find Paid Search Marketing data.
+In Google Analytics, the approach to find organic search marketing data is almost exactly the same as the approach we just walked through to find Paid Search Marketing data.
 
 Just to be thorough, let's walk through how to pull organic search keywords from Google Analytics:
 
@@ -192,19 +192,19 @@ Navigate to 'traffic sources', then click 'search'. After the 'search' tab expan
 
 <strong>Step #3: Export Keyword Data</strong>
 
-<strong></strong>One thing to notice here is how Google Analytics will display keyword performance data by default (opposed to sources, landing pages &amp; more).Â These keywords are the data you want to export.
+<strong></strong>One thing to notice here is how Google Analytics will display keyword performance data by default (opposed to sources, landing pages &amp; more). These keywords are the data you want to export.
 
 Just as we did with Paid Search Marketing data, you'll want to hit the 'export' button and select the file type as .csv, seen in the screenshot below.
 
 <a href="http://mkgmediagroup.com/wp-content/uploads/2013/05/Google-Analytics-Export-Organic-Search-Keyword-Data.png"><img class="alignleft size-full wp-image-2722" alt="Google Analytics Export Organic Search Keyword Data" src="http://mkgmediagroup.com/wp-content/uploads/2013/05/Google-Analytics-Export-Organic-Search-Keyword-Data.png" width="880" height="599" /></a>
 
-<strong>Â </strong>
+<strong> </strong>
 <h3>Assembling the Data into a Master Keyword Playbook</h3>
 At this point, you'll need to assemble the keywords you've extracted from the three sources noted above and create a <strong>Master Keyword Playbook.</strong>
 
-This playbook will determine whatÂ <em>keywords to targetÂ </em>when creating content and act as your north star -- all content creation decisions should be made using this playbook!
+This playbook will determine what <em>keywords to target </em>when creating content and act as your north star -- all content creation decisions should be made using this playbook!
 
-More importantly, these keywords should be what we call 'commerce keywords', or keywords / keyword phrases that drive toward a revenue-positive action. In our own Master Keyword Playbook, an example of using 'commerce keywords' is using theÂ phraseÂ 'how to find content marketing agency' as opposed to "content marketing tips".
+More importantly, these keywords should be what we call 'commerce keywords', or keywords / keyword phrases that drive toward a revenue-positive action. In our own Master Keyword Playbook, an example of using 'commerce keywords' is using the phrase 'how to find content marketing agency' as opposed to "content marketing tips".
 
 In assembling your data, you are going to break down into two groups:
 <ol>
@@ -219,11 +219,11 @@ This should all be performed within an excel spreadsheet. When your team has ass
 
 &nbsp;
 
-<em><strong>Â </strong></em>
+<em><strong> </strong></em>
 <h2><span style="font-size: 24px; line-height: 1.2em;">Creating a Content Calendar</span></h2>
 You're so close to launching your content marketing strategy! At this point, we have established your content strategy parameters, tangible goals, stakeholders involved &amp; what you are going to write about.
 
-It's now time to create a content calendar toÂ outline the following:
+It's now time to create a content calendar to outline the following:
 <ol>
 	<li><span style="line-height: 13.993056297302246px;">Publishing Frequency</span></li>
 	<li>Publishing Dates / Times</li>

@@ -32,13 +32,13 @@ Take CalTrain, a local bay area train service, Twitter account for example:
 
 <img class="aligncenter size-full wp-image-1413" title="caltrain twitter services" src="http://mkgmediagroup.com/wp-content/uploads/2012/08/Screen-Shot-2012-08-10-at-10.01.09-AM.png" alt="" width="513" height="232" />
 
-Any time a train is delayed / running ahead of schedule, <a href="http://twitter.com/caltrain" target="_blank">Caltrain</a>Â will post it on their official Twitter feed forÂ travelersÂ convenience.
+Any time a train is delayed / running ahead of schedule, <a href="http://twitter.com/caltrain" target="_blank">Caltrain</a> will post it on their official Twitter feed for travelers convenience.
 
 <em>But you don't just need an army to manage bad press ...</em>
 
 <em></em>A social army can help your brand grow. Establish dominance in your space. Become a trusted resource for news and information in real time.
 
-A great example of a social army focused on growth is theÂ <a href="http://devils.nhl.com/club/news.htm?id=614528" target="_blank">New Jersey Devil's 'Mission Control'</a>Â group.
+A great example of a social army focused on growth is the <a href="http://devils.nhl.com/club/news.htm?id=614528" target="_blank">New Jersey Devil's 'Mission Control'</a> group.
 
 Mission Control is an unpaid group of up to 25 daily volunteers that manage and develop the NHL teams' social footprint across the web.
 
@@ -46,7 +46,7 @@ Located inside the Prudential Center where the Devils play, they provide real-ti
 <h2><em>Understand the Power of the Masses</em></h2>
 Social media, inherently, is only as powerful as the number of users you can get to follow and promote your cause.
 
-Take Matthew Walzer, aÂ 16 year old who suffers from cerebral palsy, <a href=" http://mashable.com/2012/08/08/twitter-nikeletter-campaign/" target="_blank">who wrote a letter to Nike CEO Mark Parker</a> asking for easy-fasten Nike running shoes for patients that suffer from his same condition.
+Take Matthew Walzer, a 16 year old who suffers from cerebral palsy, <a href=" http://mashable.com/2012/08/08/twitter-nikeletter-campaign/" target="_blank">who wrote a letter to Nike CEO Mark Parker</a> asking for easy-fasten Nike running shoes for patients that suffer from his same condition.
 
 Nice Kicks, an online sneaker kingdom, got wind of the letter and began aggressively promoting its cause across the Twitter-sphere.
 
@@ -54,7 +54,7 @@ Nice Kicks, an online sneaker kingdom, got wind of the letter and began aggressi
 
 &nbsp;
 
-The officialÂ <a href="https://twitter.com/#!/search/%23nikeletter" target="_blank">Twitter hashtag #nikeletter</a>Â was adopted and companies from Finish Line to Pete Cashmore joined in the effort to put the letter in front of Parker.
+The official <a href="https://twitter.com/#!/search/%23nikeletter" target="_blank">Twitter hashtag #nikeletter</a> was adopted and companies from Finish Line to Pete Cashmore joined in the effort to put the letter in front of Parker.
 
 <em>So what does this teach us?</em>
 
@@ -64,9 +64,9 @@ In order to build out an army or start a movement, organizations need to create 
 
 A few elements that brands should be aware of in creating this process are:
 <ul>
-	<li><strong>Hand Over the Keys to the Castle:Â </strong>Brands need to be okay with handing over partial control of their brand messaging. This enivronment is dominated by real-time information; the longer your team lags in providing said information, the quicker your audience will go toÂ <em>unofficial sourcesÂ </em>to obtain the information.</li>
-	<li><strong>Transparency:Â </strong>Be transparent with your workers and your audience. Let employees know exactly what is acceptable and, more importantly, what is not acceptable.</li>
-	<li><strong>Accept Mistakes:Â </strong>There will be mistakes. Get over it and make sure that employees own up to and learn from those mistakes.</li>
+	<li><strong>Hand Over the Keys to the Castle: </strong>Brands need to be okay with handing over partial control of their brand messaging. This enivronment is dominated by real-time information; the longer your team lags in providing said information, the quicker your audience will go to <em>unofficial sources </em>to obtain the information.</li>
+	<li><strong>Transparency: </strong>Be transparent with your workers and your audience. Let employees know exactly what is acceptable and, more importantly, what is not acceptable.</li>
+	<li><strong>Accept Mistakes: </strong>There will be mistakes. Get over it and make sure that employees own up to and learn from those mistakes.</li>
 </ul>
 <h2><strong><em>This is exciting!</em></strong></h2>
 While traditional / traditional digital communication channels between brands and consumers had serious lag time in collecting R&amp;D, customer complaints &amp; advice, social has opened the floodgates for brands to learn what their audience is thinking about their brand in real time.

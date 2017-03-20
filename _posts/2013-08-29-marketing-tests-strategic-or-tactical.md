@@ -27,7 +27,7 @@ views:
 <p>In our opinion, the difference between the two is:</p>
 <ul>
 	<li><em>Tactical Marketing tests:</em> These tests pit one marketing line item against another in a survival of the fittest. Two may enter -- only one will leave!</li>
-	<li><em>Strategic Marketing tests: </em>These tests focus on a testing a larger strategic direction -- investing stronger in brand marketing to widen your prospective customer funnel, for example -- than a battle royale test of two tactics.<em>Â </em></li>
+	<li><em>Strategic Marketing tests: </em>These tests focus on a testing a larger strategic direction -- investing stronger in brand marketing to widen your prospective customer funnel, for example -- than a battle royale test of two tactics.<em> </em></li>
 </ul>
 The client asked us how we approach determining the type of test. We mentioned using the following three guidelines:
 <ul>

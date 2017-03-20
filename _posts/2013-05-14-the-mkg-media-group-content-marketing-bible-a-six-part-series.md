@@ -23,7 +23,7 @@ views:
   - "104"
 ---
 <h2><a href="http://mkgmediagroup.com/wp-content/uploads/2013/05/content_is_king1.jpg"><img class="size-full wp-image-2689 aligncenter" alt="content marketing is king marketing strategy" src="http://mkgmediagroup.com/wp-content/uploads/2013/05/content_is_king1.jpg" width="517" height="280" /></a>Content is King: Don't you Want a Place on the Throne?</h2>
-As clients continued to ask for our assistance with their content marketing strategy, we thought it would valuable to create aÂ <strong>Content Marketing How-To GuideÂ </strong>here on the blog for our loyal readers to learn more about our approach to <strong>Content Marketing Strategy</strong> here at MKG Media Group
+As clients continued to ask for our assistance with their content marketing strategy, we thought it would valuable to create a <strong>Content Marketing How-To Guide </strong>here on the blog for our loyal readers to learn more about our approach to <strong>Content Marketing Strategy</strong> here at MKG Media Group
 
 During the next six weeks, we will discuss the following subjects:
 <ul>

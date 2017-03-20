@@ -17,17 +17,17 @@ The Viggle application is best described as a TV version of <a href="http://shaz
 
 So what does Viggle do and how does it work?
 
-Well â€¦
+Well €¦
 <ul>
-	<li><strong>First: </strong>As youâ€™re sitting down to watch television, open the app and check in to the television program you are tuned into</li>
-	<li><strong>Second: </strong>To verify that youâ€™re actually tuned in to the program you checked in to, Viggle will listen to the audio coming from the television and either confirm or deny your check in</li>
-	<li><strong>Third: </strong>Set your phone down and forget it. If your program is confirmed (i.e. â€” if youâ€™re <em>actually </em>watching the show you checked in to) you will be awarded points for every minute you watch</li>
+	<li><strong>First: </strong>As you€™re sitting down to watch television, open the app and check in to the television program you are tuned into</li>
+	<li><strong>Second: </strong>To verify that you€™re actually tuned in to the program you checked in to, Viggle will listen to the audio coming from the television and either confirm or deny your check in</li>
+	<li><strong>Third: </strong>Set your phone down and forget it. If your program is confirmed (i.e. €” if you€™re <em>actually </em>watching the show you checked in to) you will be awarded points for every minute you watch</li>
 	<li><strong>Fourth: </strong>These points accumulate over time and can eventually be redeemed for gift cards / offers at Best Buy, Burger King and more</li>
 </ul>
-<h2><em>Viggle also connects to your social networks, allowing users to share which television programs theyâ€™re watching to friends &amp; family</em></h2>
+<h2><em>Viggle also connects to your social networks, allowing users to share which television programs they€™re watching to friends &amp; family</em></h2>
 At this point in time, there are only a few down sides I see to the Viggle model:
 <ul>
-	<li><strong>Fraudulent Viewing: </strong>Yes, Viggle will verify that youâ€™re tuned into the show you checked in to, but are users actually paying attention the entire time or simply leaving their phones next to the television?</li>
+	<li><strong>Fraudulent Viewing: </strong>Yes, Viggle will verify that you€™re tuned into the show you checked in to, but are users actually paying attention the entire time or simply leaving their phones next to the television?</li>
 	<li><strong>Measurable Results: </strong>At some point, Viggle will need a 2.0 version that allows brands to include more engaging and/or measurable actions for users to take in order to back into more concrete performance metrics</li>
 </ul>
 <h2><em>Viggle, and other similar products that pop up, could change the way users engage with traditional and digital content moving forward.</em></h2>

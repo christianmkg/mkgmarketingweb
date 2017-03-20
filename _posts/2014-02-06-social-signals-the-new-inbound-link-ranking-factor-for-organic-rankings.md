@@ -21,7 +21,7 @@ views:
 
 <p>After doing some internal testing and doing some thinking of how search engines have historically ranked pages, I am confident in saying:</p>
 
-<blockquote>Social signals will start becoming a <strong>major ranking factor</strong>Â for Google in 2014.</blockquote>
+<blockquote>Social signals will start becoming a <strong>major ranking factor</strong> for Google in 2014.</blockquote>
 <p>You can quote me on that.</p>
 
 <p>What is my thinking there, aside from our internal testing data that shows some good to conclude this?</p>
@@ -43,14 +43,14 @@ views:
 
 <h3>Social signals are the new vouching method</h3>
 
-<p>Before social media became so predominant in our everyday life, linking to websites was the primary way of "vouching" for a page's content. This still holds true today: in fact,Â <a href="http://en.wordpress.com/stats/" target="_blank">WordPress users create 40.5 million blog posts each month</a>. This is simply one CMS platform!</p>
+<p>Before social media became so predominant in our everyday life, linking to websites was the primary way of "vouching" for a page's content. This still holds true today: in fact, <a href="http://en.wordpress.com/stats/" target="_blank">WordPress users create 40.5 million blog posts each month</a>. This is simply one CMS platform!</p>
 
 <p>Now with Facebook, Twitter, LinkedIn, and <a href="http://en.wikipedia.org/wiki/List_of_social_networking_websites">hundreds of other popular social sharing platforms</a>, users can "vouch" by simply taking ten seconds and writing up 140 characters + a link about a web page. No longer does someone need to own a website in order to share content they like: social media makes this so easy a baby could do it.<img alt="baby-on-computer" src="http://mkgmediagroup.com/wp-content/uploads/2014/02/social-media-baby.jpg" style="float:right; width:50%;border: none;box-shadow: none;"/></p>
 
 <p>Ok, maybe not <strong>THAT</strong> easy, but easy enough.</p>
 
 <h3>But Matt Cutts saidddddd!!!!</h3>
-<p>Yes, <a href="http://searchenginewatch.com/article/2325343/Matt-Cutts-Facebook-Twitter-Social-Signals-Not-Part-of-Google-Search-Ranking-Algorithms" target="_blank">Matt Cutts recently said Facebook and Twitter social signals do not factor into search engine rankings</a>Â (<a href="http://www.youtube.com/watch?v=udqtSM-6QbQ" target="_blank">watch here</a>). This is interesting, because <a href="http://searchenginewatch.com/article/2050218/Matt-Cutts-Social-Signals-Author-Authority-Ranking-Factors-Google-Realtime" target="_blank">back in 2010 he said Google did use social signals as a small ranking factor</a>.</p>
+<p>Yes, <a href="http://searchenginewatch.com/article/2325343/Matt-Cutts-Facebook-Twitter-Social-Signals-Not-Part-of-Google-Search-Ranking-Algorithms" target="_blank">Matt Cutts recently said Facebook and Twitter social signals do not factor into search engine rankings</a> (<a href="http://www.youtube.com/watch?v=udqtSM-6QbQ" target="_blank">watch here</a>). This is interesting, because <a href="http://searchenginewatch.com/article/2050218/Matt-Cutts-Social-Signals-Author-Authority-Ranking-Factors-Google-Realtime" target="_blank">back in 2010 he said Google did use social signals as a small ranking factor</a>.</p>
 
 <p>So that's it right? Finito. End of discussion.</p>
 
@@ -68,7 +68,7 @@ views:
 <img class="aligncenter size-full wp-image-4018" alt="matt-cutts-social-signals-2014" src="http://mkgmediagroup.com/wp-content/uploads/2014/02/mattcutts.gif" width="630" height="535" /></a>
 
 <h3>Our Theory: Google Search Rankings are connecting social media and SEO at the hip!</h3>
-<p>To summarize our point,Â search engines looking to share the most relevant results possible to a user lean on two important pieces of ranking information:</p>
+<p>To summarize our point, search engines looking to share the most relevant results possible to a user lean on two important pieces of ranking information:</p>
 <ul>
 	<li>On-page optimization</li>
 	<li>Inbound link authority</li>

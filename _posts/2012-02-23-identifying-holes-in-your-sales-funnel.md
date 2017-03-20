@@ -6,7 +6,7 @@ layout: post
 ---
 <img class="alignleft size-medium wp-image-682" title="conversion-funnel" src="http://mkgmediagroup.com/wp-content/uploads/2012/02/conversion-funnel-300x125.jpg" alt="" width="300" height="125" />
 
-The other day, we walked you through the process of <a href="http://mkgmediagroup.com/measuring-mobile-marketing-conversions" target="_blank">measuring mobile marketing conversions</a>Â using an online conversion funnel.
+The other day, we walked you through the process of <a href="http://mkgmediagroup.com/measuring-mobile-marketing-conversions" target="_blank">measuring mobile marketing conversions</a> using an online conversion funnel.
 <h2><em>Today, we'd like to show marketers how to identify holes, gaps and general inefficiencies in online conversion funnels.</em></h2>
 <h4><em></em>Situation #1: Tons of leads begin the sign up process, yet few actually complete the entire lead generation form.</h4>
 <ul>

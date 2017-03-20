@@ -13,9 +13,9 @@ Specifically, Aaron was discussing how the digital customer should really be def
 <h3><em>Business is being defined by the internet.</em></h3>
 There is no such thing as an 'offline business' anymore. Here's why:
 <ol>
-	<li>In 2012, 50% of transactions will be a result of digital. This means that the product was either Â bought online or the user researched the product online and then went into their local bricks-and-mortar retailer and purchased there.</li>
+	<li>In 2012, 50% of transactions will be a result of digital. This means that the product was either  bought online or the user researched the product online and then went into their local bricks-and-mortar retailer and purchased there.</li>
 	<li>89% of users research a purchase online before pulling the trigger -- regardless of whether they purchase in store or over the web</li>
 </ol>
 According to Aaron, this means brands need to establish a digital relationship with this individuals. They need to classify them as users of their product, not simply customers.
-<h3><em>As a brand, what are you doing to establish a relationship with your users?Â </em></h3>
+<h3><em>As a brand, what are you doing to establish a relationship with your users? </em></h3>
 <h3><em>As an agency, what are you doing to establish a relationship with your users?</em></h3>

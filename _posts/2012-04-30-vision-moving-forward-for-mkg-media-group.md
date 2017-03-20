@@ -30,10 +30,10 @@ That quickly (and quite rapidly) began to change. In our companies lifetime, we 
 	<li>Planning and buying display media only</li>
 	<li>Introduced mobile &amp; social, giving us the ability to communicate across multiple digital media channels</li>
 	<li>Grew to focus on measurable media across all channels (including traditional) with a heavy emphasis in digital</li>
-	<li>Continue to represent a measurable media offering, but our 'secret sauce' has changed in the way that we deliver these results â€¦</li>
+	<li>Continue to represent a measurable media offering, but our 'secret sauce' has changed in the way that we deliver these results €¦</li>
 </ul>
-<h2>Â <strong><em>Our Updated Vision -- The 'Not-So-Secret Sauce'</em></strong></h2>
-Our original model of how we delivered results for our clients was â€¦
+<h2> <strong><em>Our Updated Vision -- The 'Not-So-Secret Sauce'</em></strong></h2>
+Our original model of how we delivered results for our clients was €¦
 <ul>
 	<li><strong>Reach:</strong> Understand who your actionable audience is and reach as many of those users across the web</li>
 	<li><strong>Teach:</strong> Teach these users about your brands product / service</li>
@@ -42,10 +42,10 @@ Our original model of how we delivered results for our clients was â€¦
 We have recently shifted to a more powerful model of acquiring and, more importantly, <em><strong>retaining customers.</strong></em>
 
 The one liner to describe what we are focusing on is ...
-<h2><strong><em>We're in the business of generating customers -- NOT transactionsÂ </em></strong></h2>
+<h2><strong><em>We're in the business of generating customers -- NOT transactions </em></strong></h2>
 An example of a transaction is when I go to the mall and buy a pair of Vans sneakers once a year.
 
-A customer is someone that will purchase a pair of Vans sneakers <em>every single month.Â </em>
+A customer is someone that will purchase a pair of Vans sneakers <em>every single month. </em>
 
 <em>See the difference?</em>
 
@@ -53,7 +53,7 @@ A customer is someone that will purchase a pair of Vans sneakers <em>every singl
 <h2><strong><em>So how does it work?</em></strong></h2>
 There are three key components to our 'not-so-secret sauce' ...
 
-<strong>Â <em>Step 1: Conversion</em></strong>
+<strong> <em>Step 1: Conversion</em></strong>
 
 Focus on converting users across the web. We'd like to deliver a tangible return on media investment metric back to you, the client.
 
@@ -67,7 +67,7 @@ Turn this data into actionable insights to feed into our conversion engine and d
 
 Not only do we want to drive conversions and understand what those users look like; we want to utilize tools and create strategies that will continue to nurture these 'transactions' into 'customers'.
 
-In our opinion, lead nurturing is one of the most <em>under serviced </em>capabilities in our market. Many agencies that I speak with find that it's the 'clients job' to nurture their own leads Â -- that the agencies role is simply to 'bring the horse to the trough to eat'
+In our opinion, lead nurturing is one of the most <em>under serviced </em>capabilities in our market. Many agencies that I speak with find that it's the 'clients job' to nurture their own leads  -- that the agencies role is simply to 'bring the horse to the trough to eat'
 
 <em>NO WAY, JOSE</em>
 

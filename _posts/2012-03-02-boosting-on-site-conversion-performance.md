@@ -20,9 +20,9 @@ Her brand was suffering from the fantastic delusion that consumers actually care
 <ul>
 	<li>If you bury the 'start here' button at the bottom of your homepage, it's likely that you'll have issues getting users started on the conversion path</li>
 </ul>
-	<li><strong>Keep Your Path Focused: </strong>Brands make the mistake of mashing multiple programs together that don't truly Â belong -- for example, asking a consumer to 'like' you on Facebook in the middle of the shopping cart check out process is a little off base.</li>
+	<li><strong>Keep Your Path Focused: </strong>Brands make the mistake of mashing multiple programs together that don't truly  belong -- for example, asking a consumer to 'like' you on Facebook in the middle of the shopping cart check out process is a little off base.</li>
 <ul>
-	<li>Are you trying to sell product or promote your Facebook page? Make up your mind, as they're two veryÂ separateÂ initiatives.</li>
+	<li>Are you trying to sell product or promote your Facebook page? Make up your mind, as they're two very separate initiatives.</li>
 </ul>
 	<li><strong>How Much Are You Asking For: </strong>Use the K-I-S-S analogy -- Keep it simple stupid. Asking for too much, too personal or irrelevant information (in the eyes of the consumer) will lead to fall off during the conversion path.</li>
 <ul>

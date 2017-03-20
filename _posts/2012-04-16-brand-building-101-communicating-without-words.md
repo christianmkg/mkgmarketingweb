@@ -15,12 +15,12 @@ Building a brand is one of the more complex and intricate pieces of the marketin
 
 Building a brand sets out to ...
 <ul>
-	<li>ElicitÂ an emotional response every time a consumer sees it</li>
+	<li>Elicit an emotional response every time a consumer sees it</li>
 	<li>Be memorable</li>
 	<li>Prove it's superiority over your competitors</li>
 </ul>
 and most importantly ...
-<h2><em>Building a brand boils down to one thing: RecognitionÂ </em></h2>
+<h2><em>Building a brand boils down to one thing: Recognition </em></h2>
 Which leads me to the question:
 <h2><em>Is your brand able to communicate without using words?</em></h2>
 To illustrate my point, I've highlighted three brands who are able to communicate without saying a single word.
@@ -29,9 +29,9 @@ To illustrate my point, I've highlighted three brands who are able to communicat
 <h2>1. Nike</h2>
 Nike's trademark swoosh logo is the perfect example of a symbol that speaks on Nike's behalf without saying a single word.
 
-Taking theÂ criteriaÂ that I laid out above, here are my reactions to seeing this brand symbol.
+Taking the criteria that I laid out above, here are my reactions to seeing this brand symbol.
 <ul>
-	<li>ElicitÂ an emotional reaction every time a consumer sees it
+	<li>Elicit an emotional reaction every time a consumer sees it
 <ul>
 	<li><em>Reminds me of Friday night under the lights -- my high school football games -- where the only pair of cleats I ever wore were Nike's</em></li>
 </ul>
@@ -51,11 +51,11 @@ Taking theÂ criteriaÂ that I laid out above, here are my reactions to seeing
 <h2>2. Apple</h2>
 The Apple logo, a symbol nearing extinction prior to Steve Jobs returning to captain the Apple ship, is recognized the whole world over as consumers gobble up iPods, iPhones, iPads, MacBooks, Mac Minis ... well, you get the point.
 
-Again, let's take the criteriaÂ that I laid out above to examine Apple's brand.
+Again, let's take the criteria that I laid out above to examine Apple's brand.
 <ul>
-	<li>ElicitÂ an emotional reaction every time a consumer sees it
+	<li>Elicit an emotional reaction every time a consumer sees it
 <ul>
-	<li><em>Trendy andÂ aestheticallyÂ beautiful products that are extremely user friendly to operate</em></li>
+	<li><em>Trendy and aesthetically beautiful products that are extremely user friendly to operate</em></li>
 </ul>
 </li>
 	<li>Be memorable
@@ -77,14 +77,14 @@ Yes, mister 'fear the beard' himself!
 
 Since winning the World Championship in 2010, Wilson has rocketed up the celebrity charts. Using his 300-esque beard and hot-tempered pitching style, Wilson has become a household name.
 <ul>
-	<li>ElicitÂ an emotional reaction every time a consumer sees it
+	<li>Elicit an emotional reaction every time a consumer sees it
 <ul>
 	<li><em>Slightly terrified that Brian will pull a Leonitus and seperate one (or more) of my limbs from my body</em></li>
 </ul>
 </li>
 	<li>Be memorable
 <ul>
-	<li><em>Please refer to this <a href="http://www.youtube.com/watch?v=iLsDZjIH7sE" target="_blank">Taco Bell commercial</a> that Brian starred inÂ </em></li>
+	<li><em>Please refer to this <a href="http://www.youtube.com/watch?v=iLsDZjIH7sE" target="_blank">Taco Bell commercial</a> that Brian starred in </em></li>
 </ul>
 </li>
 	<li>Prove it's superiority over your competitors

@@ -71,7 +71,7 @@ views:
 
 <p>Both Adobe and Google have made great first attempts with their social measurment platforms, but as a brand / agency there is still something missing from the equation:</p>
 
-<p><em>Talented planners and analysts.Â </em></p>
+<p><em>Talented planners and analysts. </em></p>
 
 <p>Having the shiniest new bike on the block is only as great as being able to reach the pedals &#8212; the same goes for planning and measuring your social activity online. If your company doesn&#8217;t have the talent internally / an agency in place to measure this activity, then tapping into an analytics tool isn&#8217;t going to help.</p>
 

@@ -39,7 +39,7 @@ These wins ran through a gamut of landing page &amp; multivariate testing execut
 
 We're fortunate here at MKG Media Group -- being a small Internet marketing agency makes us <em>nimble</em>. We can take past learnings and apply them to present and future engagements, which not only helps future clients but also how we as a search engine marketing agency actively approach and manage work as well.
 
-Here are some learnings that we've taken Â away from our working relationship with VMware:
+Here are some learnings that we've taken  away from our working relationship with VMware:
 
 &nbsp;
 <h2>1) Work like every day will be your last for the client</h2>

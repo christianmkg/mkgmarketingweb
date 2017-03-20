@@ -27,7 +27,7 @@ The following are <span style="text-decoration: underline;">four characteristics
 <h2>Repeat Purchaser</h2>
 You can't predict if a potential customer will be a repeat purchaser... but you can certainly increase the odds that they will be.
 
-Did you know that 12-15% of consumers are loyal to a single retailer? Seems fairly small... but this segment of consumers represent between 55-70% of sales (<a href="http://pinterest.com/pin/183169909816041070/" target="_blank">citation</a>). That's a hugeÂ percentage!
+Did you know that 12-15% of consumers are loyal to a single retailer? Seems fairly small... but this segment of consumers represent between 55-70% of sales (<a href="http://pinterest.com/pin/183169909816041070/" target="_blank">citation</a>). That's a huge percentage!
 
 How do customers become repeat purchasers? 89% of the time, it's critical to work on providing the best customer experience and show that you're the best option possible when the consumer makes their first purchase or begins their service with you and when the customer needs help resolving an issue (<a href="http://pinterest.com/pin/183169909816041070/" target="_blank">citation</a>).
 <h2>Knowledgable</h2>

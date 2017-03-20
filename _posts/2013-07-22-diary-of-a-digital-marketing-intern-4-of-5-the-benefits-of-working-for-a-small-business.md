@@ -15,7 +15,7 @@ seo_description:
 views:
   - "160"
 ---
-<p>Last week I shared theÂ <a href="http://ow.ly/mZjP7" target="_blank">mindset</a> that has helped maximize my experience as a Digital Marketing Intern for <a href="/" target="_blank">MKG Media Group</a> and, more importantly, to have fun while I am in San Francisco!</p>
+<p>Last week I shared the <a href="http://ow.ly/mZjP7" target="_blank">mindset</a> that has helped maximize my experience as a Digital Marketing Intern for <a href="/" target="_blank">MKG Media Group</a> and, more importantly, to have fun while I am in San Francisco!</p>
 
 <p>In part four of this series, I will explain some of the benefits of working for a small business and also my thoughts on the culture of MKG Media Group.</p>
 
@@ -24,7 +24,7 @@ views:
 <!--more-->
 
 <h3>Benefits of Working for a Small Business</h3>
-<p>MKG is aÂ tight-knit group.Â Working in an office with the CEO and the COO creates an unrivaled opportunity. Here are five benefits of working for a small business:</p>
+<p>MKG is a tight-knit group. Working in an office with the CEO and the COO creates an unrivaled opportunity. Here are five benefits of working for a small business:</p>
 <ol>
 	<li><span style="line-height: 14px;">Responsibility</span></li>
 	<li>Exposure to Business Acumen</li>
@@ -48,7 +48,7 @@ views:
 
 <p>I am surrounded every day at work by a level of skill and knowledge that I might not have been exposed to if I had taken an internship at a larger company.</p>
 
-<p>Interns do not usually work with the CEO and the COO of a company. Not to mention MKG's Director of Search who lives in Portland,Â <a href="http://www.christianbullock.net/" target="_blank">Christian Bullock</a>, is always willing and able to help me better understand all things 'Search Marketing.'</p>
+<p>Interns do not usually work with the CEO and the COO of a company. Not to mention MKG's Director of Search who lives in Portland, <a href="http://www.christianbullock.net/" target="_blank">Christian Bullock</a>, is always willing and able to help me better understand all things 'Search Marketing.'</p>
 
 <p>In addition to all the knowledge I've knowingly gleaned from this internship, I've benefitted in ways that I'm not yet aware of. Being around Mike and Kerry for seven weeks has given me the opportunity to learn from their work methods and habits. I've seen how they manage time, overcome obstacles, communicate with clients and more.</p>
 
@@ -58,7 +58,7 @@ views:
 
 <p>One thing I prize in my work situation is the level of transparency that Mike and Kerry promote.</p>
 
-<p>It's one office. There are no closed doors. I have the opportunity to see how they treat not only their clients, but their employees and each other. I get to watch them tackle problems and createÂ solutions. I see almost everything they do and the exposure isÂ unparalleled. It has offered me valuable perspective into what it takes to be a business owner.</p>
+<p>It's one office. There are no closed doors. I have the opportunity to see how they treat not only their clients, but their employees and each other. I get to watch them tackle problems and create solutions. I see almost everything they do and the exposure is unparalleled. It has offered me valuable perspective into what it takes to be a business owner.</p>
 
 <h4>Benefits of Working for a Small Business: No Red Tape</h4>
 
@@ -67,26 +67,26 @@ views:
 
 <h3>Benefits of Working for a Small Business: Perks of the Job</h3>
 
-<p>One of my favorite 'perks of the job' so far was when Mike picked me up on a Monday morning and we cruised down toÂ <a href="http://www.google.com/about/jobs/locations/mountain-view/" target="_blank">Google's Global HQ</a>Â inÂ Mountain View, CA to have lunch with MKG's Google rep.</p>
+<p>One of my favorite 'perks of the job' so far was when Mike picked me up on a Monday morning and we cruised down to <a href="http://www.google.com/about/jobs/locations/mountain-view/" target="_blank">Google's Global HQ</a> in Mountain View, CA to have lunch with MKG's Google rep.</p>
 
 <p>It was amazing to see how large the Googleplex is and did I mention the free food?</p>
 
-<p>Since I was recently selected to be the 2013-2014Â <a href="http://www.google.com/jobs/students/proscho/programs/southeastasia/ambassador/" target="_blank">Google StudentÂ Ambassador</a>Â for theÂ <a href="http://www.umt.edu/" target="_blank">University of Montana</a>, this trip was an appreciated experience. The Google campus is massive and I'm excited to attend the 2013 Google Student Ambassador Summit in August.</p>
+<p>Since I was recently selected to be the 2013-2014 <a href="http://www.google.com/jobs/students/proscho/programs/southeastasia/ambassador/" target="_blank">Google Student Ambassador</a> for the <a href="http://www.umt.edu/" target="_blank">University of Montana</a>, this trip was an appreciated experience. The Google campus is massive and I'm excited to attend the 2013 Google Student Ambassador Summit in August.</p>
 
 <h3>MKG: A Culture that is Contagious</h3>
 <p>Working for a small business offers many advantages, however, it is the culture of MKG that really amplifies some of those advantages.</p>
 
-<p>The opportunity to observe and to engage in a company's inner workings amidst solid business values extends the value of a small business internship. After working with top notch companies likeÂ <a href="http://www.southwestern.com/" target="_blank">Southwestern Co</a>. and now MKG, I have decided that aÂ company'sÂ culture and values will be the deciding factor when I chose the next company to work for.</p>
+<p>The opportunity to observe and to engage in a company's inner workings amidst solid business values extends the value of a small business internship. After working with top notch companies like <a href="http://www.southwestern.com/" target="_blank">Southwestern Co</a>. and now MKG, I have decided that a company's culture and values will be the deciding factor when I chose the next company to work for.</p>
 
 <p>I have been nothing but impressed by the culture at <a href="http://mkgmediagroup.com/" target="_blank">MKG Media Group</a>. Here are a few examples of their agency culture:</p>
 <ul>
-	<li><strong>"All Good Things!"</strong>Â - A phrase you'll here often in the office is, "All Good Things moving forward." This paints the picture of the positive attitude and mindset MKG promotes. The positive attitude in the office creates a productive working environment where we are focused on moving forward and achieving our goals.</li>
+	<li><strong>"All Good Things!"</strong> - A phrase you'll here often in the office is, "All Good Things moving forward." This paints the picture of the positive attitude and mindset MKG promotes. The positive attitude in the office creates a productive working environment where we are focused on moving forward and achieving our goals.</li>
 </ul>
 <ul>
-	<li><strong>Goal Oriented</strong>Â - Another MKG motto is, "Keep your eyes on the road and not on the wall." It refers to keeping our focus on the end goal and not the daily fluctuation of work. Something new I learned about goal setting was the idea of a 'BHAG'Â orÂ Big Harry Audacious Goal.Â If your BHAG doesn't make you uncomfortable,Â then it's not big enough. Watching MKG set their yearly goals offered me a unique look at their goal setting mentality.</li>
+	<li><strong>Goal Oriented</strong> - Another MKG motto is, "Keep your eyes on the road and not on the wall." It refers to keeping our focus on the end goal and not the daily fluctuation of work. Something new I learned about goal setting was the idea of a 'BHAG' or Big Harry Audacious Goal. If your BHAG doesn't make you uncomfortable, then it's not big enough. Watching MKG set their yearly goals offered me a unique look at their goal setting mentality.</li>
 </ul>
 <ul>
-	<li><strong>HIP - Honesty | Integrity | People</strong>Â - Keeping it 'HIP' is a term used often in the office. It sums up MKG's values.Â <strong>Honesty</strong>Â is about staying true to the MKG brand and being transparent with clients and employees.Â <strong>Integrity</strong>Â is about accountability and providing measurableÂ results for clients. <strong>People</strong>Â refers to MKG'sÂ commitmentÂ to treating their clients and their employees with respect and to giving them the attention they deserve. They take care of their people.</li>
+	<li><strong>HIP - Honesty | Integrity | People</strong> - Keeping it 'HIP' is a term used often in the office. It sums up MKG's values. <strong>Honesty</strong> is about staying true to the MKG brand and being transparent with clients and employees. <strong>Integrity</strong> is about accountability and providing measurable results for clients. <strong>People</strong> refers to MKG's commitment to treating their clients and their employees with respect and to giving them the attention they deserve. They take care of their people.</li>
 </ul>
 
 <p>All in all, MKG has an exciting, contagious culture which I have enjoyed being exposed to.</p>

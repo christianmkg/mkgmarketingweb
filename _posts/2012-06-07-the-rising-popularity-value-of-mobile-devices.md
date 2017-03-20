@@ -13,7 +13,7 @@ views:
 ---
 <p style="text-align: center;"><img class="aligncenter  wp-image-1329" title="The new Nokia smart phone Lumia 800 is shown off at Nokia world, London" src="http://mkgmediagroup.com/wp-content/uploads/2012/06/mobile-phone.jpeg" alt="" width="492" height="330" /></p>
 <p style="text-align: left;">How much time are you spending on your mobile device?</p>
-<p style="text-align: left;">According to a<a href="http://www.theatlantic.com/business/archive/2012/05/this-graph-is-disastrous-for-print-and-great-for-facebook-or-the-opposite/257857/" target="_blank"> recent article in The Atlantic</a>, 10% of users time is spent on mobile devices.Â Why is this a relevant statistic?</p>
+<p style="text-align: left;">According to a<a href="http://www.theatlantic.com/business/archive/2012/05/this-graph-is-disastrous-for-print-and-great-for-facebook-or-the-opposite/257857/" target="_blank"> recent article in The Atlantic</a>, 10% of users time is spent on mobile devices. Why is this a relevant statistic?</p>
 
 <h2 style="text-align: left;"><em>Because while users spend 10% of their time on mobile devices, only 1% of ad spend is dedicated to these devices</em></h2>
 Take a look at the graph below:
@@ -23,7 +23,7 @@ Take a look at the graph below:
 
 <h2 style="text-align: left;"><em>Diversity of Tactics on Mobile Devices</em></h2>
 <p style="text-align: left;">Agencies &amp; brands have a plethora of mobile tactics to choose from to deliver their product message and brand experience to the target audience.</p>
-<p style="text-align: left;">We can thank advancements in the followingÂ tacticsÂ that now help us moreÂ efficientlyÂ generate brand awareness, product consideration, purchase &amp; brand loyalty.</p>
+<p style="text-align: left;">We can thank advancements in the following tactics that now help us more efficiently generate brand awareness, product consideration, purchase &amp; brand loyalty.</p>
 
 <ul>
 	<li>Mobile ad units</li>
@@ -33,7 +33,7 @@ Take a look at the graph below:
 	<li>SMS marketing</li>
 </ul>
 <h2><em>Mobile Experimentation Leading to New Opportunities</em></h2>
-We discussed the rise of <a href="http://mkgmediagroup.com/location-based-apps-at-sxswi" target="_blank">social discovery apps like Highlight and Banjo in a previous blog post</a>, and while many users label these ideas as 'creepy', the concepts behind social discovery are great fuel to the fire for others looking to expand the value of GPS-specific capabilities, open-graphÂ technologiesÂ and social web as a whole.
+We discussed the rise of <a href="http://mkgmediagroup.com/location-based-apps-at-sxswi" target="_blank">social discovery apps like Highlight and Banjo in a previous blog post</a>, and while many users label these ideas as 'creepy', the concepts behind social discovery are great fuel to the fire for others looking to expand the value of GPS-specific capabilities, open-graph technologies and social web as a whole.
 <h2><em>Mobile's Influence on Society as a Whole</em></h2>
 More than two-thirds of mobile users time on their device is spent conducting non-communication activities.
 

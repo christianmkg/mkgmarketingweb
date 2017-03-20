@@ -13,13 +13,13 @@ views:
 ---
 <img class="aligncenter size-full wp-image-1247" title="start up advice" src="http://mkgmediagroup.com/wp-content/uploads/2012/05/start-up-advice.jpeg" alt="" width="534" height="411" />
 
-In honor of all start up agencies &amp; companies out there, we wanted to republish <a href="http://kingsday.com" target="_blank">KINGSDAY</a> Managing Director Sander Volten's guest blog post from Talent Zoo,Â <em><a href="http://www.talentzoo.com/news/10-Reasons-to-Start-an-Agency-in-This-Economy/14101.html" target="_blank">10 Reasons to Start an Agency in This Economy.</a></em>
+In honor of all start up agencies &amp; companies out there, we wanted to republish <a href="http://kingsday.com" target="_blank">KINGSDAY</a> Managing Director Sander Volten's guest blog post from Talent Zoo, <em><a href="http://www.talentzoo.com/news/10-Reasons-to-Start-an-Agency-in-This-Economy/14101.html" target="_blank">10 Reasons to Start an Agency in This Economy.</a></em>
 
 Without further ado ...
 <h2><em>1. Passion</em></h2>
 Starting a company / agency from scratch makes you hungry as hell! You are willing to do more work, in shorter time periods and obsessively review the quality of your product before it makes it to the client as a start up founder / team member.
 <h2><em>2. Confidence</em></h2>
-In a recession, starting a business takes a boatload of confidence. Not only do you need to makeÂ ends meet, but the clients you are pursuing are fighting their own budget battles. You <em><strong>must</strong></em> have an overabundance of confidence to succeed.
+In a recession, starting a business takes a boatload of confidence. Not only do you need to make ends meet, but the clients you are pursuing are fighting their own budget battles. You <em><strong>must</strong></em> have an overabundance of confidence to succeed.
 <h2><em>3. Change</em></h2>
 Again, in a rough economic climate clients are forced to explore different ways / providers to help get things done. This is where you, a brand-spankin-new &amp; hungry agency fits in!
 <h2><em>4. Costs</em></h2>

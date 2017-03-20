@@ -34,7 +34,7 @@ views:
 <li>TV Reviews - medium traffic impact</li>
 <li>Product reviews - Good traffic impact</li>
 <li>Recipe - minimal traffic impact</li>
-<li>In-Depth Article - good traffic (if youâ€™re not a big brand, good luck)</li>
+<li>In-Depth Article - good traffic (if you€™re not a big brand, good luck)</li>
 <li>Video - fast indexation, significant impact</li>
 </ul>
 
@@ -53,7 +53,7 @@ views:
 	<li>Included real-world examples</li>
 </ol>
 
-[caption id="attachment_4248" align="aligncenter" width="1021"]<a href="http://mkgmediagroup.com/wp-content/uploads/2014/03/shoemoney.jpg"><img src="http://mkgmediagroup.com/wp-content/uploads/2014/03/shoemoney.jpg" alt="SearchFest 2014 ending keynote: Jeremy Schoemaker â€“ ShoeMoney" width="1510" height="160" class="size-full wp-image-4248" /></a> <em>Closing Keynote: Shoemoney. Photo credit:</em> <a href="https://twitter.com/hannahmeuser" target="_blank"><em>Twitter user @hannahmeuser</em></a>[/caption]
+[caption id="attachment_4248" align="aligncenter" width="1021"]<a href="http://mkgmediagroup.com/wp-content/uploads/2014/03/shoemoney.jpg"><img src="http://mkgmediagroup.com/wp-content/uploads/2014/03/shoemoney.jpg" alt="SearchFest 2014 ending keynote: Jeremy Schoemaker €“ ShoeMoney" width="1510" height="160" class="size-full wp-image-4248" /></a> <em>Closing Keynote: Shoemoney. Photo credit:</em> <a href="https://twitter.com/hannahmeuser" target="_blank"><em>Twitter user @hannahmeuser</em></a>[/caption]
 
 <h4>Conference Disappointments</h4>
 

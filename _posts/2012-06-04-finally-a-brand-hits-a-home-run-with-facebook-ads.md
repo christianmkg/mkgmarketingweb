@@ -18,7 +18,7 @@ views:
 ---
 <img class="aligncenter size-full wp-image-1324" title="facebook ads for hubspot marketing" src="http://mkgmediagroup.com/wp-content/uploads/2012/06/Screen-Shot-2012-06-04-at-12.48.04-PM.png" alt="hubspot marketing cambridge" width="566" height="297" />
 
-In a recent announcement,<a href="http://www.clickz.com/clickz/news/2181962/b2b-brand-facebook-ads-drove-sales" target="_blank"> B2B marketing software giant HubSpot</a>Â announced that running paid advertisements on Facebook generated a 71% increase in sales from social channels year over year.
+In a recent announcement,<a href="http://www.clickz.com/clickz/news/2181962/b2b-brand-facebook-ads-drove-sales" target="_blank"> B2B marketing software giant HubSpot</a> announced that running paid advertisements on Facebook generated a 71% increase in sales from social channels year over year.
 <h2><em>This news is huge for Facebook following the <a href="http://www.businessweek.com/articles/2012-05-22/why-gm-and-others-fail-with-facebook-ads" target="_blank">GM announcement that they would be eliminating their entire Facebook advertising budget</a></em></h2>
 A couple other fun facts that Dan Slagen, HubSpot's head of paid lead generation efforts, disclosed were:
 <ul>
@@ -40,10 +40,10 @@ Slagen cited ...
 	<li><strong>Treat Facebook Ads Like a Big Kid: </strong>This case study is living proof that Facebook ads deserve a share of marketers tactical time &amp; energy in planning an effective campaign. Simply 'turning on likes' doesn't actually move the needle -- like any of the traditional or established digital mediums, you need to commit to a diverse marketing mix within the Facebook platform in order to generate real results.</li>
 	<li><strong>Facebook Can Generate Leads ... For the Right Brand: </strong>As other brands come forward with their pro &amp; anti-Facebook advertising stories, it will be interesting to see which types of brands (B2B vs. B2C, for example) will band together and see the best performance.</li>
 <ul>
-	<li>For example, General Motors pulled theirÂ automobileÂ advertising on Facebook.</li>
-	<li>Could carsÂ technicallyÂ be 'un-sellable' on Facebook?</li>
+	<li>For example, General Motors pulled their automobile advertising on Facebook.</li>
+	<li>Could cars technically be 'un-sellable' on Facebook?</li>
 </ul>
-	<li><strong>Agencies Need to Be Smarter: </strong>When your client comes to you and wants to gain '100,000 likes' just for shits and giggles, agencies need to have theÂ wherewithalÂ to ask intelligent questions:</li>
+	<li><strong>Agencies Need to Be Smarter: </strong>When your client comes to you and wants to gain '100,000 likes' just for shits and giggles, agencies need to have the wherewithal to ask intelligent questions:</li>
 </ol>
 <ul>
 <ul>
@@ -52,7 +52,7 @@ Slagen cited ...
 	<li>Where does fan acquisition and hard business metrics collide for your brand in the social space?</li>
 </ul>
 </ul>
-<h2>Â <em>What are your thoughts on HubSpot's social success?</em></h2>
+<h2> <em>What are your thoughts on HubSpot's social success?</em></h2>
 
 <img src="http://mkgmediagroup.com/wp-content/uploads/2011/08/mk_median_bw_head.jpeg" alt="Mike Krass, CEO of MKG Media Group" width="219" height="218" class="alignleft size-full wp-image-1794" />
 

@@ -18,10 +18,10 @@ views:
 Earlier today, I came across a great <a href="http://www.quora.com/What-are-some-decisions-taken-by-the-Growth-team-at-Facebook-that-helped-Facebook-reach-500-million-users" target="_blank">Quora thread </a>that discussed some of the decisions Facebook made to skyrocket it's user base to more than 500 million users.
 
 Which made me think ...
-<h2><em>What can we learn from Facebook'sÂ user acquisition strategy?</em></h2>
+<h2><em>What can we learn from Facebook's user acquisition strategy?</em></h2>
 In terms of driving qualified leads and nurturing existing database contacts, there are four key questions your brand needs to ask itself.
 <ul>
-	<li>How do IÂ increaseÂ the rate ofÂ acquisitionÂ (i.e. user sign ups)?</li>
+	<li>How do I increase the rate of acquisition (i.e. user sign ups)?</li>
 	<li>What can I activate as many users as quickly as possible in their first 'N' days?</li>
 	<li>What are the levers for engagement &amp; retention and how can I pull them?</li>
 	<li>How do I bring churned users back into the system to 'resurrect' them from the dead?</li>

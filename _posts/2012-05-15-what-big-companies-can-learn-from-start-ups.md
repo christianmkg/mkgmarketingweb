@@ -19,8 +19,8 @@ In my opinion, there are three distinct advantages:
 <h2><em>Ability to Make Decisions</em></h2>
 Start ups have the ability to pull the trigger and <em>act quickly. </em>A few examples include:
 <ul>
-	<li>Decision Making Timelines: Start ups <strong>literallyÂ </strong>don't have time to waste -- every moment they waste brings them one step closer to running out of cash. Start ups make decisions out of necessity in order to continue taking positive steps toward achieving their goal(s).</li>
-	<li>Fewer Moving Parts: As <a href="http://www.amazon.com/Rework-Jason-Fried/dp/0307463745" target="_blank">Jason Fried wrote in </a><em><a href="http://www.amazon.com/Rework-Jason-Fried/dp/0307463745" target="_blank">ReWork</a>,Â </em>Â your company will never be a) smaller, and b) more nimble than it is at it's inception. Embrace the fact that you have fewer moving parts and are able to quickly andÂ efficientlyÂ make decisions.</li>
+	<li>Decision Making Timelines: Start ups <strong>literally </strong>don't have time to waste -- every moment they waste brings them one step closer to running out of cash. Start ups make decisions out of necessity in order to continue taking positive steps toward achieving their goal(s).</li>
+	<li>Fewer Moving Parts: As <a href="http://www.amazon.com/Rework-Jason-Fried/dp/0307463745" target="_blank">Jason Fried wrote in </a><em><a href="http://www.amazon.com/Rework-Jason-Fried/dp/0307463745" target="_blank">ReWork</a>, </em> your company will never be a) smaller, and b) more nimble than it is at it's inception. Embrace the fact that you have fewer moving parts and are able to quickly and efficiently make decisions.</li>
 </ul>
 <h2><em>Ability to Pivot</em></h2>
 As we mentioned above, start ups have to make decisions to continue making progress. With that in mind, start ups clearly understand that ...
@@ -31,7 +31,7 @@ As we mentioned above, start ups have to make decisions to continue making progr
 <h2><em>Faith in Their Employees</em></h2>
 <ul>
 	<li>Employees become trigger men (and women): Start ups have to place faith in their employees -- they <em>must </em>hire productive workers that buy in 100% to the companies mission and will give 110% to help make that vision a reality. With this in mind, they are empowered to make a lot of decisions on the fly and must be creative to get things done.</li>
-	<li>Employees love their work: Because you've empowered your employees to make decisions and beÂ independentlyÂ successful within your company, they begin to love their work. Hell, it's <em>their work </em>that you've given them the power to make decisions and act on! Embrace this!</li>
+	<li>Employees love their work: Because you've empowered your employees to make decisions and be independently successful within your company, they begin to love their work. Hell, it's <em>their work </em>that you've given them the power to make decisions and act on! Embrace this!</li>
 </ul>
 <h2><em>What do you think -- did I miss anything important?</em></h2>
 

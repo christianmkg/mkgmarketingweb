@@ -16,7 +16,7 @@ views:
 <p>Here are a few of our favorites:</p>
 
 <h3>Nissan</h3>
-<p>When users searched for a new car onÂ <a href="http://dubizzle.com" target="_blank">dubizzle.com</a>, Dubai's best resource for house &amp; car hunting, Nissan wanted to be provide the most relevant advertising experience for their users.</p>
+<p>When users searched for a new car on <a href="http://dubizzle.com" target="_blank">dubizzle.com</a>, Dubai's best resource for house &amp; car hunting, Nissan wanted to be provide the most relevant advertising experience for their users.</p>
 
 <p>Based on the car options users selected (coupe, sedan, van) the corresponding ad creative pops up next to your search result.</p>
 <p><a href="http://www.youtube.com/watch?feature=player_embedded&amp;v=dSkJoT6RM28" target="_blank">See the case study here</a></p>

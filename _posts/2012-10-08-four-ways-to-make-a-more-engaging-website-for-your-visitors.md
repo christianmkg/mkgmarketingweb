@@ -20,7 +20,7 @@ That statistic, as provided by our friends at <a href="http://launchtower.com/" 
 With that statistic in mind, how can brands go about creating a more engaging website for their visitors?
 
 Here are four of our favorite ways to consider when evaluating website engagement:
-<h2><em>ProfessionalismÂ </em></h2>
+<h2><em>Professionalism </em></h2>
 Would you buy a $200 pair of shoes from a naked stranger in the middle of a crowded area? How about a long-haired skater kid in tattered pants who was skipping third period geography to meet with you?
 
 Didn't think so.
@@ -36,20 +36,20 @@ In this sense, professionalism can mean ...
 <h2><em>Ease of Use</em></h2>
 We touched on this a bit in the professionalism tip above, but what specifically can you measure to understand how easy it is to use your site?
 <ul>
-	<li>Page Load Speed: Are users kept waiting as your site loads when they click through or does the content loadÂ seamlessly? Services like <a href="http://google.com/analytics" target="_blank">Google Analytics</a> will report page load speed back to you, if configured properly.</li>
+	<li>Page Load Speed: Are users kept waiting as your site loads when they click through or does the content load seamlessly? Services like <a href="http://google.com/analytics" target="_blank">Google Analytics</a> will report page load speed back to you, if configured properly.</li>
 	<li>Is Your Site Optimized for Browsing: In laymen's terms, this point focuses on engagement. Are users likely to read a single piece of content and exit the site, or does the site engage them to the point where they want to read one piece of content after the other?</li>
 </ul>
 <h2><em>Unique Content &amp; Value-Added Opportunities</em></h2>
 <ul>
 	<li>Freshness of Content: With Google's recent <a href="http://www.seomoz.org/blog/how-googles-panda-update-changed-seo-best-practices-forever-whiteboard-friday" target="_blank">Google Panda update earlier this year</a>, the search giant has placed an emphasis on producing unique and fresh content on a regular basis. In fact, 30% of the Google's first page organic search results are ranked accordingly because they are the freshest versions of search queries.</li>
-	<li>Give Non-Believers Something to Miss Out On: Giving visitors something to miss out on is a great way to boost engagement. Think about it this way: If you, the visitor, do not engage with the website past the first page view orÂ return to the website ever again, what will you miss out on?</li>
-	<li>Added Value Opportunities:Â Give some added value. Not only should the site be easy to browse, but the value users will receive in exchange for their time and/or money should be an easy 'oh yes, i want that!' from their experience.</li>
+	<li>Give Non-Believers Something to Miss Out On: Giving visitors something to miss out on is a great way to boost engagement. Think about it this way: If you, the visitor, do not engage with the website past the first page view or return to the website ever again, what will you miss out on?</li>
+	<li>Added Value Opportunities: Give some added value. Not only should the site be easy to browse, but the value users will receive in exchange for their time and/or money should be an easy 'oh yes, i want that!' from their experience.</li>
 </ul>
-<em>An additional example of added value opportunities ...Â </em>
+<em>An additional example of added value opportunities ... </em>
 
 Take my friend Jun Loayza, who was running a service business a few years back and came in too high on a quote for a prospective client.
 
-Instead of immediately overreacting to their response of 'this is <em><span style="text-decoration: underline;">WAY</span></em> too high',Â <a href="http://www.junloayza.com/sales/what-am-i-worth/" target="_blank">he simply offered some additional out-of-scope social media consulting time into the proposal, at 0 cost to the client.</a>
+Instead of immediately overreacting to their response of 'this is <em><span style="text-decoration: underline;">WAY</span></em> too high', <a href="http://www.junloayza.com/sales/what-am-i-worth/" target="_blank">he simply offered some additional out-of-scope social media consulting time into the proposal, at 0 cost to the client.</a>
 
 And they gave him the project.
 <h2><em>Quality Testimonials</em></h2>

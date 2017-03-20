@@ -1,7 +1,7 @@
 ---
 ID: 2381
 title: >
-  What Youâ€™re Missing Without
+  What You€™re Missing Without
   Integrated Marketing Analytics
 author: Kerry Guard
 date: 2013-04-02 08:18:12
@@ -12,7 +12,7 @@ permalink: >
 published: true
 seo_title:
   - >
-    What Youâ€™re Missing Without
+    What You€™re Missing Without
     Integrated Marketing Analytics
 seo_description:
   - >
@@ -40,19 +40,19 @@ So when you hear this sentence out loud ...
 <h2>Current State of Marketing Analytics</h2>
 How does your brand acquire paying customers &amp; how is that revenue action being measured and analyzed?
 
-There is no shortage of measurement tools readily available to measure thisâ€“â€“but oftentimes they don't <em>integrateÂ </em>well together.
+There is no shortage of measurement tools readily available to measure this€“€“but oftentimes they don't <em>integrate </em>well together.
 
 Examples of tools include:
 <ul>
-	<li><span style="line-height: 1.5em;">Measuring Paid Media: For paid media (online advertising), you can use web analytics platforms like WebTrends, Google Analytics or OmnitureÂ </span></li>
-	<li>Measuring Owned Media:Â <span style="line-height: 1.5em;">For measuring owned media (brand website), tools like Raven Tools or SEOmoz do a great job of measuring results</span></li>
-	<li>Measuring Earned Media: For measuring<span style="line-height: 1.5em;">Â earned media (social), you can use a listening tool like Radian6, Alterian SM2 or PeopleBrowser</span></li>
+	<li><span style="line-height: 1.5em;">Measuring Paid Media: For paid media (online advertising), you can use web analytics platforms like WebTrends, Google Analytics or Omniture </span></li>
+	<li>Measuring Owned Media: <span style="line-height: 1.5em;">For measuring owned media (brand website), tools like Raven Tools or SEOmoz do a great job of measuring results</span></li>
+	<li>Measuring Earned Media: For measuring<span style="line-height: 1.5em;"> earned media (social), you can use a listening tool like Radian6, Alterian SM2 or PeopleBrowser</span></li>
 </ul>
 However, our clients have helped identify a weak point in using these tools:
 <blockquote><strong>Everybody at our company is logging into their own tools &amp; measuring their own insular analytics!</strong></blockquote>
-The social media director who looks at Radian6 will never dig in to WebTrends data because his job isnâ€™t to monitor site analytics; conversely, your site analytics person isnâ€™t keeping up with social media chatter surrounding your brand.
+The social media director who looks at Radian6 will never dig in to WebTrends data because his job isn€™t to monitor site analytics; conversely, your site analytics person isn€™t keeping up with social media chatter surrounding your brand.
 
-Each should care about the analytics of both avenues, because all the chatter theyâ€™re working to promote is directed toward one central goal: REVENUE.
+Each should care about the analytics of both avenues, because all the chatter they€™re working to promote is directed toward one central goal: REVENUE.
 <h2>Benefits of Integrated Analytics</h2>
 Marketing revenue is often generated from 3 main activities:
 <ol>
@@ -60,12 +60,12 @@ Marketing revenue is often generated from 3 main activities:
 	<li>Owned Media</li>
 	<li>Earned Media</li>
 </ol>
-<span style="line-height: 1.5em;">In our experience, marketing works harder for brands when the activities integrate &amp; learn from other instead of functioning separatelyâ€“â€“a strategy that can only be measured with integrated analytics.</span>
+<span style="line-height: 1.5em;">In our experience, marketing works harder for brands when the activities integrate &amp; learn from other instead of functioning separately€“€“a strategy that can only be measured with integrated analytics.</span>
 
 By placing an 'umbrella' over the top of your measurement tools and pulling those sources into an integrated view, you experience:
 <ul>
 	<li>Cost Savings: Instead of wasting financial resources by paying humans to integrate data in an analog fashion, invest in a tool that aggregates multiple data sources together for your team</li>
-	<li><span style="line-height: 14px;">IncreasedÂ Efficiency: Stop wasting resources on aggregatingÂ disparateÂ data sources and focus on whatÂ <em>action stepsÂ </em>could be performed to improve marketing performance</span></li>
+	<li><span style="line-height: 14px;">Increased Efficiency: Stop wasting resources on aggregating disparate data sources and focus on what <em>action steps </em>could be performed to improve marketing performance</span></li>
 	<li>"Single Window" View: Empower your employees, from the C-suite down, to view marketing performance in one easy-to-consume location</li>
 </ul>
 <h2>Getting Started</h2>

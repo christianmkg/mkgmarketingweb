@@ -75,14 +75,14 @@ To help make sense of all these paid &amp; organic search results, ask yourself 
 	<li>Do I want a local agency or is my main focus on finding the best available option, regardless of location?</li>
 </ul>
 <h2>Tip #3: Peruse Marketing Websites for Case Studies</h2>
-Marketing websites do a <i>fantastic jobÂ </i>of posting groundbreaking client work or agency-provided case studies that show off resultsof Â innovative &amp; new marketing techniques.
+Marketing websites do a <i>fantastic job </i>of posting groundbreaking client work or agency-provided case studies that show off resultsof  innovative &amp; new marketing techniques.
 
-The best part of all this work being highlighted: The<i>Â </i>agency is <em>always</em> given credit in the footnotes!
+The best part of all this work being highlighted: The<i> </i>agency is <em>always</em> given credit in the footnotes!
 
 Set up a Google Alert (<a href="http://google.about.com/od/personalizegoogle/ss/createAlertSBS.htm" target="_blank">instructions here</a>) to monitor the following websites for social media marketing case studies and agencies:
 <ol>
-	<li><a style="line-height: 13.993056297302246px;" href="http://adland.tv/" target="_blank">AdLand.tv</a><span style="line-height: 13.993056297302246px;">: AdLand is an independently ran website that features new andÂ innovativeÂ marketing executions from brands and agencies</span></li>
+	<li><a style="line-height: 13.993056297302246px;" href="http://adland.tv/" target="_blank">AdLand.tv</a><span style="line-height: 13.993056297302246px;">: AdLand is an independently ran website that features new and innovative marketing executions from brands and agencies</span></li>
 	<li>Media Bistro: Media Bistro features <a href="http://www.mediabistro.com/agencyspy/" target="_blank">Agency Spy</a>, an agency-specific section of their website that takes a look at new client business, where top agency talent is working at &amp; more</li>
-	<li>MashableÂ Marketing Section: Featured in the image below, Mashable's marketing section details how brands and agencies are implementing new marketing techniques,Â particularlyÂ in the realm of social media marketing</li>
+	<li>Mashable Marketing Section: Featured in the image below, Mashable's marketing section details how brands and agencies are implementing new marketing techniques, particularly in the realm of social media marketing</li>
 </ol>
 <a href="http://mkgmediagroup.com/wp-content/uploads/2013/04/mashable-marketing-section.png"><img class="alignleft size-full wp-image-2617" alt="mashable social media marketing section" src="http://mkgmediagroup.com/wp-content/uploads/2013/04/mashable-marketing-section.png" width="967" height="621" /></a>

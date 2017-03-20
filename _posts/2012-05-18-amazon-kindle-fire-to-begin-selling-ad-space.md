@@ -21,7 +21,7 @@ With that in mind, Amazon has decided to sell ads on the device's welcome screen
 
 Here are some of the details:
 <ul>
-	<li>Minimum of $600,000Â commitmentÂ must be made to get in on a welcome screen ad package</li>
+	<li>Minimum of $600,000 commitment must be made to get in on a welcome screen ad package</li>
 	<li>For $1,000,000, brands would gain access to 'special offers' section inventory and also be included in Amazon's public relations push</li>
 	<li>Campaigns would run for 2 month time frames</li>
 </ul>

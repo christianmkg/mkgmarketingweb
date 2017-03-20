@@ -35,7 +35,7 @@ views:
 <p>From the overall website design down to the user experience (UX), many companies on the rise simply don't have time to freshen up their website as they continue to grow.</p>
 <p>Unfortunately for these companies, a smooth functioning and well-designed website is an essential sales tool for an organization.</p>
 
-<p><a href="http://static.googleusercontent.com/media/www.google.com/en/us/enterprise/search/files/Google_MaximizingWebsiteROI.pdf" target="_blank">Google advocates a provenÂ methodical approach</a>Â to website design and UX that features four steps, one of which we have highlighted below:</p>
+<p><a href="http://static.googleusercontent.com/media/www.google.com/en/us/enterprise/search/files/Google_MaximizingWebsiteROI.pdf" target="_blank">Google advocates a proven methodical approach</a> to website design and UX that features four steps, one of which we have highlighted below:</p>
 
 <blockquote>Optimize the site by determining which combinations of site content and design <strong>drive the most conversions</strong></blockquote>
 
@@ -64,13 +64,13 @@ views:
 <h4>On the note of a lacking call to action, a few organic search improvements we noticed were:</h4>
 <ol>
 	<li><em><strong>Create separate product pages for the three products currently in market.</strong></em> Right now, they display all three of their products' information on the same page. If they could create a separate page for each and optimize these by name of product, they would have a better chance at having a higher ranking organic search position.</li>
-	<li><em><strong>Currently, they have entirely independent domains for each product.</strong></em>Â Best case scenario would be to have those rank first or second along with a separate page on the Unither.com domain with additional information. Right now they're being beat out by websites like RXList.com, Mayoclinic.com, and medicinenet.com in organic search rankings</li>
+	<li><em><strong>Currently, they have entirely independent domains for each product.</strong></em> Best case scenario would be to have those rank first or second along with a separate page on the Unither.com domain with additional information. Right now they're being beat out by websites like RXList.com, Mayoclinic.com, and medicinenet.com in organic search rankings</li>
 </ol>
 
 <h3>Questcor Pharmaceuticals</h3>
-<p>Questcor isÂ a biopharmaceutical company focused on the treatment of patients with serious, difficult-to-treat autoimmune and inflammatory disorders.</p>
+<p>Questcor is a biopharmaceutical company focused on the treatment of patients with serious, difficult-to-treat autoimmune and inflammatory disorders.</p>
 
-<p>With a 85% revenue increase over the past three years, Questcor saw their initial growth in the early 2000's from the purchase of anÂ anti-inflammatory drug called Acthar Gel. Made from the pituitary glands of pigs and approved by the FDA in 1952 and bought for the bargain price of $100,000, Questcor improved the product and increased the cost per unit by 16x in a few short years, leading to a massive spike in stock price and enabling R&amp;D into other medical products.</p>
+<p>With a 85% revenue increase over the past three years, Questcor saw their initial growth in the early 2000's from the purchase of an anti-inflammatory drug called Acthar Gel. Made from the pituitary glands of pigs and approved by the FDA in 1952 and bought for the bargain price of $100,000, Questcor improved the product and increased the cost per unit by 16x in a few short years, leading to a massive spike in stock price and enabling R&amp;D into other medical products.</p>
 
 <p>So what's wrong with their website?</p>
 <h4>Cluttered Pages with High Text Density</h4>
@@ -81,7 +81,7 @@ views:
 <h4>On the note of a lacking call to action, a few organic search improvements we noticed were:</h4>
 <p><strong>Unique Meta Descriptions by Page:</strong>Without a meta description tag, you rely on search engines, like Google and Bing, to predict what the most relevant snippet for your result should be.</p>
 
-<p>By laying in meta description tags, you're able to control what the snippet will display, Â allowing you to really hit on any messaging that you feel would sway a user into clicking on your result.</p>
+<p>By laying in meta description tags, you're able to control what the snippet will display,  allowing you to really hit on any messaging that you feel would sway a user into clicking on your result.</p>
 
 <p>Meta descriptions do not influence ranking, but what they do affect click-through-rate on the search engine result page (SERP).</p>
 
@@ -97,7 +97,7 @@ views:
 
 <img alt="Taro Pharmaceuticals" src="http://mkgmediagroup.com/wp-content/uploads/2013/12/Taro-Pharmaceuticals.png" />
 
-<p>Again, <a href="http://www.hongkiat.com/blog/11-common-mistakes-blunders-in-web-design/" target="_blank">Hong Kiat's article</a>Â points out the dangers of having no real call to action on your website.</p>
+<p>Again, <a href="http://www.hongkiat.com/blog/11-common-mistakes-blunders-in-web-design/" target="_blank">Hong Kiat's article</a> points out the dangers of having no real call to action on your website.</p>
 
 <h4>On the note of a lacking call to action, a few organic search improvements we noticed were:</h4>
 

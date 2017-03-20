@@ -16,17 +16,17 @@ Earlier this evening we had the pleasure to attend <a href="http://ideamensch.co
 
 In honor of a great evening, we wanted to share a couple highlights from a few speakers ...
 <h2><strong><em>Philip Rosedale // Founder of Second Life &amp; Coffee and Power</em></strong></h2>
-Philip discussed how amazingÂ siliconÂ valley is for people with great ideas and a drive to change the world.
+Philip discussed how amazing silicon valley is for people with great ideas and a drive to change the world.
 
-'People think thatÂ entrepreneursÂ are crazy, but in fact starting a company in San Francisco is a safe bet. There is 10 times the start up density of other American cities here in Silicon Valley -- that's 5 times better than New York City and 3 times better than Seattle.'
+'People think that entrepreneurs are crazy, but in fact starting a company in San Francisco is a safe bet. There is 10 times the start up density of other American cities here in Silicon Valley -- that's 5 times better than New York City and 3 times better than Seattle.'
 
-'9 out of 10 companies do in fact fail, and being in an environment that is flush with these connections is priceless. San Francisco isÂ a great place to completely bomb a company walk into a bar and meet next employer, cofounder or conceive the next big idea.'
+'9 out of 10 companies do in fact fail, and being in an environment that is flush with these connections is priceless. San Francisco is a great place to completely bomb a company walk into a bar and meet next employer, cofounder or conceive the next big idea.'
 <h2><strong><em>Sarah Lacy // Founder of PandoDaily</em></strong></h2>
 The most important thing we pulled from Sarah's speech revolved around hiring.
 
 'I have a 24 hour hiring window. If we make an offer to a prospective employee, they have exactly 24 hours to accept or deny that offer before it is completely taken off the table.'
 
-'We don't want to have to over sell employees. As we recruit new employees, we we hire individuals who are eitherÂ immediatelyÂ 100% in or not.'
+'We don't want to have to over sell employees. As we recruit new employees, we we hire individuals who are either immediately 100% in or not.'
 <h2><strong><em>Aaron Schwartz // Founder of Modify Industries</em></strong></h2>
 Aaron couldn't say it enough: customer service is the most important facet of Modify Watches customer experience.
 
@@ -41,7 +41,7 @@ He had a few pieces of advice to help generate some lucky.
 	<li>Start Playing: Stop going to coffee, talking about it endlessly or comping up new designs ... Go out and start something!</li>
 	<li>Surround Yourself With Other Lucky People: Lucky people surround themselves with other successful individuals.</li>
 	<li>It's All About Relative Luck: Seeing the 'big picture' is important, but it's critically important to reward mini-victories along the way.</li>
-	<li>Think Really Big: ThinkÂ <em>reallyÂ </em>big!</li>
+	<li>Think Really Big: Think <em>really </em>big!</li>
 </ol>
 
 <img src="http://mkgmediagroup.com/wp-content/uploads/2011/08/mk_median_bw_head.jpeg" alt="Mike Krass, CEO of MKG Media Group" width="219" height="218" class="alignleft size-full wp-image-1794" />

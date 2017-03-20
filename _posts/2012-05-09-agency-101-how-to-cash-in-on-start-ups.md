@@ -47,9 +47,9 @@ Next, ask them where their big wins are coming from.
 In her experience at AdMob, she saw ...
 <ul>
 	<li>Many paid marketing wins were long tail victories: These were larger in quantity but weren't necessarily the biggest ticket sales wins within the organization.</li>
-	<li>On that note, the sales team was closing the 'high touch point' wins through traditional sales tactics of lead nurturing. Companies like <a href="http://marketo.com" target="_blank">Marketo</a>Â help convert paid marketing wins into larger sales victories.</li>
+	<li>On that note, the sales team was closing the 'high touch point' wins through traditional sales tactics of lead nurturing. Companies like <a href="http://marketo.com" target="_blank">Marketo</a> help convert paid marketing wins into larger sales victories.</li>
 </ul>
-<h2><em>How are businesses being started inÂ SiliconÂ Valley?</em></h2>
+<h2><em>How are businesses being started in Silicon Valley?</em></h2>
 She noticed a trend in the life cycle of start ups in the valley:
 <ul>
 	<li>Company founded around a genius technological idea / product</li>
@@ -57,7 +57,7 @@ She noticed a trend in the life cycle of start ups in the valley:
 	<li>Sell the damn thing --&gt; are they able to convince people to pay for this solution?</li>
 </ul>
 <h2><em>Is the start up focused on users or paying customers?</em></h2>
-Take Instagram for example: they were a <em><strong>free </strong></em>product with millions of users.Â Unfortunately, not a single one of those users was a paying customer.
+Take Instagram for example: they were a <em><strong>free </strong></em>product with millions of users. Unfortunately, not a single one of those users was a paying customer.
 
 When approaching start ups as a marketing agency, you need to ask the following questions to understand their positioning:
 <ul>

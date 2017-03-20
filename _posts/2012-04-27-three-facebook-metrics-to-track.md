@@ -45,12 +45,12 @@ If not, give us a shout by <a href="http://mkgmediagroup.com/contact-us/" target
 
 <img src="http://mkgmediagroup.com/wp-content/uploads/2011/08/mk_median_bw_head.jpeg" alt="Mike Krass, CEO of MKG Media Group" width="219" height="218" class="alignleft size-full wp-image-1794" />
 
-Â  <span itemprop="jobTitle">Mike Krass | CEO & All-Around Nice Guy</span>
-Â <a href="http://www.mkgmediagroup.com" itemprop="url">MKG Media Group</a>
+  <span itemprop="jobTitle">Mike Krass | CEO & All-Around Nice Guy</span>
+ <a href="http://www.mkgmediagroup.com" itemprop="url">MKG Media Group</a>
 </span>
 
 Aside from being the CEO of MKG Media Group, Mike is a dark beer aficionado with a healthy appetite for travel and pushing personal boundaries. A proud graduate of the Edward R. Murrow School of Communication at Washington State University, Mike currently calls San Francisco home. Feel free to contact him via Twitter & Email:
-Â  <a href="http://www.twitter.com/mikekrass" itemprop="url">Twitter</a>
-Â <a href="mailto:mike@mkgmediagroup.com" itemprop="email">
-Â  Â  mike@mkgmediagroup.com</a>
+  <a href="http://www.twitter.com/mikekrass" itemprop="url">Twitter</a>
+ <a href="mailto:mike@mkgmediagroup.com" itemprop="email">
+    mike@mkgmediagroup.com</a>
 </div>

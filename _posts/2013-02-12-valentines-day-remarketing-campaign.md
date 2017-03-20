@@ -30,7 +30,7 @@ You can do some really creative stuff with remarketing, such as advertising a fo
 <h2>What Makes Valentine's Day The Perfect Case Study</h2>
 Valentine's Day is like "Black Friday" for Florists. For fresh flower purchases, <a href="http://www.aboutflowers.com/flower-holidays-occasions-a-parties/flowers-for-valentines/valentines-day-statistics.html" target="_blank">Valentine's Day ranks No. 1 out of all major U.S. holidays with 36% of holiday transactions and 40% of holiday dollar volume</a>.
 
-With percentages that large, you bet online florist services will try to not only capture your business for V-Day... but for other holidays and specialÂ occasions.
+With percentages that large, you bet online florist services will try to not only capture your business for V-Day... but for other holidays and special occasions.
 
 Who knows? If I'm happy with my online floral delivery experience, I may just develop into a <a href="http://mkgmediagroup.com/four-characteristics-of-a-loyal-customer/" target="_blank">loyal customer</a>. And as I covered in my previous blog post, these type of customers are $$$ for businesses.
 <h2>First Company - ProFlowers</h2>

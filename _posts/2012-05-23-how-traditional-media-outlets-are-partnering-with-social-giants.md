@@ -25,7 +25,7 @@ Questions include:
 	<li>Does social deserve to partner with traditional media giants?</li>
 </ul>
 Let's take a look at a recent parntership between social and traditional broadcast TV outlets.
-<h2><em><a href="http://www.clickz.com/clickz/news/2179362/sealed-facebook-tbs-deal" target="_blank">Facebook cut a deal with Turner Broadcasting SystemÂ </a></em></h2>
+<h2><em><a href="http://www.clickz.com/clickz/news/2179362/sealed-facebook-tbs-deal" target="_blank">Facebook cut a deal with Turner Broadcasting System </a></em></h2>
 So, to answer the questions that were addressed above:
 <ul>
 	<li><strong>What value can each partner bring to the table?</strong></li>
@@ -36,7 +36,7 @@ So, to answer the questions that were addressed above:
 	<li><strong>Does social deserve to partner with traditional media giants?</strong></li>
 <ul>
 	<li>Traditionally, social channels didn't have a seat at the big kids table because they couldn't generate revenue.</li>
-	<li>With the Facebook IPO, social has their first champion that carries a 12-figure valuation, showing that they have the potential to generate a <em><strong>hundred billion dollars in revenueÂ </strong></em></li>
+	<li>With the Facebook IPO, social has their first champion that carries a 12-figure valuation, showing that they have the potential to generate a <em><strong>hundred billion dollars in revenue </strong></em></li>
 </ul>
 </ul>
 Think that this is a one-hit wonder deal?

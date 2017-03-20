@@ -34,14 +34,14 @@ Followed by:
 	<li>Would you hire them again?</li>
 </ul>
 This exercise helps me get a great firsthand account of their expertise <em><strong>AS WELL AS </strong></em>connects me with other references that I can contact if I feel like we need additional background.
-<h2><em>The Social Setting GauntletÂ </em></h2>
+<h2><em>The Social Setting Gauntlet </em></h2>
 Anybody can put on a shirt and tie, sit straight backed in a conference room and robotically answer interview questions.
 
 <em>So, next time we need to hire somebody to look out of place, uncomfortable and generally unhappy to sit in a conference room for 40 hours a week, I'll start using this tactic.</em>
 
 Instead, we like to get people / groups into social settings where we can have a candid conversation about what we need and if they can provide it for us. We prefer this for the following reasons:
 <ul>
-	<li><strong>Candid Answers: </strong>Being in a social setting (lunch, happy hour drinks, etc) helps lower anxiety and,Â eventually, let their guard down. We get to see a more candid version of the person we would potentially be working with instead of a scripted, robotic answering machine.</li>
+	<li><strong>Candid Answers: </strong>Being in a social setting (lunch, happy hour drinks, etc) helps lower anxiety and, eventually, let their guard down. We get to see a more candid version of the person we would potentially be working with instead of a scripted, robotic answering machine.</li>
 	<li><strong>How They Treat Others: </strong>Watch how interviewees treat the wait staff at a bar as well as the patrons surrounding your table. Do they hold doors open for others and constantly thank the waitress? Conversely, does he oogle at the waitress when she walks by and scold others for being noisy?</li>
 	<li><strong>Distractions, distractions, distractions: </strong>Social settings, like many things in life, are filled with distractions. How does the interviewee handle these distractions?</li>
 </ul>
@@ -55,14 +55,14 @@ We want to sit down and learn about your business over the course of a few conve
 
 <img src="http://mkgmediagroup.com/wp-content/uploads/2011/08/mk_median_bw_head.jpeg" alt="Mike Krass, CEO of MKG Media Group" width="219" height="218" class="alignleft size-full wp-image-1794" />
 
-Â  <span itemprop="jobTitle">Mike Krass | CEO & All-Around Nice Guy</span>
-Â <a href="http://www.mkgmediagroup.com" itemprop="url">MKG Media Group</a>
+  <span itemprop="jobTitle">Mike Krass | CEO & All-Around Nice Guy</span>
+ <a href="http://www.mkgmediagroup.com" itemprop="url">MKG Media Group</a>
 </span>
 
 Aside from being the CEO of MKG Media Group, Mike is a dark beer aficionado with a healthy appetite for travel and pushing personal boundaries. A proud graduate of the Edward R. Murrow School of Communication at Washington State University, Mike currently calls San Francisco home. Feel free to contact him via Twitter & Email:
-Â  <a href="http://www.twitter.com/mikekrass" itemprop="url">Twitter</a>
-Â <a href="mailto:mike@mkgmediagroup.com" itemprop="email">
-Â  Â  mike@mkgmediagroup.com</a>
+  <a href="http://www.twitter.com/mikekrass" itemprop="url">Twitter</a>
+ <a href="mailto:mike@mkgmediagroup.com" itemprop="email">
+    mike@mkgmediagroup.com</a>
 </div>
 
 &nbsp;

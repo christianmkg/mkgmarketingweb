@@ -24,15 +24,15 @@ For those of you who are not huge UFC fans, Anderson Silva is the Michael Jordan
 	<li>UFC chief Dana White has called Silva 'the greatest mixed martial artist ever'</li>
 </ul>
 But we're not here to only talk about ultimate fighting. We wanted to take a look at some of the traits that have made Anderson Silva successful and translate these into actionable 'arrows' for a marketers quiver, so to speak.
-<h2><em>Are Your Communication Points 'on brand'?Â </em></h2>
+<h2><em>Are Your Communication Points 'on brand'? </em></h2>
 Chael Sonnen had been defeated by Silva back in 2010 and used his other-worldly trash talking ability to talk his way into last Saturday's rematch.
 
 But even though Sonnen could arrange the rematch by talking smack, he wasn't able to follow through on the smack talk and defeat Silva in the octagon.
 
 So what does this teach marketers?
 <ul>
-	<li><strong>Stay True to Your Success Metrics:Â </strong>Getting your clients product into the the consideration set of the consumer -- i.e. smack talking your way into a rematch -- is only half the battle. Are you communicating a clear value proposition of your product or service to the prospect in order to seal the deal?</li>
-	<li><strong>Don't Oversell:Â </strong>If your product does 1 thing better than it's competitors in the marketplace, then scream it from the roof tops! What youÂ <em>don'tÂ </em>want to do is oversell your product and generate a large following of unhappy clients because you oversold them and the product did not deliver.</li>
+	<li><strong>Stay True to Your Success Metrics: </strong>Getting your clients product into the the consideration set of the consumer -- i.e. smack talking your way into a rematch -- is only half the battle. Are you communicating a clear value proposition of your product or service to the prospect in order to seal the deal?</li>
+	<li><strong>Don't Oversell: </strong>If your product does 1 thing better than it's competitors in the marketplace, then scream it from the roof tops! What you <em>don't </em>want to do is oversell your product and generate a large following of unhappy clients because you oversold them and the product did not deliver.</li>
 </ul>
 <h2><em>Understanding Skill Sets</em></h2>
 Silva is a practicing expert in the following forms of martial arts:

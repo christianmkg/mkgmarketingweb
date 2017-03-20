@@ -6,7 +6,7 @@ layout: post
 ---
 <img class="size-medium wp-image-398 alignleft" title="blake griffin" src="http://mkgmediagroup.com/wp-content/uploads/2012/02/blake-griffin-300x225.png" alt="blake griffin media advertising" width="300" height="225" />
 
-Los Angeles Clippers superstar Blake Griffin's dunk on Kendrick Perkins wasÂ <strong><em>absolutely</em>Â <em>epic</em></strong> (if you haven't seen it, <a href="http://www.youtube.com/watch?v=AbyOevVAYQI" target="_blank">click here)</a>Â and reminded me of a conversation I recently had with a client.
+Los Angeles Clippers superstar Blake Griffin's dunk on Kendrick Perkins was <strong><em>absolutely</em> <em>epic</em></strong> (if you haven't seen it, <a href="http://www.youtube.com/watch?v=AbyOevVAYQI" target="_blank">click here)</a> and reminded me of a conversation I recently had with a client.
 
 The client wanted to know ...
 <h2 style="text-align: left;"><em>When should I have media and/or advertising in the market?</em></h2>

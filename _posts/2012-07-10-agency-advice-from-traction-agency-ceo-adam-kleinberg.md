@@ -43,8 +43,8 @@ Adam dropped this gem when I asked him when he found success selling in new busi
 If I could boil down this part of our conversation to three micro-pieces of advice, they would be:
 <ul>
 	<li><strong>Treat your relationships with a long term goal in mind:</strong> You're not going to sell in enormous contracts to clients who barely know you. It might take years and multiple job postings before that individual decides to work with your agency, so don't try and rush to the finish line and risk losing that relationship for good.</li>
-	<li><strong>Trusting relationships help cut through the clutter:Â </strong>You know the quickest way to get fast tracked into a new piece of business? By having a trusting, lengthy relationship with the client. It's the quickest way to avoid taking part in 20 agency cattle call RFP's that suck all your agencies time and resources.</li>
-	<li><strong>Relationships = friendships:Â </strong>I couldn't help but state this again; when people like you they want to work with you. Become friends with people and the professional opportunities will organically grow.</li>
+	<li><strong>Trusting relationships help cut through the clutter: </strong>You know the quickest way to get fast tracked into a new piece of business? By having a trusting, lengthy relationship with the client. It's the quickest way to avoid taking part in 20 agency cattle call RFP's that suck all your agencies time and resources.</li>
+	<li><strong>Relationships = friendships: </strong>I couldn't help but state this again; when people like you they want to work with you. Become friends with people and the professional opportunities will organically grow.</li>
 </ul>
 <h2><em>Tip #3: Watch Your Numbers</em></h2>
 Take an active role in understanding how each client or project your agency works on makes you money.
@@ -59,8 +59,8 @@ Never overlook the importance of the basic 'bread-and-butter' services that your
 <h2><em>Tip #4: Understanding When to Hire</em></h2>
 <em></em>A couple questions to ask yourself when it comes to staffing up your agency:
 <ul>
-	<li>At what point could I use help? As in, when would it beÂ <em>nice to haveÂ </em>an extra pair of hands?</li>
-	<li>Conversely, when do I feel that IÂ <em>needÂ </em>help?</li>
+	<li>At what point could I use help? As in, when would it be <em>nice to have </em>an extra pair of hands?</li>
+	<li>Conversely, when do I feel that I <em>need </em>help?</li>
 	<li>What's this additional help worth to your agency in terms of dollars and cents? As in, what should you be paying for this help?</li>
 	<li>What will bringing on this help bring in terms of growth? Try applying a tangible value that will be recognized by hiring on this extra person.</li>
 </ul>

@@ -32,13 +32,13 @@ As a B2B marketing agency, we constantly have current &amp; prospective clients 
 <blockquote>What's next for B2B marketing? What trends are you seeing that we can take advantage of?</blockquote>
 With that in mind, we wanted to walk through some of the trends we saw in 2012 and share some of the advice we've been giving our current clients here in 2013:
 <h2>Trend #1: Social Media Accounts for Only 2% of B2B Traffic</h2>
-Our good friends at <a href="http://www.optify.net/wp-content/uploads/2013/01/Optify-2012-B2B-Marketing-Benchmark-Report.pdf" target="_blank">Optify produced a 2012 B2B marketing reportÂ </a>that found social media channels accounted for only 2% of total traffic for B2B brands in 2012.
+Our good friends at <a href="http://www.optify.net/wp-content/uploads/2013/01/Optify-2012-B2B-Marketing-Benchmark-Report.pdf" target="_blank">Optify produced a 2012 B2B marketing report </a>that found social media channels accounted for only 2% of total traffic for B2B brands in 2012.
 
 Take a look at all sources of B2B traffic below:
 <p style="text-align: center;"><a href="http://mkgmediagroup.com/wp-content/uploads/2013/02/2012-B2B-Traffic-Sources.jpeg"><img class=" wp-image-2106 aligncenter" alt="2012 B2B marketing traffic sources" src="http://mkgmediagroup.com/wp-content/uploads/2013/02/2012-B2B-Traffic-Sources.jpeg" width="603" height="502" /></a></p>
 As you can see, the leading traffic sources were direct referrals &amp; organic, at 40% &amp; 41%, respectively.
 
-<em><strong><span style="color: #ff6600;">WHAT THIS MEANS:</span></strong>Â </em>Focus on making your siteÂ <em>FINDABLE.Â </em>
+<em><strong><span style="color: #ff6600;">WHAT THIS MEANS:</span></strong> </em>Focus on making your site <em>FINDABLE. </em>
 
 That's right: <em>content &amp; organic search marketing</em> are going to deliver ~81% of all site traffic, so B2B marketers need to focus on providing value back to their audience as well as ensuring that their site is positioned to bring in quality organic search leads.
 <h2>Trend #2: Twitter Rules the B2B Social Media Marketing Universe</h2>
@@ -50,13 +50,13 @@ So, which social media channels are providing the best quality traffic?
 
 <a href="http://mkgmediagroup.com/wp-content/uploads/2013/02/B2B-Traffic-and-Lead-Gen.png"><img class="wp-image-2108 aligncenter" alt="B2B Social Media Traffic &amp; Lead Generation Channels" src="http://mkgmediagroup.com/wp-content/uploads/2013/02/B2B-Traffic-and-Lead-Gen.png" width="747" height="473" /></a>
 
-As you can see above, <em><strong>Twitter only drives 32% of site visitors, but provides B2BÂ marketersÂ with 82% of all social media leads!</strong></em>
+As you can see above, <em><strong>Twitter only drives 32% of site visitors, but provides B2B marketers with 82% of all social media leads!</strong></em>
 
-<span style="color: #ff6600;"><em><strong>WHAT THIS MEANS:</strong></em><span style="color: #000000;">Â It's time to begin testing Twitter as a legitimate lead generation channel.</span></span>
+<span style="color: #ff6600;"><em><strong>WHAT THIS MEANS:</strong></em><span style="color: #000000;"> It's time to begin testing Twitter as a legitimate lead generation channel.</span></span>
 
 <span style="color: #ff6600;"><span style="color: #000000;">At MKG Media Group, we always analyze performance as a percentage: This exercise, among many, allows us to understand which traffic sources are generating quality leads and scale the marketing investment accordingly.</span></span>
 <h2>Trend #3: B2B Marketers Need to Invest in Their Website</h2>
-According to <a href="http://blog.hubspot.com/blog/tabid/6307/bid/31097/12-Critical-Elements-Every-Homepage-Must-Have-Infographic.aspx" target="_blank">HubSpot, approximately 96% of landing page visitors</a> areÂ <em>notÂ </em>ready to make a purchase when they visit your website.
+According to <a href="http://blog.hubspot.com/blog/tabid/6307/bid/31097/12-Critical-Elements-Every-Homepage-Must-Have-Infographic.aspx" target="_blank">HubSpot, approximately 96% of landing page visitors</a> are <em>not </em>ready to make a purchase when they visit your website.
 
 With that stat top of mind, guess what B2B marketers are investing most heavily in during 2013?
 
@@ -74,7 +74,7 @@ With that stat top of mind, guess what B2B marketers are investing most heavily 
 <h2></h2>
 That's right: 7-out-of-10 B2B marketers will be investing in website development with their 2013 budgets.
 
-<span style="color: #ff6600;"><em><strong>WHAT THIS MEANS:</strong></em>Â </span>A conversion friendly website is a B2B marketer's best friend.
+<span style="color: #ff6600;"><em><strong>WHAT THIS MEANS:</strong></em> </span>A conversion friendly website is a B2B marketer's best friend.
 
 As a marketer, you have <a href="http://blog.kissmetrics.com/what-converting-websites-do/" target="_blank">between 0 - 8 seconds to make a great first impression on your visitors before they leave the site</a>. B2B marketers need to have a sharp team of individuals to help design &amp; implement landing page best practices &amp; testing.
 

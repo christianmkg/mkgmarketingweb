@@ -12,7 +12,7 @@ views:
   - "57"
 ---
 <h2><em>How can you bring simple &amp; brilliant together?</em></h2>
-Something that we preach to current and prospective clients of <a href="http://mkgmediagroup.com" target="_blank">MKG Media</a>Â is that the creative concept(s) and the communication channel (i.e. the media) should work hand in hand.
+Something that we preach to current and prospective clients of <a href="http://mkgmediagroup.com" target="_blank">MKG Media</a> is that the creative concept(s) and the communication channel (i.e. the media) should work hand in hand.
 
 To illustrate this point, I regularly use this analogy:
 <h2><em>Would you put the Mona Lisa on the side of a porta potty?</em></h2>

@@ -64,7 +64,7 @@ views:
 <p><em>The Pros</em></p>
 
 <ul>
-	<li>A 30-day free trial allows you to test drive the tool before investing in a premium version,Â no credit care</li>
+	<li>A 30-day free trial allows you to test drive the tool before investing in a premium version, no credit care</li>
 	<li>Choose from pre-built templates or fully customize the way your metrics are displayed on your dashboard</li>
 	<li>Ability to purchase dashboard bundles of dashboards to build out (5 / 20 / 100 / etc)</li>
 	<li>White label solution offers the ability to remove all LeftTronic branding and customize branding to each individual client</li>

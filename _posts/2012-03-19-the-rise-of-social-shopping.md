@@ -12,11 +12,11 @@ A great example of group buying is Target's <a href="https://apps.facebook.com/g
 <h2><em>Incentivized Sharing</em></h2>
 Walmart.com used to run an incentivized coupon offer for users at the final stage of the online check out process.
 
-At the final stage of the check out process, users were shown an option to 'share this purchase with 5 Facebook friends'. Doing so would unlock an instant '<em>x% off'Â </em>coupon that would be applied immediately to their purchase.
+At the final stage of the check out process, users were shown an option to 'share this purchase with 5 Facebook friends'. Doing so would unlock an instant '<em>x% off' </em>coupon that would be applied immediately to their purchase.
 <h2><em>Local</em></h2>
 Another Walmart example includes the <a href="https://www.facebook.com/Walmart5402?sk=app_216359575057664" target="_blank">Walmart My Local</a> Facebook app. This app allows users to select their local Walmart location and get served deals or coupons based on location.
 <h2><em>Connecting Shopping Data</em></h2>
-American Express' <em><a href="https://www.facebook.com/americanexpress?v=app_216352075054740" target="_blank">Like, Link, Love</a>Â </em>application links Facebook data with users AmEx purchase history to deliver personalized coupons based upon Facebook likes &amp; interests.
+American Express' <em><a href="https://www.facebook.com/americanexpress?v=app_216352075054740" target="_blank">Like, Link, Love</a> </em>application links Facebook data with users AmEx purchase history to deliver personalized coupons based upon Facebook likes &amp; interests.
 <h2><em>Pop Up Gift Shop</em></h2>
 In a unique PR-driven strategy, Heinz enabled it's UK-based residents to purchase a can of 'Get Well Soup' through their Facebook fan page.
 

@@ -29,14 +29,14 @@ Mad Men is incredibly beautiful and well done. The shows producers suck you into
 
 <a href="http://mkgmediagroup.com/wp-content/uploads/2013/04/Mad-Men-Drapers-Office-1.jpg"><img class="aligncenter size-full wp-image-2482" alt="60s Advertising Agency from Mad Men" src="http://mkgmediagroup.com/wp-content/uploads/2013/04/Mad-Men-Drapers-Office-1.jpg" width="750" height="424" /></a>
 
-Now, imagine you are completely drawn into the viewing experience and <strong>BAM, </strong>the showÂ cuts to commercial break. It's abrupt. It disrupts the experience. Not because it's cutting into your precious Mad Men time, but because it's an advertisement for an iPad, a device that wasn't even a twinkle in Steve Jobs' eye in the 1960's.
+Now, imagine you are completely drawn into the viewing experience and <strong>BAM, </strong>the show cuts to commercial break. It's abrupt. It disrupts the experience. Not because it's cutting into your precious Mad Men time, but because it's an advertisement for an iPad, a device that wasn't even a twinkle in Steve Jobs' eye in the 1960's.
 <h2>Enter: Personalization Marketing</h2>
 A few brands, including Lincoln and Johnny Walker, hopped on the personalization band wagon and created a 60's look and feel ad for the Mad Men premiere for two reasons:
 
 <a href="http://mkgmediagroup.com/wp-content/uploads/2013/04/6a00d83451db4269e20133f4bd75d6970b-400wi.jpg"><img class=" wp-image-2487 alignleft" alt="Personalization Marketing by Lincoln for Mad Men" src="http://mkgmediagroup.com/wp-content/uploads/2013/04/6a00d83451db4269e20133f4bd75d6970b-400wi.jpg" width="240" height="218" /></a>
 <ol>
 	<li>Grab the attention of those fast forwarding through commercials. Viewers see the ad in the midst of their skipping and because it looks like the show they stop forwarding, thinking the show started, but then just keep watching because the commercial is now relevant and compelling.</li>
-	<li>Be a part of the Mad Men experience.Â  As mentioned above, Mad Men is captivating not only for it's story line and characters, but for the visuals. A few brands latched on to that, took advantage, and became part of the viewing experience.</li>
+	<li>Be a part of the Mad Men experience.  As mentioned above, Mad Men is captivating not only for it's story line and characters, but for the visuals. A few brands latched on to that, took advantage, and became part of the viewing experience.</li>
 </ol>
 The issue with this route is that it can't scale. Brands spend millions of dollars on one TV Spot and in some cases that ad is only relevant once a week.
 
@@ -48,7 +48,7 @@ But the real question is, how do you get it in front of a ton of people if you'r
 
 Here are two easy examples:
 <h3>Scale Example #1: Competitive Angle</h3>
-If your brand is competing against big competitors, then it's easy to create an ad that says why a user should chose you.Â  For example, you could use keyword targeting in your paid search or Â banner advertising to easily get that message in front of hand raisers actively looking for competitive solutions.
+If your brand is competing against big competitors, then it's easy to create an ad that says why a user should chose you.  For example, you could use keyword targeting in your paid search or  banner advertising to easily get that message in front of hand raisers actively looking for competitive solutions.
 
 Let's say your a cloud base service, right off the bat you have three BIG competitors: Box, Dropbox, &amp; Sharepoint. Let's just take one, Box.
 <ul>
@@ -57,8 +57,8 @@ Let's say your a cloud base service, right off the bat you have three BIG compet
 	<li><span style="line-height: 1.5em;"><strong>That equals 12% of the 3.5MM</strong> viewers that tuned into the Mad Men Premiere</span></li>
 	<li><span style="line-height: 1.5em;">A single <strong>personalized paid search or banner ad would reach 400,000 of those viewers for as little as $15,000</strong> a month compared to the budget it takes to shoot a TV ad and purchase the media space</span></li>
 </ul>
-Also, this way, there are zero wasted impressions.Â  You are talking to EXACTLY who you need to be saying EXACTLY what they need hear.
-<h3>Scale Example #2:Â Audience Segmentation</h3>
+Also, this way, there are zero wasted impressions.  You are talking to EXACTLY who you need to be saying EXACTLY what they need hear.
+<h3>Scale Example #2: Audience Segmentation</h3>
 Who uses your product?
 
 Let's stick to the cloud example.
@@ -81,7 +81,7 @@ Your brands ad should first speak to the audience, in this case Enterprise, and 
 
 For example:<a href="http://mkgmediagroup.com/wp-content/uploads/2013/04/Screen-Shot-2013-04-12-at-3.26.51-PM.png"><img class="size-full wp-image-2503 aligncenter" alt="Paid Search Personalized Example" src="http://mkgmediagroup.com/wp-content/uploads/2013/04/Screen-Shot-2013-04-12-at-3.26.51-PM.png" width="236" height="94" /></a>
 
-Continue the personalization experience from the ad onto the website.Â  Drive these users to a landing page that speaks directly to how someone would use your product to solve their specific pain point.
+Continue the personalization experience from the ad onto the website.  Drive these users to a landing page that speaks directly to how someone would use your product to solve their specific pain point.
 
 Tables are great ways to line yourself up against your competitors, like the example below:
 <p style="text-align: center;"><a href="http://mkgmediagroup.com/wp-content/uploads/2013/04/Screen-Shot-2013-04-12-at-3.15.39-PM.png"><img class="aligncenter size-full wp-image-2504" alt="Landing Page Personalization Example" src="http://mkgmediagroup.com/wp-content/uploads/2013/04/Screen-Shot-2013-04-12-at-3.15.39-PM.png" width="546" height="601" /></a></p>

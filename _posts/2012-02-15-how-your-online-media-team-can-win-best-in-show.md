@@ -10,7 +10,7 @@ Well, you can start with the following:
 
 &nbsp;
 <ul>
-	<li><strong>Â Be Accountable For Your Investments:</strong> Every time you allocate your companies hard earned cash you need to be accountable for the results. That means if things go south, you need to be able to determine where the problem stemmed from and prove to your superiors that you can fix it next time around. If your online media investment was successful, then you need to shout the results from the roof top of your building so that others take note.</li>
+	<li><strong> Be Accountable For Your Investments:</strong> Every time you allocate your companies hard earned cash you need to be accountable for the results. That means if things go south, you need to be able to determine where the problem stemmed from and prove to your superiors that you can fix it next time around. If your online media investment was successful, then you need to shout the results from the roof top of your building so that others take note.</li>
 	<li><strong>Measure Everything:</strong> It's difficult to figure out if you failed / succeeded if you haven't set performance goals up front. Take the time to put together a road map of what success looks like; this will make your working relationships with online media partners and vendors go much more smoothly as everybody has agreed to what success looks like up front.</li>
 	<li><strong>Focus on Long Term Learnings:</strong> While immediate success will keep your budget healthy, long term learnings are beginning to shape the online media landscape. Work with partners who are able to serve up informed insights from media buys so that you can learn more about the audience you are interacting with online.</li>
 </ul>

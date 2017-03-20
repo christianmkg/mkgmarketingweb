@@ -45,8 +45,8 @@ views:
 	
 	<ul>
 		<li>6,303 more visits year-over-year</li>
-		<li>5,000 unique visitorsÂ year-over-year</li>
-		<li>7,843 pages viewedÂ year-over-year</li>
+		<li>5,000 unique visitors year-over-year</li>
+		<li>7,843 pages viewed year-over-year</li>
 	</ul>
 	
 	<p>On that note, we also wanted to share our most-visited blog content for the past year. Below is a list of our top seven blog posts from 2013:</p>
@@ -54,7 +54,7 @@ views:
 	<ol>
 		<li><a href="http://mkgmediagroup.com/how-to-calculate-lifetime-value-of-a-loyal-customer/" target="_blank">How to Calculate Lifetime Value of a Loyal Customer</a> - this post breaks down the factors on how to calculate this value as well as an easy formula that can help you figure out this important metric for your own organization.</li>
 		<li><a href="http://mkgmediagroup.com/google-tag-manager-what-it-is-3-fixes-to-common-problems/" target="_blank">Google Tag Manager - What Is It and Three Fixes To Common Problems</a> - this post explains what Google Tag Manager (GTM) is, what it is useful for, and some solutions for three common problems many users are experiencing with the tool.</li>
-		<li><a href="http://mkgmediagroup.com/three-interactive-dashboarding-tools-your-company-should-be-using/" target="_blank">Three Interactive Dashboarding Tools Your Company Should Be Using</a> - this post Â goes over three dashboard tools - Dashzen, Leftronic and GoodData - and goes over pros and cons for all three options.</li>
+		<li><a href="http://mkgmediagroup.com/three-interactive-dashboarding-tools-your-company-should-be-using/" target="_blank">Three Interactive Dashboarding Tools Your Company Should Be Using</a> - this post  goes over three dashboard tools - Dashzen, Leftronic and GoodData - and goes over pros and cons for all three options.</li>
 		<li><a href="http://mkgmediagroup.com/four-characteristics-of-a-loyal-customer/" target="_blank">Four Characteristics of a Loyal Customer</a> - read four characteristics loyal customers all tend to share to help you identify and target potential loyal customers for your product or service.</li>
 		<li><a href="http://mkgmediagroup.com/content-marketing-bible-8-great-content-types-to-produce/" target="_blank">Content Marketing Bible: 8 Great Content Types to Produce</a> - view 8 types of content that tend to be well received in a content marketing strategy that you are looking to produce.</li>
 		<li><a href="http://mkgmediagroup.com/google-authorship-a-how-to-guide/" target="_blank">Google Authorship: A How-To Guide</a> - see how you can follow 4 easy steps to get your Google+ profile hooked up to your site content so you can start getting authorship attribution on Google's search engine result pages.</li>

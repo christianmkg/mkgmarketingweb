@@ -42,12 +42,12 @@ BIA/Kelsey research shows that mobile call volume will double by 2014. Additiona
 
 So how can your brand create &amp; execute a click-to-call campaign?
 <ul>
-	<li><em style="line-height: 1.5em;"><span style="line-height: 1.5em;">Mobile Search:Â </span></em><span style="line-height: 1.5em;">The major search engines (Google, Bing &amp; Yahoo) all support the option to run paid search ads on mobile devices.Â </span><span style="line-height: 1.5em;">Instead of sending users to a mobile landing page, allow them to dial directly in to your business.</span></li>
+	<li><em style="line-height: 1.5em;"><span style="line-height: 1.5em;">Mobile Search: </span></em><span style="line-height: 1.5em;">The major search engines (Google, Bing &amp; Yahoo) all support the option to run paid search ads on mobile devices. </span><span style="line-height: 1.5em;">Instead of sending users to a mobile landing page, allow them to dial directly in to your business.</span></li>
 	<li>Mobile Banner: As users are surfing the internet on their mobile device or engaging with Yelp or a local traffic app, present a banner prompting your customer to click-to-call to learn more about the offering being advertised.</li>
 </ul>
-<em>The MeasurementÂ </em>
+<em>The Measurement </em>
 
-Click-to-call Â performance can be measured by creating a <a href="http://www.google.com/talk/" target="_blank">Google Talk number </a>(free) and connecting with your brands Google AdWords account.
+Click-to-call  performance can be measured by creating a <a href="http://www.google.com/talk/" target="_blank">Google Talk number </a>(free) and connecting with your brands Google AdWords account.
 
 When a customer dials the phone number or clicks on an mobile search or banner ad, Google AdWords will capture that action.
 <h2><strong>SMS Marketing</strong></h2>
@@ -86,6 +86,6 @@ Take a look at the example on the right:<img class="alignright size-full wp-imag
 Database marketing campaigns can drive toward multiple goals and objectives, but here are a few of the more valuable metrics to determine success on mobile database marketing campaigns:
 <ul>
 	<li><span style="line-height: 1.5em;">Conversion Rates, such as number of opt ins divided by number offers redeemed</span></li>
-	<li><span style="line-height: 1.5em;">Â Life Time Value, by continuing to measure redemption for eachÂ </span><span style="line-height: 21px;">individual</span><span style="line-height: 1.5em;">Â opt-in customer</span></li>
+	<li><span style="line-height: 1.5em;"> Life Time Value, by continuing to measure redemption for each </span><span style="line-height: 21px;">individual</span><span style="line-height: 1.5em;"> opt-in customer</span></li>
 	<li>Revenue per Redemption, to determine high value audiences &amp; promotions</li>
 </ul>

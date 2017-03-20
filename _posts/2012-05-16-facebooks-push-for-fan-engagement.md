@@ -25,7 +25,7 @@ According to the same data, the answer is <strong><em>not very much.</em></stron
 
 <a href="http://mkgmediagroup.com/wp-content/uploads/2012/05/engagement.png"><img class="aligncenter size-full wp-image-1277" title="engagement" src="http://mkgmediagroup.com/wp-content/uploads/2012/05/engagement.png" alt="" width="545" height="124" /></a>
 <h2><em>As a percentage, Coca-Cola posts a <strong>0.00% </strong>engagement rate.</em></h2>
-When putting together your brands social strategy, use the following questions Â to guide your decision-making process of what is important to achieve by tapping into social channels:
+When putting together your brands social strategy, use the following questions  to guide your decision-making process of what is important to achieve by tapping into social channels:
 <ul>
 	<li>What actions do we want users to take within our social channels?</li>
 	<li>Based on our proposed strategy, are we able to calculate the value of each 'like'? Is this even important to us?</li>

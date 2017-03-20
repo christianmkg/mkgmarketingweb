@@ -23,7 +23,7 @@ Dear <a title="JetSetter" href="http://jetsetter.com" target="_blank">JetSetter<
 
 I would just like to commend you for the awesomeness that is your digital marketing, which features a heavy does of <strong>personalization marketing</strong>.
 
-Not only did you deliver me a re-targeting ad on Facebook after I visited your website, but it was personalized with a hotel that I had <em>JUST looked at</em>.Â  I'm impressed.
+Not only did you deliver me a re-targeting ad on Facebook after I visited your website, but it was personalized with a hotel that I had <em>JUST looked at</em>.  I'm impressed.
 
 On top of the ad being personalized to my browsing tastes, you accomplished a lot in just 90 characters.
 
@@ -33,7 +33,7 @@ In three steps, let's break down the anatomy of your Facebook ad:
 <ol>
 	<li><strong>Title:</strong> Your Company Name - A good start as I've already been to your site so now I recognize who is talking to me</li>
 	<li><strong>Image:</strong> Picture of the hotel I was looking at - A little busy for a thumbnail image, but I get the sense of ambiance</li>
-	<li><strong>Body:</strong> Name of the hotel to remind me what I looked at ... <em>check</em>.Â  Price of the hotel, <em>check</em>. Sense of urgency, <em>check</em>.</li>
+	<li><strong>Body:</strong> Name of the hotel to remind me what I looked at ... <em>check</em>.  Price of the hotel, <em>check</em>. Sense of urgency, <em>check</em>.</li>
 </ol>
 I clicked on the ad to make sure your personalization followed through to the website, and it did! You took me right to the Hudson Hotel landing page of your website.
 

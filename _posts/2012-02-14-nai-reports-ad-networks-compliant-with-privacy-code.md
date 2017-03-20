@@ -6,7 +6,7 @@ layout: post
 ---
 With Valentines Day upon us, men and women alike are probably wondering why they're receiving ads for flowers.com and 'making that special someone happy on this special day'.
 
-This is called Online Behavioral Advertising (OBA).Â For example, if you visit flowers.com and, after navigating off the site to somewhere else on the internet, you are served an advertisement for flowers.com, you have been targeted based on your past browsing behaviors.
+This is called Online Behavioral Advertising (OBA). For example, if you visit flowers.com and, after navigating off the site to somewhere else on the internet, you are served an advertisement for flowers.com, you have been targeted based on your past browsing behaviors.
 <h1><em>Compliance</em></h1>
 Just in time for this Valentines Day, the National Advertising Initiative (NAI) conducted a study amongst ad networks to ensure they were up to date on all OBA rules and regulations.
 <h2><em>According to the NAI's annual report, a new record 60 ad networks were in compliance with current OBA regulations.</em></h2>

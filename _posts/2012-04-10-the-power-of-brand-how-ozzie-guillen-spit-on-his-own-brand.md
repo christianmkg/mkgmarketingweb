@@ -13,7 +13,7 @@ views:
 ---
 <img class="alignleft  wp-image-1045" title="mlb_u_guillen1x_300" src="http://mkgmediagroup.com/wp-content/uploads/2012/04/mlb_u_guillen1x_300.jpeg" alt="ozzie guillen miami marlins fidel castro" width="240" height="240" />These were the words that Ozzie Guillen, manager of the Miami Marlins professional baseball team, spoken in a Spanish-language interview released earlier this week.
 
-<em>"I respect Fidel Castro," Guillen said in the <a href="http://news.blogs.cnn.com/2012/04/10/miami-marlins-suspend-manager-guillen-for-five-games/comment-page-2/" target="_blank">article in TimeÂ Magazine</a>. "You know why? A lot of people have wanted to kill Fidel Castro for the last 60 years, but that son of a bitch is still there."</em>
+<em>"I respect Fidel Castro," Guillen said in the <a href="http://news.blogs.cnn.com/2012/04/10/miami-marlins-suspend-manager-guillen-for-five-games/comment-page-2/" target="_blank">article in Time Magazine</a>. "You know why? A lot of people have wanted to kill Fidel Castro for the last 60 years, but that son of a bitch is still there."</em>
 
 These words have set off a firestorm in the Latin community as well as the sporting world as a whole.
 
@@ -29,7 +29,7 @@ Ozzie Guillen has always been a popular figure in the Latin community, as they l
 
 When Guillen uttered the Fidel Castro comments, he hurt the relationship that he had built with the Latin community (his 'current customers').
 
-This example reminds me of a Guy Kawasaki quote from <em><a href="http://www.guykawasaki.com/rules-for-revolutionaries/" target="_blank">Rules for Revolutionaries,</a> </em>where he advises businesses to only listen to current customer advice (as they'veÂ alreadyÂ purchased your product) instead of changing for prospective clients who have yet to purchase.
+This example reminds me of a Guy Kawasaki quote from <em><a href="http://www.guykawasaki.com/rules-for-revolutionaries/" target="_blank">Rules for Revolutionaries,</a> </em>where he advises businesses to only listen to current customer advice (as they've already purchased your product) instead of changing for prospective clients who have yet to purchase.
 <h2><em>Toe The Line -- But Tread Carefully</em></h2>
 As agencies, we always push our clients by bringing new &amp; exciting opportunities for them to present their brand to the world.
 
